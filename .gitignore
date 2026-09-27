@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
+
+# raw scrape cache — large, regenerable
+data/raw/*
+!data/raw/.gitkeep
