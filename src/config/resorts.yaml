@@ -1,0 +1,40 @@
+laax:
+  name: Laax
+  url: https://shop.laax.com/en/home
+  cantons: [GR]
+  layout: modal
+
+titlis:
+  name: Titlis
+  url: https://shop.titlis.ch/en/products/skitickets
+  cantons: [OW]
+  pre_steps:
+    - click_text: "Multi-day tickets"
+    - click_text: "Day & hourly tickets"
+  layout: inline
+
+nendaz:
+  name: Nendaz-Veysonnaz
+  url: https://shop.nendazveysonnaz.ch/en/home
+  cantons: [VS]
+  pre_steps:
+    - click_regex: "1-15 day 4 Vall.es Skipasses"
+  layout: unknown
+
+lauchernalp:
+  name: Lauchernalp
+  url: https://shop.lauchernalp.ch/en/skitickets
+  cantons: [VS]
+  layout: unknown
+
+soerenberg:
+  name: Sörenberg
+  url: https://shop.soerenberg.ch/en/winter
+  cantons: [LU]
+  layout: modal
+
+chaeserrugg:
+  name: Chäserrugg
+  url: https://shop.chaeserrugg.ch/en/skifahren
+  cantons: [SG]
+  layout: modal

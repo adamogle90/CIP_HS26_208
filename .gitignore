@@ -8,6 +8,8 @@ venv/
 .idea/
 .vscode/
 
-# raw scrape cache — large, regenerable
+# raw scrape output — the dataset, committed
 data/raw/*
 !data/raw/.gitkeep
+!data/raw/*.json
+!data/raw/*.csv
