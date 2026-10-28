@@ -1,0 +1,1413 @@
+canton,season,holiday,start_date,end_date,n_days,name_en,subdivisions,is_approximate,source,holiday_id
+AG,2019,christmas,2019-12-23,2020-01-03,12,Winter holidays,AG,False,openholidays,3d43a0a7-6040-4289-84bd-191cb7f52264
+AG,2019,spring,2020-04-06,2020-04-17,12,Spring holidays,AG,False,openholidays,3c9a9134-f2c8-4189-bdbb-dc72988ad266
+AG,2019,summer,2020-07-20,2020-08-07,19,Summer holidays,AG,False,openholidays,0c0d8563-57a7-4ba7-bc46-03435365380a
+AG,2020,autumn,2020-09-28,2020-10-09,12,Autumn holidays,AG,False,openholidays,4fccb5a7-80bf-4966-8b53-7c060ab585d3
+AG,2020,christmas,2020-12-21,2020-12-31,11,Winter holidays,AG,False,openholidays,073d126e-54c9-4c82-9cae-a12639885950
+AG,2020,spring,2021-04-12,2021-04-23,12,Spring holidays,AG,False,openholidays,9cb5da17-b2be-4531-8557-327a1aa713b5
+AG,2020,summer,2021-07-19,2021-08-06,19,Summer holidays,AG,False,openholidays,056a414e-74fe-4511-a53b-ac6621273898
+AG,2021,autumn,2021-10-04,2021-10-15,12,Autumn holidays,AG,False,openholidays,1e382946-932b-4b46-a793-5fe80cdeb21e
+AG,2021,christmas,2021-12-24,2022-01-07,15,Winter holidays,AG,False,openholidays,2528c2aa-e26f-47a6-9c8d-f884f2af569c
+AG,2021,spring,2022-04-11,2022-04-21,11,Spring holidays,AG,False,openholidays,f4ddcc59-0e1a-4666-a8c3-5060abb889a7
+AG,2021,summer,2022-07-18,2022-08-05,19,Summer holidays,AG,False,openholidays,f82f4492-e318-4129-a0bf-3700285f19ca
+AG,2022,autumn,2022-10-03,2022-10-14,12,Autumn holidays,AG,False,openholidays,7505d913-149e-4aa1-937d-16b0bc17b06f
+AG,2022,christmas,2022-12-27,2023-01-06,11,Winter holidays,AG,False,openholidays,03af38a8-48ac-46d7-be87-869dd7476b37
+AG,2022,spring,2023-04-11,2023-04-21,11,Spring holidays,AG,False,openholidays,c24af090-52ca-4e4a-a57a-a174aac77ab3
+AG,2022,summer,2023-07-24,2023-08-11,19,Summer holidays,AG,False,openholidays,c0248854-008b-4672-b38d-588ea10130a5
+AG,2023,autumn,2023-10-02,2023-10-13,12,Autumn holidays,AG,False,openholidays,516349e8-f4fd-4cad-a3cb-55d62b09ce53
+AG,2023,christmas,2023-12-27,2024-01-05,10,Winter holidays,AG,False,openholidays,e0d978b4-022c-4b39-816a-fe14724843b6
+AG,2023,spring,2024-04-08,2024-04-19,12,Spring holidays,AG,False,openholidays,813574b3-bfbf-4ed6-91f3-8d3b1fcf62c4
+AG,2023,summer,2024-07-22,2024-08-09,19,Summer holidays,AG,False,openholidays,c4b3cdf8-c42f-4cc6-a316-7c2b19923239
+AG,2024,autumn,2024-09-30,2024-10-11,12,Autumn holidays,AG,False,openholidays,d0538ca0-aef2-4b61-ac9d-8f4ab9aee456
+AG,2024,christmas,2024-12-23,2025-01-03,12,Winter holidays,AG,False,openholidays,54934e67-98c5-4f9c-96c0-e36dae9f7cc9
+AG,2024,spring,2025-04-07,2025-04-18,12,Spring holidays,AG,False,openholidays,ac1f5b70-30c7-436e-bdf7-bd4db2706cbf
+AG,2024,summer,2025-07-21,2025-08-08,19,Summer holidays,AG,False,openholidays,cc46f4a7-e945-4049-b819-ad55729ca1b0
+AG,2025,autumn,2025-09-29,2025-10-10,12,Autumn holidays,AG,False,openholidays,f4581909-e352-47ac-a671-af4fa43a3728
+AG,2025,christmas,2025-12-22,2026-01-02,12,Winter holidays,AG,False,openholidays,d83fd1e4-cd52-4f00-a37b-33868322a055
+AG,2025,spring,2026-04-07,2026-04-17,11,Spring holidays,AG,False,openholidays,f4dfdf40-b8a7-4c59-a184-9226796b62df
+AG,2025,summer,2026-07-20,2026-08-07,19,Summer holidays,AG,False,openholidays,e0626a93-ee79-42fb-94a8-cb8e14780d07
+AG,2026,autumn,2026-09-28,2026-10-09,12,Autumn holidays,AG,False,openholidays,bcc050dc-4838-4263-85b8-f0a14a09e7dc
+AG,2026,christmas,2026-12-21,2026-12-31,11,Winter holidays,AG,False,openholidays,4a4698fb-3688-4fc9-aa5d-3f4f15431c1f
+AG,2026,spring,2027-04-12,2027-04-23,12,Spring holidays,AG,False,openholidays,deac2b83-3923-4b52-b3bc-0b0f0fdb2fd6
+AG,2026,summer,2027-07-19,2027-08-06,19,Summer holidays,AG,False,openholidays,53730cd1-38d0-4926-b647-02bb3d14a831
+AG,2027,autumn,2027-10-04,2027-10-15,12,Autumn holidays,AG,False,openholidays,0be968a3-0610-4dce-a539-9a28dca617d0
+AG,2027,christmas,2027-12-24,2028-01-07,15,Winter holidays,AG,False,openholidays,27c4363d-0486-4e15-9445-1f35c6614934
+AG,2027,spring,2028-04-10,2028-04-21,12,Spring holidays,AG,False,openholidays,95064ab9-ac90-429c-88d1-a601b3557f49
+AG,2027,summer,2028-07-24,2028-08-11,19,Summer holidays,AG,False,openholidays,eab4e016-d933-4f9d-b6b0-302f5c297fd9
+AG,2028,autumn,2028-10-02,2028-10-13,12,Autumn holidays,AG,False,openholidays,dc95b14e-f2e4-42ce-b3d9-42582e1f3402
+AG,2028,christmas,2028-12-27,2029-01-05,10,Winter holidays,AG,False,openholidays,84a859f1-2db0-4187-9025-fef1fa75c4d3
+AG,2028,spring,2029-04-09,2029-04-20,12,Spring holidays,AG,False,openholidays,df33fc45-b0ac-4130-80fd-bb601159ca7e
+AG,2028,summer,2029-07-23,2029-08-10,19,Summer holidays,AG,False,openholidays,1ab2fa3d-0000-4557-91eb-31660587091f
+AG,2029,autumn,2029-10-01,2029-10-12,12,Autumn holidays,AG,False,openholidays,6248a4de-e3db-4af1-a267-9041f6478a81
+AG,2029,christmas,2029-12-24,2030-01-04,12,Winter holidays,AG,False,openholidays,6b4dc68f-c2ed-45a8-a9a4-97975e9da774
+AG,2029,spring,2030-04-06,2030-04-18,13,Spring holidays,AG,False,openholidays,06b250eb-2252-4136-b69c-896b2f500448
+AG,2029,summer,2030-07-22,2030-08-09,19,Summer holidays,AG,False,openholidays,c6348193-8f42-4697-88c8-9d9142783e49
+AG,2030,autumn,2030-09-30,2030-10-11,12,Autumn holidays,AG,False,openholidays,7f227a74-d593-43bc-ab4f-149e3dca0254
+AG,2030,christmas,2030-12-23,2031-01-03,12,Winter holidays,AG,False,openholidays,95009f60-b51e-4fe0-ae8f-2ee8e561d68a
+AG,2030,spring,2031-04-07,2031-04-18,12,Spring holidays,AG,False,openholidays,49121744-3edd-45ae-b6e7-8dd4b06564ff
+AG,2030,summer,2031-07-21,2031-08-08,19,Summer holidays,AG,False,openholidays,62a0aecb-6c25-429c-890c-6269113e183d
+AG,2031,autumn,2031-09-29,2031-10-10,12,Autumn holidays,AG,False,openholidays,784910c2-2104-40e9-afb6-2bc85113f313
+AG,2031,christmas,2031-12-22,2031-12-31,10,Winter holidays,AG,False,openholidays,1c0e16f4-3e9a-487f-bace-7411736a2b82
+AG,2031,spring,2032-04-05,2032-04-16,12,Spring holidays,AG,False,openholidays,2cc77841-a715-4b67-9368-7e85473914ef
+AG,2031,summer,2032-07-19,2032-08-06,19,Summer holidays,AG,False,openholidays,fcb1aaa7-2703-4f8b-85d2-d85cb377413f
+AG,2032,autumn,2032-09-27,2032-10-08,12,Autumn holidays,AG,False,openholidays,6286392f-dd23-4ece-9d65-a788de91c285
+AG,2032,christmas,2032-12-24,2033-01-07,15,Winter holidays,AG,False,openholidays,e7f0b9fa-3725-474b-baec-371c7fab79f7
+AG,2032,spring,2033-04-11,2033-04-22,12,Spring holidays,AG,False,openholidays,e47bf3cd-bf69-4bd0-a969-0a405bf2f4a1
+AG,2032,summer,2033-07-18,2033-08-05,19,Summer holidays,AG,False,openholidays,db6ab655-e0b3-48dd-9ee8-496e304d961b
+AG,2033,autumn,2033-10-03,2033-10-14,12,Autumn holidays,AG,False,openholidays,029744dc-bb65-4d50-88d5-325dbba6a8fc
+AG,2033,christmas,2033-12-27,2034-01-06,11,Winter holidays,AG,False,openholidays,40736f89-7891-4209-8073-1ee1f8bb8453
+AG,2033,spring,2034-04-11,2034-04-21,11,Spring holidays,AG,False,openholidays,daee0a74-b2f3-4c2a-b4a0-0c1209e0e948
+AG,2033,summer,2034-07-24,2034-08-11,19,Summer holidays,AG,False,openholidays,e334569a-158a-47cf-a5d5-6bc05e1fcc48
+AG,2034,autumn,2034-10-02,2034-10-13,12,Autumn holidays,AG,False,openholidays,4b71c531-0ecd-4a82-b095-69b500b64cd0
+AG,2034,christmas,2034-12-27,2035-01-05,10,Winter holidays,AG,False,openholidays,133f2259-a694-415c-94ac-2e644ca37ac8
+AG,2034,spring,2035-04-09,2035-04-20,12,Spring holidays,AG,False,openholidays,75be62ec-0bd5-4fed-9c11-ec2c25d43d5b
+AG,2034,summer,2035-07-23,2035-08-10,19,Summer holidays,AG,False,openholidays,6509e9ce-bd52-49b8-83e4-6adc9dbaa717
+AI,2019,winter,2020-01-25,2020-02-02,9,Sports holidays,AI-OB,False,openholidays,3d9597c1-1775-49c2-8f60-3ef17ef1ea66
+AI,2019,winter,2020-02-21,2020-03-01,10,Sports holidays,"AI-AP,AI-GO,AI-SH,AI-SR",True,openholidays,65144fb0-5f4d-42f8-b656-018093434eb7
+AI,2019,spring,2020-04-04,2020-04-19,16,Spring holidays,AI,False,openholidays,94000dac-2c28-4fc5-a9af-762e259b0202
+AI,2019,summer,2020-07-04,2020-08-16,44,Summer holidays,"AI-AP,AI-GO,AI-SH,AI-SR",True,openholidays,98789744-6b32-4108-b727-59bcb0c0e783
+AI,2019,summer,2020-07-04,2020-08-09,37,Summer holidays,AI-OB,False,openholidays,96675efd-4186-4028-a30f-ccac3ad4e4a6
+AI,2020,autumn,2020-09-26,2020-10-18,23,Autumn holidays,AI-OB,False,openholidays,43c7d098-57f3-4b6f-9cd2-337f6e32619b
+AI,2020,autumn,2020-10-03,2020-10-18,16,Autumn holidays,"AI-AP,AI-GO,AI-SH,AI-SR",True,openholidays,d5e0407a-12d7-4062-9d5f-2ef1355b2040
+AI,2020,christmas,2020-12-19,2021-01-03,16,Christmas holidays,AI,False,openholidays,7e5abd2d-2638-4fb1-864a-441722b107d4
+AI,2020,winter,2021-01-30,2021-02-07,9,Sports holidays,AI-OB,False,openholidays,2e485458-344e-4185-ada5-426744089ce6
+AI,2020,winter,2021-02-12,2021-02-21,10,Sports holidays,"AI-AP,AI-GO,AI-SH,AI-SR",True,openholidays,78f10b19-4a15-4f1f-87b6-0d38248b3537
+AI,2020,spring,2021-04-10,2021-04-25,16,Spring holidays,AI,False,openholidays,6f8e0eee-229b-46a6-92af-439617f20f2c
+AI,2020,summer,2021-07-03,2021-08-15,44,Summer holidays,"AI-AP,AI-GO,AI-SH,AI-SR",True,openholidays,6bd5e6bc-7175-4cb1-b5ad-a0b6860cd0e8
+AI,2020,summer,2021-07-10,2021-08-15,37,Summer holidays,AI-OB,False,openholidays,f80a4703-d946-46f4-8280-50e9df5c93f5
+AI,2021,autumn,2021-10-02,2021-10-24,23,Autumn holidays,AI-OB,False,openholidays,5beebaaa-56ea-4590-b75b-5a64c533a286
+AI,2021,autumn,2021-10-09,2021-10-24,16,Autumn holidays,"AI-AP,AI-GO,AI-SH,AI-SR",True,openholidays,325d8ccf-b3d2-4400-8246-3cca83f5fd40
+AI,2021,christmas,2021-12-18,2022-01-02,16,Christmas holidays,AI,False,openholidays,0d7d16cc-2686-463c-b62a-9c04055383af
+AI,2021,winter,2022-01-29,2022-02-06,9,Sports holidays,AI-OB,False,openholidays,7e45a5b2-2aff-4ac0-827e-dca4ec93a331
+AI,2021,winter,2022-02-25,2022-03-06,10,Sports holidays,"AI-AP,AI-GO,AI-SH,AI-SR",True,openholidays,bc586129-43ce-493b-b786-d6452c9ff0bc
+AI,2021,spring,2022-04-09,2022-04-24,16,Spring holidays,AI,False,openholidays,5fa97efd-2e73-43cf-898d-ed063974a42b
+AI,2021,summer,2022-07-02,2022-08-15,45,Summer holidays,"AI-AP,AI-GO,AI-SH,AI-SR",True,openholidays,5807b455-7b0a-47e1-8fe1-8afe316ddec0
+AI,2021,summer,2022-07-09,2022-08-15,38,Summer holidays,AI-OB,False,openholidays,6b1c67af-a34b-40b3-a118-44b5aceb0592
+AI,2022,autumn,2022-10-01,2022-10-23,23,Autumn holidays,AI-OB,False,openholidays,46fe55ff-8255-4e41-94cb-b64ce7b14ea2
+AI,2022,autumn,2022-10-08,2022-10-23,16,Autumn holidays,"AI-AP,AI-GO,AI-SH,AI-SR",True,openholidays,919500b6-322d-4e3a-9e43-ff7a6b150e99
+AI,2022,christmas,2022-12-24,2023-01-08,16,Christmas holidays,AI,False,openholidays,4491bdee-cec5-47dd-8136-953aab29a165
+AI,2022,winter,2023-01-28,2023-02-05,9,Sports holidays,AI-OB,False,openholidays,16e95ff7-5951-49cc-85f6-66803b32a0e3
+AI,2022,winter,2023-02-17,2023-02-26,10,Sports holidays,"AI-AP,AI-GO,AI-SH,AI-SR",True,openholidays,794b5c64-633f-456f-bc01-f2375783ebc0
+AI,2022,spring,2023-04-07,2023-04-23,17,Spring holidays,AI,False,openholidays,20d84ebe-b36b-4dc9-96db-769359428e91
+AI,2022,summer,2023-07-01,2023-08-13,44,Summer holidays,"AI-AP,AI-GO,AI-SH,AI-SR",True,openholidays,c01988b6-6956-4862-8255-2afdef621e58
+AI,2022,summer,2023-07-08,2023-08-13,37,Summer holidays,AI-OB,False,openholidays,8fb499b2-e605-4f05-a78e-1115501019ec
+AI,2023,autumn,2023-09-30,2023-10-22,23,Autumn holidays,AI-OB,False,openholidays,e66e37d7-a7af-4984-8a94-6165876635b2
+AI,2023,autumn,2023-10-07,2023-10-22,16,Autumn holidays,"AI-AP,AI-GO,AI-SH,AI-SR",True,openholidays,5c408ca7-3aab-4e3d-8fbc-28dcd0b8b7a7
+AI,2023,christmas,2023-12-23,2024-01-07,16,Christmas holidays,AI,False,openholidays,fad7fb2d-3a1f-4504-84a4-1f8f030c817c
+AI,2023,winter,2024-01-27,2024-02-04,9,Sports holidays,AI-OB,False,openholidays,0ab6efc5-3e7a-4104-bed7-4827dd145969
+AI,2023,winter,2024-02-09,2024-02-18,10,Sports holidays,"AI-AP,AI-GO,AI-SH,AI-SR",True,openholidays,afd27e93-d643-431f-9117-1ab87ffa0e3c
+AI,2023,spring,2024-04-06,2024-04-21,16,Spring holidays,AI,False,openholidays,11d97b75-2ecb-4c3e-8811-02f0141acd6f
+AI,2023,summer,2024-06-29,2024-08-11,44,Summer holidays,"AI-AP,AI-GO,AI-SH,AI-SR",True,openholidays,6b663ec2-19cc-4ea4-837a-988297860549
+AI,2023,summer,2024-07-06,2024-08-11,37,Summer holidays,AI-OB,False,openholidays,d9664004-3d23-4d27-bb39-219d382a5ff7
+AI,2024,autumn,2024-09-28,2024-10-20,23,Autumn holidays,AI-OB,False,openholidays,d49ca8eb-9c9d-4a03-a0e7-38d474f72dda
+AI,2024,autumn,2024-10-05,2024-10-20,16,Autumn holidays,"AI-AP,AI-GO,AI-SH,AI-SR",True,openholidays,e2cb4aaf-6168-46b1-a002-f0358b88b054
+AI,2024,christmas,2024-12-21,2025-01-05,16,Christmas holidays,AI,False,openholidays,c25680c9-88d5-42da-a512-c9e9c6e3d07b
+AI,2024,winter,2025-02-22,2025-02-28,7,Sports holidays,"AI-AP,AI-GO,AI-SH,AI-SR",True,openholidays,b5d32926-96b3-466a-be03-d74a66380a4c
+AI,2024,spring,2025-04-05,2025-04-20,16,Spring holidays,AI,False,openholidays,6c5c1ccd-b85d-42b4-b4b1-fa9d2b27e7c2
+AI,2024,summer,2025-07-05,2025-08-17,44,Summer holidays,"AI-AP,AI-GO,AI-SH,AI-SR",True,openholidays,d4fa3cfb-7859-4c13-a001-47f82bb7eb3a
+AI,2025,autumn,2025-10-04,2025-10-19,16,Autumn holidays,AI-OB,False,openholidays,11bd9c27-1238-4582-b5d9-43d0da63640e
+AI,2025,autumn,2025-10-04,2025-10-19,16,Autumn holidays,"AI-AP,AI-GO,AI-SH,AI-SR",True,openholidays,549c7c0f-9be3-4934-a7cc-4343a3140cef
+AI,2025,christmas,2025-12-20,2026-01-04,16,Christmas holidays,AI,False,openholidays,36e81c83-e559-4866-85ba-3fb670fdf88a
+AI,2025,winter,2026-01-24,2026-02-01,9,Sports holidays,AI-OB,False,openholidays,2c2952c0-395a-4b09-9d87-8a74eef7e4e9
+AI,2025,winter,2026-02-13,2026-02-22,10,Sports holidays,"AI-AP,AI-GO,AI-SH,AI-SR",True,openholidays,b7106fe1-f4c9-4146-8c99-b86a1b8411a4
+AI,2025,spring,2026-04-03,2026-04-19,17,Spring holidays,AI,False,openholidays,01fadc62-f9aa-4c16-a8e7-16765871005d
+AI,2025,summer,2026-07-04,2026-08-16,44,Summer holidays,"AI-AP,AI-GO,AI-SH,AI-SR",True,openholidays,947a552b-a42f-4ed9-9efa-a11674bf14f1
+AI,2025,summer,2026-07-04,2026-08-09,37,Summer holidays,AI-OB,False,openholidays,c0b1d6f2-3a4e-4f5c-8d7b-9e0f6a1c3b2c
+AI,2026,autumn,2026-09-26,2026-10-18,23,Autumn holidays,AI-OB,False,openholidays,55397222-5285-44e4-b6d5-cc4839db5039
+AI,2026,autumn,2026-10-03,2026-10-18,16,Autumn holidays,"AI-AP,AI-GO,AI-SH,AI-SR",True,openholidays,e5c74129-3da9-4825-b088-86a36d8aea9e
+AI,2026,christmas,2026-12-19,2027-01-03,16,Christmas holidays,AI,False,openholidays,a1749241-f4cd-4a10-824a-bd13c8ffeffb
+AI,2026,winter,2027-01-30,2027-02-07,9,Sports holidays,AI-OB,False,openholidays,5a45d372-2f76-44d1-b48b-3764d6106b7e
+AI,2026,winter,2027-02-05,2027-02-14,10,Sports holidays,"AI-AP,AI-GO,AI-SH,AI-SR",True,openholidays,cb383a32-7cc1-440a-af35-abf433254f09
+AI,2026,spring,2027-04-10,2027-04-25,16,Spring holidays,AI,False,openholidays,431dbe98-d17b-4f57-9c7f-bc11bd1fc7d8
+AI,2026,summer,2027-07-03,2027-08-15,44,Summer holidays,"AI-AP,AI-GO,AI-SH,AI-SR",True,openholidays,3dbe5d58-3585-4a1d-b3ce-2bf5e8813229
+AI,2026,summer,2027-07-10,2027-08-15,37,Summer holidays,AI-OB,False,openholidays,116a317d-e0ee-458a-941d-22739183817e
+AI,2027,autumn,2027-10-02,2027-10-24,23,Autumn holidays,AI-OB,False,openholidays,d7958cea-a7c1-45b7-828b-832dfec6de9f
+AI,2027,autumn,2027-10-02,2027-10-17,16,Autumn holidays,"AI-AP,AI-GO,AI-SH,AI-SR",True,openholidays,f02b1c24-cef5-43ee-9371-758123a96e69
+AI,2027,christmas,2027-12-18,2028-01-02,16,Christmas holidays,AI,False,openholidays,307d9775-cc15-4d91-937e-43c3a9a0550e
+AI,2027,spring,2028-04-08,2028-04-23,16,Spring holidays,AI,False,openholidays,b3d7b4c2-ae4e-4200-9699-0b9e31ac77b3
+AI,2027,summer,2028-07-01,2028-08-13,44,Summer holidays,"AI-AP,AI-GO,AI-SH,AI-SR",True,openholidays,8a8c62da-8c65-4662-9fa0-cf582012f3ec
+AI,2027,summer,2028-07-08,2028-08-13,37,Summer holidays,AI-OB,False,openholidays,2cc8dbb2-b0cc-4c61-800c-12ec705f6b39
+AR,2019,spring,2020-04-06,2020-04-17,12,Spring holidays,AR,False,openholidays,84a45b2f-e442-49ef-a68c-12ce0f73c0c2
+AR,2019,summer,2020-07-06,2020-08-07,33,Summer holidays,AR,False,openholidays,11829f0f-045e-4a8a-925b-634d3eafac59
+AR,2020,autumn,2020-10-05,2020-10-16,12,Autumn holidays,AR,False,openholidays,16d1f9e7-e1ab-4d47-801e-2f580493bd6d
+AR,2020,christmas,2020-12-21,2021-01-01,12,Christmas holidays,AR,False,openholidays,05393760-6031-496f-9c22-952c96b26a09
+AR,2020,spring,2021-04-12,2021-04-23,12,Spring holidays,AR,False,openholidays,639aa652-e68b-4577-85e2-be16887cccf2
+AR,2020,summer,2021-07-12,2021-08-15,35,Summer holidays,AR,False,openholidays,ad9f2ad8-3fe2-4ef6-92ab-bb6cbbc9f8a3
+AR,2021,autumn,2021-10-11,2021-10-24,14,Autumn holidays,AR,False,openholidays,6f2d3e71-b8fd-4e61-9d63-c9daa3c71a1d
+AR,2021,christmas,2021-12-26,2021-12-31,6,Christmas holidays,AR,False,openholidays,92880576-f834-41af-8390-2e43624dc061
+AR,2021,spring,2022-04-11,2022-04-22,12,Spring holidays,AR,False,openholidays,20845c8a-b06e-4ff6-a5cc-2dc7e0934551
+AR,2021,summer,2022-07-11,2022-08-12,33,Summer holidays,AR,False,openholidays,a13fef56-d28c-4809-9b41-75dd44b4be21
+AR,2022,autumn,2022-10-20,2022-10-21,2,Autumn holidays,AR,False,openholidays,697f078c-7e7c-4cba-bf93-a9dd4350b595
+AR,2022,christmas,2022-12-26,2023-01-06,12,Christmas holidays,AR,False,openholidays,fd826afe-9ba7-4ea4-a8b9-0e4477d83d02
+AR,2022,spring,2023-04-10,2023-04-21,12,Spring holidays,AR,False,openholidays,40f8dc4a-be87-4ac7-a4b5-2727ae97d34e
+AR,2022,summer,2023-07-10,2023-08-11,33,Summer holidays,AR,False,openholidays,9e14bd73-61c7-41fe-98d8-127324d1ad74
+AR,2023,autumn,2023-10-09,2023-10-20,12,Autumn holidays,AR,False,openholidays,34ec8ae0-12bd-4819-a52e-84591e7ef0c3
+AR,2023,christmas,2023-12-25,2024-01-05,12,Christmas holidays,AR,False,openholidays,f5dab56a-f650-4533-94e2-6fd92a1f09d1
+AR,2023,spring,2024-04-08,2024-04-19,12,Spring holidays,AR,False,openholidays,6737afee-a0db-4e53-86b7-befd184b1ec7
+AR,2023,summer,2024-07-08,2024-08-09,33,Summer holidays,AR,False,openholidays,192f48e6-7efb-4d93-84d9-72e4846da28c
+AR,2024,autumn,2024-10-07,2024-10-18,12,Autumn holidays,AR,False,openholidays,c50c770f-3ecf-45ab-b28b-8e9b560a038e
+AR,2024,christmas,2024-12-23,2025-01-03,12,Christmas holidays,AR,False,openholidays,41a4ebec-2535-4436-8291-3ffb082c1320
+AR,2024,spring,2025-04-07,2025-04-18,12,Spring holidays,AR,False,openholidays,b9e6f4b0-9082-44d0-9926-263b62e4445f
+AR,2024,summer,2025-07-07,2025-08-08,33,Summer holidays,AR,False,openholidays,9fee9a5b-20da-42c7-8cb8-df42636a44de
+AR,2025,autumn,2025-10-06,2025-10-17,12,Autumn holidays,AR,False,openholidays,0757463e-f7b2-41ee-896b-4eebd2700402
+AR,2025,christmas,2025-12-22,2026-01-02,12,Christmas holidays,AR,False,openholidays,2b7bb04e-5799-4a64-a13b-7bc30ffd2cdf
+AR,2025,spring,2026-04-03,2026-04-17,15,Spring holidays,AR,False,openholidays,667012be-3237-4ac4-bc3d-4b4348cfc1fa
+AR,2025,summer,2026-07-06,2026-08-07,33,Summer holidays,AR,False,openholidays,e3c313f5-8b6b-44cb-9463-f4761cbfba91
+AR,2026,autumn,2026-10-05,2026-10-16,12,Autumn holidays,AR,False,openholidays,414df9a9-d0fb-4b11-9d1c-221747b0c876
+AR,2026,christmas,2026-12-21,2027-01-01,12,Christmas holidays,AR,False,openholidays,73c0405f-6e58-47ea-acc3-c499c4f9aeb0
+AR,2026,spring,2027-04-12,2027-04-23,12,Spring holidays,AR,False,openholidays,f6b62e05-9e08-4f43-b93e-49bbb5e8eae2
+AR,2026,summer,2027-07-12,2027-08-13,33,Summer holidays,AR,False,openholidays,9f5d7cb8-a258-44f7-81b9-b48d28d48eb5
+AR,2027,autumn,2027-10-11,2027-10-22,12,Autumn holidays,AR,False,openholidays,c6acf7d3-6c7a-47a1-b35b-287d2967f32b
+AR,2027,christmas,2027-12-20,2027-12-31,12,Christmas holidays,AR,False,openholidays,3ea1cc53-8b8d-4a8a-90c8-ba1ecb82e899
+AR,2027,spring,2028-04-10,2028-04-21,12,Spring holidays,AR,False,openholidays,07ba3418-8913-4fd3-9704-58dff6e8c63f
+AR,2027,summer,2028-07-10,2028-08-11,33,Summer holidays,AR,False,openholidays,a01ebe7c-6dc9-4548-80fc-b2b31baaad93
+BE,2019,winter,2020-02-01,2020-02-09,9,February week,BE,False,openholidays,6636899b-70d2-40b4-9fc8-91d62be91450
+BE,2019,spring,2020-04-04,2020-04-19,16,Spring holidays,BE,False,openholidays,bc31252d-6977-4f04-a414-561ec274c5c1
+BE,2019,spring,2020-04-10,2020-04-26,17,Spring holidays,BE,False,openholidays,2a512531-0349-49c4-a599-25d56adac85b
+BE,2019,summer,2020-07-04,2020-08-09,37,Summer holidays,BE,False,openholidays,1bdb6edd-1753-4a8e-8904-74c7b85dd6c6
+BE,2019,summer,2020-07-04,2020-08-16,44,Summer holidays,BE,False,openholidays,4a71f285-4f1d-4b0b-9c1b-b20b975432c8
+BE,2020,autumn,2020-09-19,2020-10-11,23,Autumn holidays,BE,False,openholidays,e4f75ada-4286-4577-a6a5-b181666c45d8
+BE,2020,autumn,2020-10-03,2020-10-18,16,Autumn holidays,BE,False,openholidays,b30230ac-7828-482d-b208-58829cb53188
+BE,2020,christmas,2020-12-24,2021-01-10,18,Christmas,BE,False,openholidays,e8eb1c30-59f7-460d-a308-a0281a62643a
+BE,2020,christmas,2020-12-25,2021-01-10,17,Christmas,BE,False,openholidays,db37c336-9b7e-4ba4-bffe-87a383b5fa2c
+BE,2020,winter,2021-02-06,2021-02-14,9,February week,BE,False,openholidays,baf10b30-a69b-4809-9e5d-c70cbb416df9
+BE,2020,spring,2021-04-02,2021-04-18,17,Spring holidays,BE,False,openholidays,269aa2a0-0235-4deb-95ca-4a93491839cb
+BE,2020,spring,2021-04-10,2021-04-25,16,Spring holidays,BE,False,openholidays,a831857e-dfeb-402e-b4b2-6539915e31ef
+BE,2020,summer,2021-07-03,2021-08-15,44,Summer holidays,BE,False,openholidays,ee9bf254-57f3-4a7b-9a2e-6f03e2fd5e93
+BE,2020,summer,2021-07-03,2021-08-15,44,Summer holidays,BE,False,openholidays,d9c251c7-d73e-4004-9be2-dd63168f3fb8
+BE,2021,autumn,2021-09-25,2021-10-17,23,Autumn holidays,BE,False,openholidays,2cad2237-ca6f-4ccd-899b-7a352986fb5a
+BE,2021,autumn,2021-10-11,2021-10-22,12,Autumn holidays,BE,False,openholidays,a44b07be-67b3-4614-a1ac-8a03364bc5a9
+BE,2021,christmas,2021-12-24,2022-01-09,17,Christmas,BE,False,openholidays,e4014ac8-6ae4-48c5-8d6e-d709eae17ab4
+BE,2021,christmas,2021-12-27,2022-01-07,12,Christmas,BE,False,openholidays,ee2082d1-7f48-4a8a-adc3-20413f4a1709
+BE,2021,winter,2022-02-05,2022-02-13,9,February week,BE,False,openholidays,3b8f3d17-f680-4608-a521-af2bbd9ca0b0
+BE,2021,spring,2022-04-09,2022-04-24,16,Spring holidays,BE,False,openholidays,61193acf-8af5-4086-bcb1-deb1c43daeb1
+BE,2021,spring,2022-04-11,2022-04-22,12,Spring holidays,BE,False,openholidays,2cc67123-da86-4bea-ae62-9a097e578859
+BE,2021,summer,2022-07-09,2022-08-14,37,Summer holidays,BE,False,openholidays,9b81bb60-6fba-466c-8cca-c6bcef22de0b
+BE,2021,summer,2022-07-11,2022-08-19,40,Summer holidays,BE,False,openholidays,0d08e7cd-f106-4153-83cf-672f3fc0eaf0
+BE,2022,autumn,2022-09-24,2022-10-16,23,Autumn holidays,BE,False,openholidays,57b4e1ed-9e94-4547-bd97-276171957ad5
+BE,2022,autumn,2022-10-10,2022-10-21,12,Autumn holidays,BE,False,openholidays,2ccdc0bc-6c43-474f-aa41-aeb78b830d66
+BE,2022,christmas,2022-12-24,2023-01-08,16,Christmas,BE,False,openholidays,c4c753c0-92a0-4770-b1e8-4af11b6ae94c
+BE,2022,christmas,2022-12-26,2023-01-06,12,Christmas,BE,False,openholidays,a6b7ac2c-fcfc-49ca-af91-225be544e245
+BE,2022,winter,2023-02-04,2023-02-12,9,February week,BE,False,openholidays,e8fc8ba5-c31f-462a-b5e2-57584a5b1060
+BE,2022,spring,2023-04-07,2023-04-23,17,Spring holidays,BE,False,openholidays,35f73a0a-74fb-4e08-bc89-8184330b7c51
+BE,2022,spring,2023-04-07,2023-04-21,15,Spring holidays,BE,False,openholidays,6a0ff219-fe0b-4884-9518-8b5bf44666f8
+BE,2022,summer,2023-07-08,2023-08-13,37,Summer holidays,BE,False,openholidays,3131f9ae-0a51-4ac1-8264-33ab7119529c
+BE,2022,summer,2023-07-10,2023-08-18,40,Summer holidays,BE,False,openholidays,a3b68305-ec9b-4340-a611-d7e9d6d9b3af
+BE,2023,autumn,2023-09-23,2023-10-15,23,Autumn holidays,BE,False,openholidays,30ea1883-0c66-4a96-a04e-a724d05413f5
+BE,2023,autumn,2023-10-09,2023-10-20,12,Autumn holidays,BE,False,openholidays,7d545735-302f-4372-b9dc-84eeffc34497
+BE,2023,christmas,2023-12-23,2024-01-07,16,Christmas,BE,False,openholidays,900ed459-26f8-4c22-81b0-8ccfb6039758
+BE,2023,christmas,2023-12-25,2024-01-05,12,Christmas,BE,False,openholidays,a33be54a-a946-4bfe-bec6-c2df25865527
+BE,2023,winter,2024-02-03,2024-02-11,9,February week,BE,False,openholidays,76f24e19-d546-4dad-9c80-84aa1ba57bea
+BE,2023,spring,2024-03-29,2024-04-12,15,Spring holidays,BE,False,openholidays,9d4f2a33-43fd-4438-a183-75eeebba3448
+BE,2023,spring,2024-04-06,2024-04-21,16,Spring holidays,BE,False,openholidays,324bf367-998b-46c2-baf4-d19073ff78f0
+BE,2023,summer,2024-07-06,2024-08-11,37,Summer holidays,BE,False,openholidays,d6da36bc-5e57-46e1-947b-d370e736ed91
+BE,2023,summer,2024-07-08,2024-08-16,40,Summer holidays,BE,False,openholidays,914eec4b-e86b-416d-bb00-d73903081353
+BE,2024,autumn,2024-09-21,2024-10-13,23,Autumn holidays,BE,False,openholidays,a1dd5775-13bd-453e-94f7-052afeb0777a
+BE,2024,autumn,2024-10-07,2024-10-18,12,Autumn holidays,BE,False,openholidays,c77c6f06-52f2-498c-8104-147689b0d623
+BE,2024,christmas,2024-12-21,2025-01-05,16,Christmas,BE,False,openholidays,04174e70-4777-4c4f-ab84-486e5945179f
+BE,2024,christmas,2024-12-23,2025-01-03,12,Christmas,BE,False,openholidays,8ea59868-6e80-4160-b0a4-b35fa383af29
+BE,2024,winter,2025-02-01,2025-02-09,9,February week,BE,False,openholidays,3d142b84-9f6e-402b-9d7a-9e2a6df95ecf
+BE,2024,spring,2025-04-05,2025-04-21,17,Spring holidays,BE,False,openholidays,b7b2962c-b00a-440d-88a2-14b6836b007b
+BE,2024,spring,2025-04-14,2025-04-25,12,Spring holidays,BE,False,openholidays,03e506d7-6f66-4604-ba2e-55d31f35fcac
+BE,2024,summer,2025-07-05,2025-08-10,37,Summer holidays,BE,False,openholidays,8d2b7016-b38a-4280-8f98-e2d034b49958
+BE,2024,summer,2025-07-07,2025-08-15,40,Summer holidays,BE,False,openholidays,89d5804a-c0de-4641-9b53-46ce964b535b
+BE,2025,autumn,2025-09-20,2025-10-12,23,Autumn holidays,BE,False,openholidays,f908ea4b-e1e8-4bfd-9e9e-9bab0d6c0b57
+BE,2025,autumn,2025-10-06,2025-10-27,22,Autumn holidays,BE,False,openholidays,5a382363-d063-4760-89a7-0f22aa2ccf9e
+BE,2025,christmas,2025-12-20,2026-01-04,16,Christmas,BE,False,openholidays,8b71bf21-6970-4ac8-9a38-44d510dddf4d
+BE,2025,christmas,2025-12-22,2026-01-02,12,Christmas,BE,False,openholidays,8af999ea-84c9-4cc6-8b6f-1537ebd2641a
+BE,2025,winter,2026-01-31,2026-02-08,9,February week,BE,False,openholidays,4d5bb6a3-ae55-4ffa-8fe6-fc48b215b9ca
+BE,2025,spring,2026-04-03,2026-04-19,17,Spring holidays,BE,False,openholidays,fb84d55a-1d57-4a4b-94bb-c0e54e10c83a
+BE,2025,spring,2026-04-03,2026-04-17,15,Spring holidays,BE,False,openholidays,4831b62a-264e-431d-b0af-cc0508dbde89
+BE,2025,summer,2026-07-04,2026-08-09,37,Summer holidays,BE,False,openholidays,0bc37a23-3db4-4ac4-b62c-98fdd27569de
+BE,2025,summer,2026-07-06,2026-08-14,40,Summer holidays,BE,False,openholidays,6cba4a4b-f19e-45ed-9f56-d9d86c927f80
+BE,2026,autumn,2026-09-19,2026-10-11,23,Autumn holidays,BE,False,openholidays,1983c070-8fbb-4d4e-b4cb-4efc76ab6b8c
+BE,2026,autumn,2026-10-05,2026-10-16,12,Autumn holidays,BE,False,openholidays,0822bb06-c50b-473e-952c-abc354794527
+BE,2026,christmas,2026-12-25,2027-01-10,17,Christmas,BE,False,openholidays,2cc64996-2d0f-490a-91aa-06a5ab21827a
+BE,2026,christmas,2026-12-25,2027-01-08,15,Christmas,BE,False,openholidays,e3d5cf22-5043-40da-9922-8b27ef37e22c
+BE,2026,winter,2027-02-06,2027-02-14,9,February week,BE,False,openholidays,21bd61a5-fdf8-4b52-ae9d-590e0c51687a
+BE,2026,spring,2027-03-26,2027-04-09,15,Spring holidays,BE,False,openholidays,b122d3cd-1ce5-436c-a7ca-b56ce2d8b0ec
+BE,2026,spring,2027-04-10,2027-04-25,16,Spring holidays,BE,False,openholidays,e2eef72f-3baa-4695-8000-e64ca199dff2
+BE,2026,summer,2027-07-03,2027-08-15,44,Summer holidays,BE,False,openholidays,f987801b-aea3-4378-9c6b-2654828c0c90
+BE,2026,summer,2027-07-05,2027-08-13,40,Summer holidays,BE,False,openholidays,fc7723a3-7de2-45df-8a09-5c3787b522b8
+BE,2027,autumn,2027-09-25,2027-10-17,23,Autumn holidays,BE,False,openholidays,0cb85ae9-d92c-4320-b061-8306a13c1db2
+BE,2027,autumn,2027-10-04,2027-10-15,12,Autumn holidays,BE,False,openholidays,d09c1d00-10d7-49ad-8322-30100801580e
+BE,2027,christmas,2027-12-25,2028-01-09,16,Christmas,BE,False,openholidays,1c631564-15cd-4ede-9a15-b5b3175e83a3
+BE,2027,christmas,2027-12-27,2028-01-07,12,Christmas,BE,False,openholidays,d057d5b3-b90b-4a9c-8772-8e79f2a9bf94
+BL,2019,christmas,2019-12-21,2020-01-05,16,Christmas holidays,BL,False,openholidays,45348235-88e2-4ba8-a0d6-98217688cd1a
+BL,2019,winter,2020-02-22,2020-03-08,16,Carnival holidays,BL,False,openholidays,18156127-39a5-4092-9116-460842e04741
+BL,2019,spring,2020-04-04,2020-04-19,16,Spring holidays,BL,False,openholidays,fdaf37da-5643-4001-8b51-c76dfd213d85
+BL,2019,bridge,2020-05-22,2020-05-22,1,Ascension Bridge,BL,False,openholidays,1085644c-9090-43ab-afd3-d18372edea2d
+BL,2019,summer,2020-06-27,2020-08-09,44,Summer holidays,BL,False,openholidays,36368b7f-322c-4ce9-b8f8-1d4b1399956a
+BL,2019,summer,2020-07-04,2020-08-09,37,Summer holidays,BL,False,openholidays,67d62882-537a-4c3a-8873-188edf719755
+BL,2020,autumn,2020-09-26,2020-10-09,14,Autumn holidays,BL,False,openholidays,3aaba429-1c74-42e7-af91-dc69714f8ca0
+BL,2020,autumn,2020-09-26,2020-10-16,21,Autumn holidays,BL,False,openholidays,96c509a9-48da-430c-a67e-cfd1e94a37c8
+BL,2020,christmas,2020-12-19,2021-01-03,16,Christmas holidays,BL,False,openholidays,eade1549-4524-49a2-ad7f-e78b268d0b39
+BL,2020,winter,2021-02-13,2021-02-28,16,Carnival holidays,BL,False,openholidays,4f60cc64-6e6d-4359-9eca-c20e71579829
+BL,2020,spring,2021-03-27,2021-04-11,16,Spring holidays,BL,False,openholidays,342b6c82-5f3d-45ba-9d75-ab9874a1520a
+BL,2020,bridge,2021-05-14,2021-05-14,1,Ascension Bridge,BL,False,openholidays,22f0c8c3-8d14-4904-8731-2a5238fe36a5
+BL,2020,summer,2021-07-03,2021-08-15,44,Summer holidays,BL,False,openholidays,c2265998-d398-42ec-a7d1-43100485e846
+BL,2020,summer,2021-07-10,2021-08-15,37,Summer holidays,BL,False,openholidays,fb2958df-cbda-422a-aa69-0e7ba08d54af
+BL,2021,autumn,2021-10-02,2021-10-17,16,Autumn holidays,BL,False,openholidays,325d9de1-ecc1-4bbf-93ed-c22272fe292a
+BL,2021,autumn,2021-10-02,2021-10-24,23,Autumn holidays,BL,False,openholidays,79b9aaaf-9980-4706-8c49-6530203127cb
+BL,2021,christmas,2021-12-18,2022-01-02,16,Christmas holidays,BL,False,openholidays,7ad97cae-0c89-4836-8e04-94ee923fe8a7
+BL,2021,winter,2022-02-26,2022-03-13,16,Carnival holidays,BL,False,openholidays,bebd6704-4a95-454b-a18c-e84ac346518a
+BL,2021,spring,2022-04-09,2022-04-24,16,Spring holidays,BL,False,openholidays,3f5bb860-46a2-43b4-9434-55c5395fae3b
+BL,2021,bridge,2022-05-27,2022-05-27,1,Ascension Bridge,BL,False,openholidays,436d683e-978b-4646-80a3-443a58003ce9
+BL,2021,summer,2022-07-02,2022-08-14,44,Summer holidays,BL,False,openholidays,e5f9084c-91bb-429a-9148-b379b32817c5
+BL,2021,summer,2022-07-09,2022-08-14,37,Summer holidays,BL,False,openholidays,29b34736-42de-4a9e-b1f2-d6051e8aa641
+BL,2022,autumn,2022-10-02,2022-10-16,15,Autumn holidays,BL,False,openholidays,5b7783bf-a756-4966-9343-a49c2b7b0246
+BL,2022,autumn,2022-10-02,2022-10-23,22,Autumn holidays,BL,False,openholidays,a62a94a2-cd2d-4614-8a3d-a84ddb8dc33e
+BL,2022,christmas,2022-12-24,2023-01-08,16,Christmas holidays,BL,False,openholidays,aaeca919-6944-4288-b683-23045b4f2dec
+BL,2022,winter,2023-02-18,2023-03-05,16,Carnival holidays,BL,False,openholidays,4132cd7d-dac5-4a39-8588-d8639a25bc9f
+BL,2022,spring,2023-04-01,2023-04-16,16,Spring holidays,BL,False,openholidays,9cda126c-e467-4cc0-89da-212d6b52058c
+BL,2022,bridge,2023-05-19,2023-05-19,1,Ascension Bridge,BL,False,openholidays,10b44c79-9b1e-416e-bcdf-aa9dd0d9a6ee
+BL,2022,summer,2023-07-02,2023-08-13,43,Summer holidays,BL,False,openholidays,a8be9238-46b6-4839-a2e3-5033c57897ac
+BL,2022,summer,2023-07-09,2023-08-13,36,Summer holidays,BL,False,openholidays,8777786e-f66e-490d-8a45-4bae797e39d5
+BL,2023,autumn,2023-09-30,2023-10-15,16,Autumn holidays,BL,False,openholidays,9a02ca58-d1bd-414c-97b4-1d5de46d3ab5
+BL,2023,autumn,2023-09-30,2023-10-22,23,Autumn holidays,BL,False,openholidays,24b0618b-fbb0-4fff-b5f8-0745d87c9365
+BL,2023,christmas,2023-12-23,2024-01-07,16,Christmas holidays,BL,False,openholidays,d1c48117-13c6-4de3-b886-77d44d6ec976
+BL,2023,winter,2024-02-10,2024-02-25,16,Carnival holidays,BL,False,openholidays,4f80308b-c879-40e4-8304-fc395ddeb226
+BL,2023,spring,2024-03-23,2024-04-07,16,Spring holidays,BL,False,openholidays,0647d49c-f997-4123-89c6-d98416f22c7d
+BL,2023,bridge,2024-05-10,2024-05-10,1,Ascension Bridge,BL,False,openholidays,37eec553-e2a4-44bb-bb9f-6c6ea15bd3a8
+BL,2023,summer,2024-06-29,2024-08-11,44,Summer holidays,BL,False,openholidays,b89debd8-975c-4a83-a062-9cd83933c1dc
+BL,2023,summer,2024-07-06,2024-08-11,37,Summer holidays,BL,False,openholidays,2df89538-b335-43ec-86b1-b354a747e5d1
+BL,2024,autumn,2024-09-28,2024-10-13,16,Autumn holidays,BL,False,openholidays,ad458f62-b9ef-4eae-b3ca-0a4a8b85309c
+BL,2024,autumn,2024-09-28,2024-10-20,23,Autumn holidays,BL,False,openholidays,854e099b-ab08-4a54-8683-8eb1a1bd53e5
+BL,2024,christmas,2024-12-21,2025-01-05,16,Christmas holidays,BL,False,openholidays,e52f1a44-fb25-4fe0-8678-1a163cee279f
+BL,2024,winter,2025-03-01,2025-03-16,16,Carnival holidays,BL,False,openholidays,58d4806f-5963-4d56-9217-901cacbe4248
+BL,2024,spring,2025-04-12,2025-04-27,16,Spring holidays,BL,False,openholidays,d34e765b-b160-4bde-a1ee-5ba846abeee6
+BL,2024,bridge,2025-05-30,2025-05-30,1,Ascension Bridge,BL,False,openholidays,437ac177-8da4-4709-bd62-974d70238e27
+BL,2024,summer,2025-06-28,2025-08-10,44,Summer holidays,BL,False,openholidays,d50fbc54-5f18-4ca9-81c8-2e0bb8fc7fa9
+BL,2024,summer,2025-07-05,2025-08-10,37,Summer holidays,BL,False,openholidays,577c86e9-766b-4269-82d7-fe8140012ed1
+BL,2025,autumn,2025-09-27,2025-10-12,16,Autumn holidays,BL,False,openholidays,16497b4d-ec41-4865-abac-51fba8ee1eb5
+BL,2025,autumn,2025-09-27,2025-10-19,23,Autumn holidays,BL,False,openholidays,414c44f3-9805-44e4-8ea5-3083c8af929c
+BL,2025,christmas,2025-12-20,2026-01-04,16,Christmas holidays,BL,False,openholidays,c2ae6a47-5177-43fc-b856-d07d4edf80b0
+BL,2025,winter,2026-02-14,2026-03-01,16,Carnival holidays,BL,False,openholidays,0c49507b-3405-46c7-b006-3ccdf5b8ba9e
+BL,2025,spring,2026-03-28,2026-04-12,16,Spring holidays,BL,False,openholidays,83873ebf-eaa0-439b-b418-ad16e8a7288e
+BL,2025,bridge,2026-05-25,2026-05-25,1,Ascension Bridge,BL,False,openholidays,09392383-3b07-4bfd-ae18-c599409a0541
+BL,2025,summer,2026-06-27,2026-08-09,44,Summer holidays,BL,False,openholidays,85a29bd6-5a8f-41f6-8d4b-3fd6ea94f1f9
+BL,2025,summer,2026-07-04,2026-08-09,37,Summer holidays,BL,False,openholidays,3d9495e5-dfc4-4270-97c7-ab836afabba0
+BL,2026,autumn,2026-09-26,2026-10-11,16,Autumn holidays,BL,False,openholidays,6da75269-6693-4d81-8143-1ab9a7695f2c
+BL,2026,autumn,2026-09-26,2026-10-28,33,Autumn holidays,BL,False,openholidays,e785d05a-2c47-420c-8b8b-c4a883b59895
+BL,2026,christmas,2026-12-19,2027-01-03,16,Christmas holidays,BL,False,openholidays,f9354fb9-7bb8-4947-b081-8f3771a3c1ad
+BL,2026,winter,2027-02-06,2027-02-21,16,Carnival holidays,BL,False,openholidays,b660a3dc-3cb9-49f3-9713-fcc814e0fc98
+BL,2026,spring,2027-03-20,2027-04-04,16,Spring holidays,BL,False,openholidays,657c15bc-608e-4dc9-b1aa-efe56f853365
+BL,2026,bridge,2027-05-07,2027-05-07,1,Ascension Bridge,BL,False,openholidays,392a8081-1e43-4383-9a79-c2b23a6223c4
+BL,2026,summer,2027-07-03,2027-08-15,44,Summer holidays,BL,False,openholidays,c0ade86c-a655-42ae-b753-6b635d969866
+BL,2026,summer,2027-07-10,2027-08-15,37,Summer holidays,BL,False,openholidays,5a968124-2732-4237-8df1-f5131ba9a150
+BL,2027,autumn,2027-10-02,2027-10-17,16,Autumn holidays,BL,False,openholidays,21f5f8fa-428e-416c-b8f8-d7fd5c9e0489
+BL,2027,autumn,2027-10-02,2027-10-17,16,Autumn holidays,BL,False,openholidays,e703348d-854d-444f-90b3-b84400f23ffb
+BL,2027,christmas,2027-12-18,2028-01-02,16,Christmas holidays,BL,False,openholidays,48d9f9da-383d-492b-86a1-3ed017893088
+BL,2027,winter,2028-02-26,2028-03-12,16,Carnival holidays,BL,False,openholidays,33af442f-c20c-476e-b78a-0879d0805937
+BL,2027,spring,2028-04-08,2028-04-23,16,Spring holidays,BL,False,openholidays,1e2e1fff-0f1e-4e7a-b94e-3bf04ffc0f21
+BL,2027,bridge,2028-06-26,2028-06-26,1,Ascension Bridge,BL,False,openholidays,7035741b-0c58-40a5-8866-46133d2b7cc1
+BL,2027,summer,2028-07-01,2028-08-13,44,Summer holidays,BL,False,openholidays,ae89a462-47e1-4d7c-be12-70ff528cf4f2
+BL,2027,summer,2028-07-08,2028-08-13,37,Summer holidays,BL,False,openholidays,0371b1f8-59bd-4d5b-aff4-4d2c82aadf62
+BL,2028,autumn,2028-09-30,2028-10-15,16,Autumn holidays,BL,False,openholidays,d648329e-df12-4cfe-9a7f-274685dcc9e4
+BL,2028,autumn,2028-09-30,2028-10-22,23,Autumn holidays,BL,False,openholidays,bbb6aae7-3586-4821-8e9f-197d21c87ddd
+BL,2028,christmas,2028-12-23,2029-01-07,16,Christmas holidays,BL,False,openholidays,0ec58e5e-c1dc-4e66-a7f0-f5c4ffde6bde
+BL,2028,winter,2029-02-10,2029-02-25,16,Carnival holidays,BL,False,openholidays,94bc3b31-34e8-4a4b-83d9-78a8eb63842d
+BL,2028,spring,2029-03-24,2029-04-08,16,Spring holidays,BL,False,openholidays,2e087e4e-6723-4e12-b468-406fdeb31471
+BL,2028,bridge,2029-05-11,2029-05-11,1,Ascension Bridge,BL,False,openholidays,847c0066-3bd1-4d9d-91e0-229546e4b697
+BL,2028,summer,2029-06-30,2029-08-12,44,Summer holidays,BL,False,openholidays,e8544337-c3d2-4755-8e69-63d8fec9c3d3
+BL,2028,summer,2029-07-07,2029-08-12,37,Summer holidays,BL,False,openholidays,ab45f655-3a32-4dce-9a59-ac36f1d2a055
+BL,2029,autumn,2029-09-29,2029-10-14,16,Autumn holidays,BL,False,openholidays,da75f077-4adb-4f0b-b595-749b2e01e462
+BL,2029,autumn,2029-09-29,2029-10-21,23,Autumn holidays,BL,False,openholidays,dcfd1a55-9270-4c34-91ea-b0364e09351c
+BL,2029,christmas,2029-12-22,2030-01-06,16,Christmas holidays,BL,False,openholidays,ea512abc-4894-4ff6-b080-e8d87ed15786
+BL,2029,winter,2030-03-02,2030-03-17,16,Carnival holidays,BL,False,openholidays,e3a639d4-df12-4048-a8db-788db400cd96
+BL,2029,spring,2030-04-13,2030-04-28,16,Spring holidays,BL,False,openholidays,3d25ba1d-292c-4afc-9b6f-237324a249a5
+BL,2029,bridge,2030-05-31,2030-05-31,1,Ascension Bridge,BL,False,openholidays,27a1a4ec-25a5-4ace-9a23-f29afc8f0e7a
+BL,2029,summer,2030-06-29,2030-08-11,44,Summer holidays,BL,False,openholidays,1d79ec41-ce6d-4f8a-92e0-0642a5b0a4f5
+BL,2029,summer,2030-07-06,2030-08-11,37,Summer holidays,BL,False,openholidays,88471f93-6313-476d-b9bd-2140423fe1cb
+BL,2030,autumn,2030-09-28,2030-10-13,16,Autumn holidays,BL,False,openholidays,bd2a8ade-b4e6-49e9-87b1-a83ef124942a
+BL,2030,autumn,2030-09-28,2030-10-20,23,Autumn holidays,BL,False,openholidays,3bebf7e3-e3ea-45c7-9289-f0701d51363c
+BL,2030,christmas,2030-12-21,2031-01-05,16,Christmas holidays,BL,False,openholidays,498107a5-ec8f-493e-8bc2-4f96d0985866
+BL,2030,winter,2031-02-22,2031-03-09,16,Carnival holidays,BL,False,openholidays,1c9831d1-06ed-494a-b23b-754e3a8df1f1
+BL,2030,spring,2031-04-05,2031-04-20,16,Spring holidays,BL,False,openholidays,d9f56a34-5df1-423f-9320-23e74bae974c
+BL,2030,bridge,2031-05-23,2031-05-23,1,Ascension Bridge,BL,False,openholidays,bb4f7cef-9c83-4107-926a-42ff32b2f751
+BL,2030,summer,2031-06-28,2031-08-10,44,Summer holidays,BL,False,openholidays,7b3091a8-faee-46e2-a111-8218a6ffee99
+BL,2030,summer,2031-07-05,2031-08-10,37,Summer holidays,BL,False,openholidays,a5620bc3-cc3c-485e-bfc1-cd1587d4fdee
+BL,2031,autumn,2031-09-27,2031-10-12,16,Autumn holidays,BL,False,openholidays,7b737c27-3ce7-4298-821a-8c2d427de513
+BL,2031,autumn,2031-09-27,2031-10-19,23,Autumn holidays,BL,False,openholidays,bb27c66f-9c45-47df-a1ed-13595b61456b
+BL,2031,christmas,2031-12-20,2032-01-04,16,Christmas holidays,BL,False,openholidays,618a6d68-d256-4e2c-a169-3a0d8d355654
+BL,2031,winter,2032-02-07,2032-02-22,16,Carnival holidays,BL,False,openholidays,c00477be-bf89-4c51-939d-e06915d2aa95
+BL,2031,spring,2032-03-20,2032-04-04,16,Spring holidays,BL,False,openholidays,0122d43e-ce89-4ada-9d79-240df8a2230f
+BL,2031,bridge,2032-05-07,2032-05-07,1,Ascension Bridge,BL,False,openholidays,acf18bfb-9675-48d0-9f4a-1bb09b2f4363
+BL,2031,summer,2032-06-26,2032-08-08,44,Summer holidays,BL,False,openholidays,0bc261f6-f9ae-4b95-9df0-cad3bf4a6534
+BL,2031,summer,2032-07-03,2032-08-08,37,Summer holidays,BL,False,openholidays,d1368704-28ee-4e3f-a6fc-f7751e97ff5d
+BS,2019,christmas,2019-12-21,2020-01-05,16,Christmas holidays,BS,False,openholidays,7898d905-78c6-43fd-9d09-f9efc29748c8
+BS,2019,winter,2020-02-22,2020-03-08,16,Carnival holidays,BS,False,openholidays,8a60345e-5b2f-4ee5-86e4-32c8d16184d6
+BS,2019,spring,2020-04-04,2020-04-19,16,Spring holidays,BS,False,openholidays,d0cf8d8f-f88b-456b-a01d-e4b09fcc95a4
+BS,2019,bridge,2020-05-22,2020-05-22,1,Ascension Bridge,BS,False,openholidays,735a2c4c-3e05-4eb8-b6d6-6fcc3cab6be6
+BS,2019,summer,2020-06-27,2020-08-09,44,Summer holidays,BS,False,openholidays,20e16478-81e8-400a-acc8-3a864bc8092a
+BS,2020,autumn,2020-09-26,2020-10-11,16,Autumn holidays,BS,False,openholidays,73b09b53-18ec-474e-ac1e-2729e4327dff
+BS,2020,christmas,2020-12-19,2021-01-03,16,Christmas holidays,BS,False,openholidays,2a7419fc-4014-49ce-9d6e-3460c4682869
+BS,2020,winter,2021-02-13,2021-02-28,16,Carnival holidays,BS,False,openholidays,2b9b234b-b5af-424f-98ad-b568aca18c01
+BS,2020,spring,2021-03-27,2021-04-11,16,Spring holidays,BS,False,openholidays,a525e4b3-2338-45bb-a5a5-54bdf76090ee
+BS,2020,bridge,2021-05-14,2021-05-14,1,Ascension Bridge,BS,False,openholidays,4154dbf3-6441-4c74-9425-b13336f91de4
+BS,2020,summer,2021-07-03,2021-08-15,44,Summer holidays,BS,False,openholidays,a23a305c-e720-4167-adca-1bb9210335f6
+BS,2021,autumn,2021-10-02,2021-10-17,16,Autumn holidays,BS,False,openholidays,8b64d0fa-95a0-4903-b80d-f1dfa4b2ac54
+BS,2021,christmas,2021-12-18,2022-01-02,16,Christmas holidays,BS,False,openholidays,f9f5eed0-0e2f-4c27-b9ff-c9bbc27085c1
+BS,2021,winter,2022-02-26,2022-03-13,16,Carnival holidays,BS,False,openholidays,32b3a681-7c8b-406b-b395-c6318e46671c
+BS,2021,spring,2022-04-09,2022-04-24,16,Spring holidays,BS,False,openholidays,58f9ecb2-7d5e-4fe9-90dc-8893cfffc0fa
+BS,2021,bridge,2022-05-27,2022-05-27,1,Ascension Bridge,BS,False,openholidays,6734f79c-d6dd-4864-987f-37d1100a6886
+BS,2021,summer,2022-07-02,2022-08-14,44,Summer holidays,BS,False,openholidays,b65282e9-9b2f-4467-83fe-f112f13346c1
+BS,2022,autumn,2022-10-01,2022-10-16,16,Autumn holidays,BS,False,openholidays,95f55fb6-f24f-4ab5-999d-1800b3342fad
+BS,2022,christmas,2022-12-24,2023-01-08,16,Christmas holidays,BS,False,openholidays,08a48f7b-26de-4117-9701-d1ecaffd28d6
+BS,2022,winter,2023-02-18,2023-03-05,16,Carnival holidays,BS,False,openholidays,9c21b6c3-924c-4834-99d9-3a261e65553f
+BS,2022,spring,2023-04-01,2023-04-16,16,Spring holidays,BS,False,openholidays,d0373984-4a2a-438d-8dbf-03bc4619b628
+BS,2022,bridge,2023-05-19,2023-05-19,1,Ascension Bridge,BS,False,openholidays,da0b3d7e-564b-4231-a4af-742a6ddc97ec
+BS,2022,summer,2023-07-01,2023-08-13,44,Summer holidays,BS,False,openholidays,856229fe-2dd6-42c2-a68c-1dfbc9258115
+BS,2023,autumn,2023-09-30,2023-10-15,16,Autumn holidays,BS,False,openholidays,78c239df-e783-47c0-9d15-1453e2e477fa
+BS,2023,christmas,2023-12-23,2024-01-07,16,Christmas holidays,BS,False,openholidays,9f00dfe6-8272-4c8c-bd9f-e568b829feff
+BS,2023,winter,2024-02-10,2024-02-25,16,Carnival holidays,BS,False,openholidays,5ed95a2c-d644-4dd4-a9dd-884412b9c9e5
+BS,2023,spring,2024-03-23,2024-04-07,16,Spring holidays,BS,False,openholidays,26ba2cc7-46f4-48b3-843a-b6d7f2fed5e2
+BS,2023,bridge,2024-05-10,2024-05-10,1,Ascension Bridge,BS,False,openholidays,6009458a-3a4f-45d1-8048-509f001f93b7
+BS,2023,summer,2024-06-29,2024-08-11,44,Summer holidays,BS,False,openholidays,8dec4a83-d7b2-443b-8c3b-f5a7f36069e6
+BS,2024,autumn,2024-09-28,2024-10-13,16,Autumn holidays,BS,False,openholidays,61f84e5b-6644-4a58-a143-aef2db927c27
+BS,2024,christmas,2024-12-21,2025-01-05,16,Christmas holidays,BS,False,openholidays,aa868352-5ec9-46c4-bf40-f0a36834279f
+BS,2024,winter,2025-03-01,2025-03-16,16,Carnival holidays,BS,False,openholidays,744349b2-4a18-4116-b872-442c85475ee2
+BS,2024,spring,2025-04-12,2025-04-27,16,Spring holidays,BS,False,openholidays,a4c523fb-26da-4b7c-bea5-85dd71bb0e81
+BS,2024,bridge,2025-05-30,2025-05-30,1,Ascension Bridge,BS,False,openholidays,13662ff5-d68f-4729-9e4b-8de05424a39e
+BS,2024,summer,2025-06-28,2025-08-10,44,Summer holidays,BS,False,openholidays,da770c53-61bb-4e58-ac6e-b03af97323ed
+BS,2025,autumn,2025-09-27,2025-10-12,16,Autumn holidays,BS,False,openholidays,15e97eb0-d1cb-4ec5-a406-608dc09ac8ea
+BS,2025,christmas,2025-12-20,2026-01-04,16,Christmas holidays,BS,False,openholidays,9345f780-89dd-4b94-acf6-d35600b3a6cc
+BS,2025,winter,2026-02-14,2026-03-01,16,Carnival holidays,BS,False,openholidays,f1292a3c-9a98-497b-98a5-d523ceb5f625
+BS,2025,spring,2026-03-28,2026-04-12,16,Spring holidays,BS,False,openholidays,47579d1b-ef3f-441a-b600-8189d2b84e6e
+BS,2025,bridge,2026-05-25,2026-05-25,1,Ascension Bridge,BS,False,openholidays,6de6468b-7ec2-4732-8569-d775363a5b55
+BS,2025,summer,2026-06-27,2026-08-09,44,Summer holidays,BS,False,openholidays,e4f54d97-e10c-4b51-8671-19a93acad2c5
+BS,2026,autumn,2026-09-26,2026-10-11,16,Autumn holidays,BS,False,openholidays,f0a004e2-f9e1-4466-865a-fee98cbc3c39
+BS,2026,christmas,2026-12-19,2027-01-03,16,Christmas holidays,BS,False,openholidays,a3699296-0858-4ee8-81ba-f225e76b0a6d
+BS,2026,winter,2027-02-06,2027-02-21,16,Carnival holidays,BS,False,openholidays,7f12b557-4c2a-41c0-9cc6-e7facbe61910
+BS,2026,spring,2027-03-20,2027-04-04,16,Spring holidays,BS,False,openholidays,051b2fda-fe15-49dd-81bc-f2b896a452a4
+BS,2026,bridge,2027-05-07,2027-05-07,1,Ascension Bridge,BS,False,openholidays,d47effdf-1fad-489e-b68a-6f2bef6aa515
+BS,2026,summer,2027-07-03,2027-08-15,44,Summer holidays,BS,False,openholidays,9cb4b76e-ef7c-483f-9204-1899df507342
+BS,2027,autumn,2027-10-02,2027-10-17,16,Autumn holidays,BS,False,openholidays,dc00cf0f-8136-4700-b7d9-6e196374e3ea
+BS,2027,christmas,2027-12-18,2028-01-02,16,Christmas holidays,BS,False,openholidays,9b133183-b434-4753-8687-9b5ac9d40ed8
+BS,2027,winter,2028-02-16,2028-03-12,26,Carnival holidays,BS,False,openholidays,b809438f-3546-402d-868d-bd743ef87c65
+BS,2027,spring,2028-04-08,2028-04-23,16,Spring holidays,BS,False,openholidays,285d7590-77b1-42d2-878c-87db8d77feec
+BS,2027,bridge,2028-06-26,2028-06-26,1,Ascension Bridge,BS,False,openholidays,05075135-41c6-4cfd-a514-4f8419babf6c
+BS,2027,summer,2028-07-01,2028-08-13,44,Summer holidays,BS,False,openholidays,ceaedda7-df56-41ac-91ec-cbc857ac44d4
+BS,2028,autumn,2028-09-30,2028-10-15,16,Autumn holidays,BS,False,openholidays,cf6766d1-0464-42f3-a8a7-575031c94288
+BS,2028,christmas,2028-12-23,2029-01-07,16,Christmas holidays,BS,False,openholidays,9db7541a-7c91-4723-8c94-4115a7e95589
+BS,2028,winter,2029-02-10,2029-02-25,16,Carnival holidays,BS,False,openholidays,f851571d-d4b5-4f94-8ffa-6a2cf471ef13
+BS,2028,spring,2029-03-24,2029-04-08,16,Spring holidays,BS,False,openholidays,59716211-2d74-4214-9bbb-ac1b967b85c0
+BS,2028,bridge,2029-05-11,2029-05-11,1,Ascension Bridge,BS,False,openholidays,74c51030-d4f9-434d-ad89-d58b91326599
+BS,2028,summer,2029-06-30,2029-08-12,44,Summer holidays,BS,False,openholidays,4b2ecca8-87e0-4e82-a245-d51e8822f23d
+BS,2029,autumn,2029-09-29,2029-10-14,16,Autumn holidays,BS,False,openholidays,55929bc5-ea39-4fe5-a861-0c79db5d3df4
+BS,2029,christmas,2029-12-22,2030-01-06,16,Christmas holidays,BS,False,openholidays,ad27d2e0-5062-4ad6-b3bf-4d1cc3168495
+BS,2029,winter,2030-03-02,2030-03-17,16,Carnival holidays,BS,False,openholidays,8979914a-e91e-4cc3-9ed4-14dade2796e3
+BS,2029,spring,2030-04-13,2030-04-28,16,Spring holidays,BS,False,openholidays,746c962f-56ca-413b-aab1-897294994ab0
+BS,2029,bridge,2030-05-31,2030-05-31,1,Ascension Bridge,BS,False,openholidays,df27bbb1-14ab-4198-825e-7a7886c18e12
+BS,2029,summer,2030-06-29,2030-08-11,44,Summer holidays,BS,False,openholidays,06a533f1-f7fa-4351-a0c2-5194e73b5472
+BS,2030,autumn,2030-09-28,2030-10-13,16,Autumn holidays,BS,False,openholidays,32d824a8-828c-4ba6-b5a6-343effb8f1c8
+BS,2030,christmas,2030-12-21,2031-01-05,16,Christmas holidays,BS,False,openholidays,90fdf82b-7124-4bb8-a7fd-297437f5a98e
+BS,2030,winter,2031-02-22,2031-03-09,16,Carnival holidays,BS,False,openholidays,f9e76bab-d0d7-4cba-bf7f-3ee3a6a2f3d3
+BS,2030,spring,2031-04-05,2031-04-20,16,Spring holidays,BS,False,openholidays,0b5c4f51-02db-4194-b980-a6ee3f3f4c82
+BS,2030,bridge,2031-05-23,2031-05-23,1,Ascension Bridge,BS,False,openholidays,55ae7a39-03e6-4652-ad74-21a62a49b44f
+BS,2030,summer,2031-06-28,2031-08-10,44,Summer holidays,BS,False,openholidays,697ac99c-27dd-490b-b8f9-32f7923a0a02
+BS,2031,autumn,2031-09-27,2031-10-12,16,Autumn holidays,BS,False,openholidays,bba1d298-2400-4f12-85ef-8200e1339a7f
+BS,2031,christmas,2031-12-20,2032-01-04,16,Christmas holidays,BS,False,openholidays,48498d05-29f1-4174-bb02-cc16b651f6dd
+BS,2031,winter,2032-02-07,2032-02-22,16,Carnival holidays,BS,False,openholidays,ad237631-09cf-4cad-a3a6-e3f2791caf10
+BS,2031,spring,2032-03-20,2032-04-04,16,Spring holidays,BS,False,openholidays,15ba3e1b-efeb-4fb6-a109-6b0d65dc5e85
+BS,2031,bridge,2032-05-07,2032-05-07,1,Ascension Bridge,BS,False,openholidays,11fc87e2-77f4-4241-8413-b8ce283cab8e
+BS,2031,summer,2032-06-26,2032-08-08,44,Summer holidays,BS,False,openholidays,8bce7dcd-cfaa-47fb-ba21-2961c05fe5bd
+FR,2019,winter,2020-02-22,2020-03-01,9,Sport,FR,False,openholidays,119a075c-8036-46ea-afc3-3c85ce6254a1
+FR,2019,winter,2020-02-22,2020-03-01,9,Sport,FR,False,openholidays,82a3aeb9-9139-4512-adda-26860a051919
+FR,2019,spring,2020-04-04,2020-04-19,16,Spring,FR,False,openholidays,50b56606-025b-4c4f-9815-852703511946
+FR,2019,spring,2020-04-04,2020-04-19,16,Spring,FR,False,openholidays,09c80203-4bea-40ef-9ea5-388b4ab88177
+FR,2019,summer,2020-06-27,2020-08-26,61,Summer,FR,False,openholidays,96616a64-2ab6-4ab1-9d50-9f9ef71efce9
+FR,2019,summer,2020-07-04,2020-08-26,54,Summer,FR,False,openholidays,3636a79a-2935-4ebf-972d-fe479c99b714
+FR,2020,autumn,2020-10-17,2020-11-01,16,Autumn,FR,False,openholidays,8d6e0cb0-c1fb-437b-a02f-4775c609329e
+FR,2020,autumn,2020-10-17,2020-11-01,16,Autumn,FR,False,openholidays,fd9e68c7-0d0f-4572-8454-e5e8b897aa3b
+FR,2020,christmas,2020-12-19,2021-01-03,16,Christmas,FR,False,openholidays,64f04edd-723f-48d7-af66-88428ae819fe
+FR,2020,christmas,2020-12-19,2021-01-03,16,Christmas,FR,False,openholidays,5b983843-297b-4f47-a212-7eeade8adedf
+FR,2020,winter,2021-02-13,2021-02-21,9,Sport,FR,False,openholidays,4563590b-5412-47fe-96fc-3f5433071191
+FR,2020,winter,2021-02-13,2021-02-21,9,Sport,FR,False,openholidays,9ee2a040-ec06-4efc-b65a-ebaf6b8c981d
+FR,2020,spring,2021-04-02,2021-04-18,17,Spring,FR,False,openholidays,d64446e4-4e5d-4045-959e-349daf0b53af
+FR,2020,spring,2021-04-02,2021-04-18,17,Spring,FR,False,openholidays,b3ae725c-7558-487a-93a5-1625ae78bee1
+FR,2020,summer,2021-07-03,2021-08-25,54,Summer,FR,False,openholidays,1cf61c56-8b29-459e-a946-8b31f981a22b
+FR,2020,summer,2021-07-10,2021-08-25,47,Summer,FR,False,openholidays,e8ba4fcb-e5e1-48a6-8a9b-154cae38109a
+FR,2021,autumn,2021-10-16,2021-11-01,17,Autumn,FR,False,openholidays,1c3c5465-3fc9-4870-bcf0-e2c7a1aea04a
+FR,2021,autumn,2021-10-16,2021-11-01,17,Autumn,FR,False,openholidays,890c92da-16b9-412d-bdb1-ababc2393993
+FR,2021,christmas,2021-12-24,2022-01-09,17,Christmas,FR,False,openholidays,39d8f076-5b64-44ed-b3c3-6f27ce88418d
+FR,2021,christmas,2021-12-24,2022-01-09,17,Christmas,FR,False,openholidays,0dda5ad3-2db9-45c0-9046-c299a26a2618
+FR,2021,winter,2022-02-26,2022-03-06,9,Sport,FR,False,openholidays,600513d8-49e6-4ab0-b02e-1126b4ebc481
+FR,2021,winter,2022-02-26,2022-03-06,9,Sport,FR,False,openholidays,9222ff07-db8d-4feb-9d9d-5ab16bdff220
+FR,2021,spring,2022-04-15,2022-05-01,17,Spring,FR,False,openholidays,64da44c8-9d38-49bb-9e02-9f4c9ed124b2
+FR,2021,spring,2022-04-15,2022-05-01,17,Spring,FR,False,openholidays,4ba961b7-5cbd-4dd1-96ee-679ee1d636a3
+FR,2021,summer,2022-07-02,2022-08-24,54,Summer,FR,False,openholidays,7708f6b0-4a4f-46a1-993f-1aaaf9cc5fca
+FR,2021,summer,2022-07-09,2022-08-24,47,Summer,FR,False,openholidays,36f7fdaa-4656-4835-8d28-231bb3166eb5
+FR,2022,autumn,2022-10-15,2022-10-30,16,Autumn,FR,False,openholidays,e5f50f70-e674-47f4-aabb-349d73d4f128
+FR,2022,autumn,2022-10-15,2022-10-30,16,Autumn,FR,False,openholidays,87f05848-67a1-41b5-bf5c-2aeb7cd4bbb5
+FR,2022,christmas,2022-12-24,2023-01-08,16,Christmas,FR,False,openholidays,df80a444-329c-4186-adea-4a581561dfed
+FR,2022,christmas,2022-12-24,2023-01-08,16,Christmas,FR,False,openholidays,e113857a-bc7c-486a-b110-c628502e8c9a
+FR,2022,winter,2023-02-18,2023-02-26,9,Sport,FR,False,openholidays,bddf60c2-139e-4cd4-818e-143149785688
+FR,2022,winter,2023-02-18,2023-02-26,9,Sport,FR,False,openholidays,b34ecd7f-4e39-476b-a254-b5ff9186b1a4
+FR,2022,spring,2023-04-07,2023-04-23,17,Spring,FR,False,openholidays,d9cd5e9e-c260-4567-bc34-8f0fd69031fc
+FR,2022,spring,2023-04-07,2023-04-23,17,Spring,FR,False,openholidays,086241fb-dbd1-4028-bbd7-bdd3b65ccbab
+FR,2022,summer,2023-07-01,2023-08-23,54,Summer,FR,False,openholidays,92daab0e-44c8-4e50-b326-cbfba7561286
+FR,2022,summer,2023-07-08,2023-08-23,47,Summer,FR,False,openholidays,69a260d0-e5ed-4de4-8499-15d9931946ce
+FR,2023,autumn,2023-10-14,2023-10-29,16,Autumn,FR,False,openholidays,e6ac679f-e28c-4fe4-be35-f715f64633ae
+FR,2023,autumn,2023-10-14,2023-10-29,16,Autumn,FR,False,openholidays,b00c11bf-c02b-407d-95ae-7abb2987dfd5
+FR,2023,christmas,2023-12-23,2024-01-07,16,Christmas,FR,False,openholidays,6d474421-2977-46ec-b690-ef6f4b37301e
+FR,2023,christmas,2023-12-23,2024-01-07,16,Christmas,FR,False,openholidays,bde36e0c-6dc4-45df-a717-96e906724bc5
+FR,2023,winter,2024-02-10,2024-02-18,9,Sport,FR,False,openholidays,6e4a5707-c1b1-4667-8166-6c68708dbee7
+FR,2023,winter,2024-02-10,2024-02-18,9,Sport,FR,False,openholidays,3e685926-ca35-4a5a-a900-4a50d0bcaf0d
+FR,2023,spring,2024-03-29,2024-04-14,17,Spring,FR,False,openholidays,28e0920a-ef7b-4f83-93de-da7572cbb2fe
+FR,2023,spring,2024-03-29,2024-04-14,17,Spring,FR,False,openholidays,f96c70a8-38b2-42ad-b35c-00f926d625e9
+FR,2023,summer,2024-06-29,2024-08-21,54,Summer,FR,False,openholidays,5c7b1ca0-7ee3-4c14-af87-462117e59835
+FR,2023,summer,2024-07-06,2024-08-21,47,Summer,FR,False,openholidays,6ac9c6c0-80c7-41b8-bbcc-49843abc1816
+FR,2024,autumn,2024-10-12,2024-10-27,16,Autumn,FR,False,openholidays,cc72d591-60b3-4a1b-8e46-0cea19a3be70
+FR,2024,autumn,2024-10-12,2024-10-27,16,Autumn,FR,False,openholidays,c7c83d56-3033-4d42-b48d-134c7763a001
+FR,2024,christmas,2024-12-21,2025-01-05,16,Christmas,FR,False,openholidays,c1064601-75a8-48f3-8b11-fe2723ad386a
+FR,2024,christmas,2024-12-21,2025-01-05,16,Christmas,FR,False,openholidays,001679f0-f154-40f5-afd1-8c82c31f256b
+FR,2024,winter,2025-03-01,2025-03-09,9,Sport,FR,False,openholidays,e54a2771-2ca0-4358-a962-2ca638259909
+FR,2024,spring,2025-04-18,2025-05-04,17,Spring,FR,False,openholidays,83f330e6-22dd-4695-b061-e51c79c772a8
+FR,2024,summer,2025-07-04,2025-08-27,55,Summer,FR,False,openholidays,16f21027-afcd-490d-ad91-1670843db371
+FR,2025,autumn,2025-10-11,2025-10-26,16,Autumn,FR,False,openholidays,4d8a90a0-54e1-47ff-93bb-5333cded573f
+FR,2025,christmas,2025-12-20,2026-01-02,14,Christmas,FR,False,openholidays,cb2bca83-6104-484e-86c5-06da05b42f21
+FR,2025,winter,2026-02-14,2026-02-22,9,Sport,FR,False,openholidays,e367d3fc-61f6-4a75-a38b-a90fbb9bd4b1
+FR,2025,spring,2026-04-03,2026-04-19,17,Spring,FR,False,openholidays,8c8976c1-6f8e-496a-8017-2c557e2c1a0d
+FR,2025,summer,2026-07-04,2026-08-26,54,Summer,FR,False,openholidays,1d230866-ba57-4315-941c-54bb52586cb9
+FR,2025,summer,2026-07-11,2026-08-26,47,Summer,FR,False,openholidays,7749db7a-3271-454b-bca3-3aee9070096b
+FR,2026,autumn,2026-10-10,2026-10-25,16,Autumn,FR,False,openholidays,e3489777-4737-4801-9e17-8bef71491211
+FR,2026,christmas,2026-12-19,2027-01-03,16,Christmas,FR,False,openholidays,23dc7b32-26c9-4b01-857d-f60c9a9d83d9
+GE,2019,winter,2020-02-08,2020-02-16,9,February holidays,GE,False,openholidays,0c3be836-ff94-430b-b1c8-5a806653f348
+GE,2019,spring,2020-04-09,2020-04-19,11,Easter holidays,GE,False,openholidays,9f0ce3a5-7862-47ff-814e-b86f46315de7
+GE,2019,summer,2020-06-27,2020-08-23,58,Summer holidays,GE,False,openholidays,d53d7c58-534a-4fdc-96da-2ab822955794
+GE,2020,autumn,2020-10-17,2020-10-25,9,Autumn holidays,GE,False,openholidays,8954a3eb-bd1d-4b59-a478-104b0fdf934c
+GE,2020,christmas,2020-12-24,2021-01-10,18,Christmas and New Year holidays,GE,False,openholidays,cb3ce10a-ce23-41c9-a493-2a88acd59ab7
+GE,2020,winter,2021-02-13,2021-02-21,9,February holidays,GE,False,openholidays,90e43493-20f9-4072-820a-3551a9a521b4
+GE,2020,spring,2021-04-01,2021-04-11,11,Easter holidays,GE,False,openholidays,d60d0720-ea7d-4869-b06c-864f275bc027
+GE,2020,summer,2021-07-03,2021-08-29,58,Summer holidays,GE,False,openholidays,02ae8284-dd01-4538-b0f2-c6de193be0c4
+GE,2021,autumn,2021-10-23,2021-10-31,9,Autumn holidays,GE,False,openholidays,dc8d442f-b510-4ae5-bd28-389e545d7745
+GE,2021,christmas,2021-12-24,2022-01-09,17,Christmas and New Year holidays,GE,False,openholidays,f8a973eb-7c54-408b-a691-7a5234aece05
+GE,2021,winter,2022-02-12,2022-02-20,9,February holidays,GE,False,openholidays,60d85177-08e4-4207-b111-609e53112a99
+GE,2021,spring,2022-04-14,2022-04-24,11,Easter holidays,GE,False,openholidays,e36ad9fd-d907-4cc9-8af6-574f16c4fd5b
+GE,2021,summer,2022-07-02,2022-08-21,51,Summer holidays,GE,False,openholidays,60024da5-295e-4750-8660-1219407b1fd9
+GE,2022,autumn,2022-10-22,2022-10-30,9,Autumn holidays,GE,False,openholidays,fdfba94a-1126-43de-89f8-91054d1e0591
+GE,2022,christmas,2022-12-24,2023-01-08,16,Christmas and New Year holidays,GE,False,openholidays,0dd8a8d8-52bc-44d3-a5f8-ec50db977535
+GE,2022,winter,2023-02-18,2023-02-26,9,February holidays,GE,False,openholidays,387eebbe-d377-4148-a809-c968dcf1a414
+GE,2022,spring,2023-04-07,2023-04-23,17,Easter holidays,GE,False,openholidays,07a50a53-88f0-4b5e-aeae-288b66110a6e
+GE,2022,bridge,2023-05-18,2023-05-19,2,Ascension Bridge,GE,False,openholidays,65499929-c6f6-4c4a-9b92-de0638e9e47a
+GE,2022,summer,2023-07-01,2023-08-20,51,Summer holidays,GE,False,openholidays,747e1e8b-3eb1-4b04-818f-4dd1d0a96aca
+GE,2023,autumn,2023-10-21,2023-10-29,9,Autumn holidays,GE,False,openholidays,cd0a55a9-cc2d-4af5-972d-4eac42ef4897
+GE,2023,christmas,2023-12-23,2024-01-07,16,Christmas and New Year holidays,GE,False,openholidays,939527aa-6efc-43c4-a5c9-bc704cd5cb39
+GE,2023,winter,2024-02-17,2024-02-25,9,February holidays,GE,False,openholidays,c28b8616-5ae3-4969-ba6b-4e55ed09fbec
+GE,2023,spring,2024-03-29,2024-04-14,17,Easter holidays,GE,False,openholidays,be77caf3-2f33-41b8-af0b-b763decaf84d
+GE,2023,bridge,2024-05-09,2024-05-10,2,Ascension Bridge,GE,False,openholidays,c3f783f5-cf76-42a4-af9a-80b69adfdf86
+GE,2023,summer,2024-06-29,2024-08-18,51,Summer holidays,GE,False,openholidays,a831b109-d19c-4a67-b2bb-04f5cdcb2a16
+GE,2024,autumn,2024-10-19,2024-10-27,9,Autumn holidays,GE,False,openholidays,b7ffbe84-d47e-49b9-b0d2-8122ef985156
+GE,2024,christmas,2024-12-21,2025-01-05,16,Christmas and New Year holidays,GE,False,openholidays,56f806b8-2a39-4fad-8210-6d45abbe0981
+GE,2024,winter,2025-02-24,2025-02-28,5,February holidays,GE,False,openholidays,0ff4bd40-8a62-4090-a430-43167dc45003
+GE,2024,spring,2025-04-18,2025-05-02,15,Easter holidays,GE,False,openholidays,92ede70a-68f9-4860-9808-cc83c01a7471
+GE,2024,bridge,2025-05-29,2025-05-30,2,Ascension Bridge,GE,False,openholidays,75250655-f48e-4f3a-bc5d-27d9e5e3cb23
+GE,2024,summer,2025-06-30,2025-08-15,47,Summer holidays,GE,False,openholidays,f428fbd9-3fb9-461e-aa40-14900fed3f0b
+GE,2025,autumn,2025-10-20,2025-10-24,5,Autumn holidays,GE,False,openholidays,5e6d1530-f6b8-458f-8274-0040a85bc26f
+GE,2025,christmas,2025-12-22,2026-01-02,12,Christmas and New Year holidays,GE,False,openholidays,7d17717a-ef50-4828-9c6a-a042d6bc09c2
+GE,2025,winter,2026-02-23,2026-02-27,5,February holidays,GE,False,openholidays,72548fa6-fc9f-40f9-ac7e-224ff2ef9ab4
+GE,2025,spring,2026-04-03,2026-04-17,15,Easter holidays,GE,False,openholidays,f6ece8b4-38a9-43df-98db-cfb810a7b8fa
+GE,2025,bridge,2026-05-14,2026-05-15,2,Ascension Bridge,GE,False,openholidays,4df0f9df-8d1b-4358-9d25-85f59553ebc9
+GE,2025,summer,2026-06-29,2026-08-16,49,Summer holidays,GE,False,openholidays,5684ea6b-2e06-4225-8d7d-ccb5d00ef58e
+GE,2026,autumn,2026-10-19,2026-10-23,5,Autumn holidays,GE,False,openholidays,7bb6e766-0c67-423c-b568-0f3c7752aa46
+GE,2026,christmas,2026-12-24,2027-01-08,16,Christmas and New Year holidays,GE,False,openholidays,6b760612-65c4-415c-b452-5bcfb06f58b1
+GE,2026,winter,2027-02-15,2027-02-19,5,February holidays,GE,False,openholidays,07c3d492-55c0-4c45-ad92-855954dd14be
+GE,2026,spring,2027-03-26,2027-04-09,15,Easter holidays,GE,False,openholidays,1e3e4bc3-1644-48dc-82bd-ed745d0c0607
+GE,2026,bridge,2027-05-06,2027-05-07,2,Ascension Bridge,GE,False,openholidays,48cce33c-3185-4457-b3dd-5ad94c8156d6
+GE,2026,summer,2027-07-05,2027-08-25,52,Summer holidays,GE,False,openholidays,1974e956-731c-45a7-89b3-2be65c7076d7
+GE,2027,autumn,2027-10-25,2027-10-29,5,Autumn holidays,GE,False,openholidays,67dd29d1-2fb0-4758-ac5a-4d5be93847f6
+GE,2027,christmas,2027-12-24,2028-01-07,15,Christmas and New Year holidays,GE,False,openholidays,939c2817-5f32-4c39-a12f-00e48050f5de
+GE,2027,winter,2028-02-21,2028-02-25,5,February holidays,GE,False,openholidays,bee6b82e-20a7-475b-a786-85c53bf8e66e
+GE,2027,spring,2028-04-13,2028-04-21,9,Easter holidays,GE,False,openholidays,c605c95f-9a8a-4d6e-a684-a2eb8e3fdd5f
+GE,2027,bridge,2028-05-25,2028-05-26,2,Ascension Bridge,GE,False,openholidays,9c86da86-7309-4534-8809-92b56865c2c8
+GE,2027,summer,2028-07-03,2028-08-23,52,Summer holidays,GE,False,openholidays,5a319ecc-af48-4ecb-b1ad-86925e7f70f7
+GE,2028,autumn,2028-10-23,2028-10-27,5,Autumn holidays,GE,False,openholidays,e6364901-e4f2-49a1-a2c2-369316f0b7ce
+GE,2028,christmas,2028-12-25,2029-01-05,12,Christmas and New Year holidays,GE,False,openholidays,e7988757-a000-4896-927e-c99f2e8f2c83
+GE,2028,winter,2029-02-19,2029-02-23,5,February holidays,GE,False,openholidays,cc024859-d6f8-4238-ac89-f18e3beee19b
+GE,2028,spring,2029-03-29,2029-04-06,9,Easter holidays,GE,False,openholidays,13499aaa-b0b8-4489-b8af-4eb863c3edab
+GE,2028,bridge,2029-05-10,2029-05-11,2,Ascension Bridge,GE,False,openholidays,94b24fce-6654-4eb7-951b-6a8f7281edfd
+GE,2028,summer,2029-07-02,2029-08-22,52,Summer holidays,GE,False,openholidays,682f63f3-9f88-4bc1-a429-411c5b1a91c6
+GE,2029,autumn,2029-10-22,2029-10-26,5,Autumn holidays,GE,False,openholidays,5e351c73-d4f8-4149-a17d-954a49d634c5
+GE,2029,christmas,2029-12-24,2030-01-04,12,Christmas and New Year holidays,GE,False,openholidays,42bbc5f6-6fc8-46ed-b546-718a43bd3ff2
+GE,2029,winter,2030-02-25,2030-03-01,5,February holidays,GE,False,openholidays,85a8036a-74a3-4847-a748-43fa7787373a
+GE,2029,spring,2030-04-18,2030-04-26,9,Easter holidays,GE,False,openholidays,2866bfed-adbf-41de-bbb1-55706f4cf8af
+GE,2029,bridge,2030-05-30,2030-05-31,2,Ascension Bridge,GE,False,openholidays,9a44b571-ddfc-4e8c-b15b-1b13cd37dc81
+GE,2029,summer,2030-07-01,2030-08-21,52,Summer holidays,GE,False,openholidays,ab87abad-0598-4354-942b-cb79ec89559d
+GL,2019,winter,2020-01-25,2020-02-02,9,Sport,GL,False,openholidays,921b0a37-4e87-4714-900f-afdfdcdaf659
+GL,2019,spring,2020-04-02,2020-04-19,18,Spring,GL,False,openholidays,871b95e2-0b08-43a2-8072-a6c0ee8c6435
+GL,2019,summer,2020-06-27,2020-08-09,44,Summer,GL,False,openholidays,c825ff62-b0b1-4376-841d-ed425b4cabf5
+GL,2020,autumn,2020-10-03,2020-10-18,16,Autumn,GL,False,openholidays,bf2b8b7f-701b-4557-983d-d280b3ba1653
+GL,2020,christmas,2020-12-24,2021-01-10,18,Christmas,GL,False,openholidays,e840026f-8bdc-4310-9df8-6f316d43367c
+GL,2020,winter,2021-01-30,2021-02-07,9,Sport,GL,False,openholidays,d701b7ec-e787-4d05-8c60-9f5d0840a53f
+GL,2020,spring,2021-04-02,2021-04-18,17,Spring,GL,False,openholidays,0877cfb4-9fa2-46a7-ab06-344102571555
+GL,2020,summer,2021-07-03,2021-08-15,44,Summer,GL,False,openholidays,81c0c2cd-7eeb-49e4-be7d-a6a8cebb4315
+GL,2021,autumn,2021-10-09,2021-10-24,16,Autumn,GL,False,openholidays,f153c31c-1011-4c95-8d63-02d569f83877
+GL,2021,christmas,2021-12-24,2022-01-09,17,Christmas,GL,False,openholidays,181c1948-8e17-46c8-b019-469876d359d5
+GL,2021,winter,2022-01-29,2022-02-06,9,Sport,GL,False,openholidays,aa3dd83b-72a6-4812-a490-ba446203cf5d
+GL,2021,spring,2022-04-07,2022-04-24,18,Spring,GL,False,openholidays,ae1c5ea8-a2c9-414e-8696-e3add0b29dba
+GL,2021,summer,2022-07-02,2022-08-14,44,Summer,GL,False,openholidays,ba91e4f1-a1d1-42f5-9c16-e664667b89c2
+GL,2022,autumn,2022-10-08,2022-10-23,16,Autumn,GL,False,openholidays,e5adb7b5-a88a-4645-b6b8-c9e183680d94
+GL,2022,christmas,2022-12-24,2023-01-08,16,Christmas,GL,False,openholidays,338fbce3-79e6-41cf-ad9e-cd9f121194a8
+GL,2022,winter,2023-01-28,2023-02-05,9,Sport,GL,False,openholidays,ba29b515-2002-4aef-80b4-d9d7f87e6afa
+GL,2022,spring,2023-04-07,2023-04-23,17,Spring,GL,False,openholidays,7770f38f-0468-4784-8a3d-045a71084213
+GL,2022,summer,2023-07-01,2023-08-13,44,Summer,GL,False,openholidays,b2770715-2598-4a77-bcd0-8a5bfee1c7a0
+GL,2023,autumn,2023-10-07,2023-10-22,16,Autumn,GL,False,openholidays,ea5dc079-591d-420c-b6db-eeb961f336b7
+GL,2023,christmas,2023-12-23,2024-01-07,16,Christmas,GL,False,openholidays,99668731-ab7d-4ed6-84d8-2b8893b6b3ad
+GL,2023,winter,2024-01-27,2024-02-04,9,Sport,GL,False,openholidays,a8beb2c6-483b-4976-80c0-01128746a6e6
+GL,2023,spring,2024-03-29,2024-04-14,17,Spring,GL,False,openholidays,5bcfd5fb-5c67-49be-a799-570fb3fc29b4
+GL,2023,summer,2024-06-29,2024-08-11,44,Summer,GL,False,openholidays,70627c0f-8f73-4526-adb0-40f44db96baa
+GL,2024,autumn,2024-10-05,2024-10-20,16,Autumn,GL,False,openholidays,8509826a-8412-477d-8bc0-5536af96a6d5
+GL,2024,christmas,2024-12-21,2025-01-05,16,Christmas,GL,False,openholidays,cf3aec00-a6d4-4a15-91f0-3d29c9bfdd04
+GL,2024,winter,2025-01-25,2025-02-02,9,Sport,GL,False,openholidays,5a318e56-56a5-4adc-a3b1-9c8d7bdd612b
+GL,2024,spring,2025-04-03,2025-04-20,18,Spring,GL,False,openholidays,079d42d3-9a2a-43de-b9c6-6d6634214d10
+GL,2024,summer,2025-06-28,2025-08-10,44,Summer,GL,False,openholidays,2568abb5-ff24-494d-9bfc-e8d23f732221
+GL,2025,autumn,2025-10-04,2025-10-19,16,Autumn,GL,False,openholidays,f4fd94c0-98d0-40a4-82f7-ece018f312a7
+GL,2025,christmas,2025-12-20,2026-01-04,16,Christmas,GL,False,openholidays,4aa07072-80e5-49fd-b94b-a67560ec5d69
+GL,2025,winter,2026-01-24,2026-02-01,9,Sport,GL,False,openholidays,8c4eb99c-9d2c-42d4-a981-58a86bdca58f
+GL,2025,spring,2026-04-03,2026-04-19,17,Spring,GL,False,openholidays,88fac81e-72d9-4dc6-bcf7-fb8be6ae153c
+GL,2025,summer,2026-06-27,2026-08-09,44,Summer,GL,False,openholidays,6a6f0722-b27a-4102-91e2-e28d6bb335aa
+GL,2026,autumn,2026-10-03,2026-10-18,16,Autumn,GL,False,openholidays,16044b77-d8f6-4e50-8a54-b8d791da9f4a
+GL,2026,christmas,2026-12-24,2027-01-10,18,Christmas,GL,False,openholidays,e4695bf7-ceb5-4703-9fd8-530937859098
+GR,2019,christmas,2019-12-21,2020-01-05,16,Christmas holidays,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,2471bed6-048c-42c6-bd95-635748fb5347
+GR,2020,term_start,2020-08-17,2020-08-17,1,Start of the school year,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,4800fa0c-1768-4568-b442-99f7054fc579
+GR,2020,autumn,2020-10-10,2020-10-25,16,Autumn holidays,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,9e9ec93e-1ff2-4e26-ab14-f680301d4fa8
+GR,2020,christmas,2020-12-23,2021-01-05,14,Christmas holidays,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,07b12225-945e-4e36-a42a-88f2283ddff3
+GR,2021,term_start,2021-08-16,2021-08-16,1,Start of the school year,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,3329c9e6-0059-4506-a086-0ded2f4ea332
+GR,2021,autumn,2021-10-09,2021-10-24,16,Autumn holidays,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,4ec422bf-2f03-4e91-8e86-c719f553304b
+GR,2021,christmas,2021-12-23,2022-01-05,14,Christmas holidays,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,3f68d45b-9fbd-4105-94f8-c323efac1232
+GR,2022,term_start,2022-08-15,2022-08-15,1,Start of the school year,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,ac4e1f87-6f3c-4c60-bd73-8bf22260591f
+GR,2022,autumn,2022-10-08,2022-10-23,16,Autumn holidays,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,a15e4d18-9481-40f8-bb34-07090fd3398c
+GR,2022,christmas,2022-12-24,2023-01-08,16,Christmas holidays,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,1f3dc475-c050-4ace-9ca6-6635b474526c
+GR,2023,term_start,2023-08-14,2023-08-14,1,Start of the school year,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,57fe5130-3067-45c2-8ec1-a9ca83b8eed8
+GR,2023,term_start,2023-08-21,2023-08-21,1,Start of the school year,GR-MS,False,openholidays,f29d1d11-7eb5-4719-953f-3e21832be0c4
+GR,2023,autumn,2023-10-07,2023-10-22,16,Autumn holidays,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,519baf75-a905-4f37-a930-a38f7d626a5a
+GR,2023,autumn,2023-10-28,2023-11-05,9,Autumn holidays,GR-MS,False,openholidays,b5dee9cb-900e-4301-a65c-dcee34694049
+GR,2023,christmas,2023-12-23,2024-01-07,16,Christmas holidays,GR-MS,False,openholidays,8bc323f5-e146-4134-89e4-f3e94c25b725
+GR,2023,christmas,2023-12-23,2024-01-07,16,Christmas holidays,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,c6cf3fd9-d7ec-487b-b334-e198cbc34d66
+GR,2024,term_start,2024-08-12,2024-08-12,1,Start of the school year,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,ae4d3135-ba5c-4aa4-b1a7-a3e891a2bd77
+GR,2024,term_start,2024-08-26,2024-08-26,1,Start of the school year,GR-MS,False,openholidays,e3ed4fea-e79f-4bb2-afaa-fc6e37aafb21
+GR,2024,autumn,2024-10-05,2024-10-20,16,Autumn holidays,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,32465a21-7547-4f10-a562-aeb6d77c2d51
+GR,2024,autumn,2024-10-26,2024-11-03,9,Autumn holidays,GR-MS,False,openholidays,169a9175-3446-4935-b83a-42cdff2c89e9
+GR,2024,christmas,2024-12-21,2025-01-05,16,Christmas holidays,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,4bc6110e-1c93-4bbc-8321-ff8b81d889a9
+GR,2024,christmas,2024-12-21,2025-01-06,17,Christmas holidays,GR-MS,False,openholidays,15f29925-93c0-4dd6-9db2-4121d70f91ec
+GR,2025,term_start,2025-08-11,2025-08-11,1,Start of the school year,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,b7b61d23-cc5d-41c7-b5dd-808c87f7b9ce
+GR,2025,term_start,2025-08-25,2025-08-25,1,Start of the school year,GR-MS,False,openholidays,23296fbc-de54-4852-8a59-1cf633115e89
+GR,2025,autumn,2025-10-06,2025-10-17,12,Autumn holidays,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,58fc68d7-b829-49b5-a715-0b5b2e5599c1
+GR,2025,autumn,2025-11-01,2025-11-09,9,Autumn holidays,GR-MS,False,openholidays,daa27294-1cb0-4fa2-ba79-1d65d0b34e20
+GR,2025,christmas,2025-12-22,2026-01-02,12,Christmas holidays,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,67988060-855a-463d-af82-f83c02a359c7
+GR,2025,christmas,2025-12-24,2026-01-06,14,Christmas holidays,GR-MS,False,openholidays,c0394acf-7723-43f6-8f57-b0d60520bbc1
+GR,2026,term_start,2026-08-17,2026-08-17,1,Start of the school year,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,41b8cc8f-361e-4e36-9f9a-0eaa37c91ba1
+GR,2026,term_start,2026-08-24,2026-08-24,1,Start of the school year,GR-MS,False,openholidays,603a6e77-9285-474e-9d39-07982f3b41cb
+GR,2026,autumn,2026-10-10,2026-10-25,16,Autumn holidays,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,43936b40-6f78-4f45-96a2-41eb0cf621f9
+GR,2026,autumn,2026-10-31,2026-11-08,9,Autumn holidays,GR-MS,False,openholidays,5c000dfd-ba7f-4966-ba88-1c9379ffd35e
+GR,2026,christmas,2026-12-23,2027-01-05,14,Christmas holidays,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,6785b84b-9431-48b1-8a49-1e5a5de9547f
+GR,2026,christmas,2026-12-24,2027-01-06,14,Christmas holidays,GR-MS,False,openholidays,6368307e-c48a-429d-b846-efd5ac75fdd0
+GR,2027,term_start,2027-08-16,2027-08-16,1,Start of the school year,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,aa7ccc2b-2ee5-48d0-a3dc-03b2cac0d27f
+GR,2027,autumn,2027-10-09,2027-10-24,16,Autumn holidays,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,68256f70-c956-4084-bff0-87f751fb6f7c
+GR,2027,christmas,2027-12-23,2028-01-05,14,Christmas holidays,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,342f9907-d5e3-4d1a-9833-5353384f06c0
+GR,2028,term_start,2028-08-14,2028-08-14,1,Start of the school year,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,1999e902-648e-4b50-b268-b5fdbaf9df85
+GR,2028,autumn,2028-10-07,2028-10-22,16,Autumn holidays,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,361c412f-9f36-4a16-85fd-26770b7c7182
+GR,2028,christmas,2028-12-23,2029-01-07,16,Christmas holidays,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,97a99f97-e93b-49bf-a31c-9f5404b6f23f
+GR,2029,term_start,2029-08-13,2029-08-13,1,Start of the school year,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,09df1e85-19bc-4873-8cc4-96d6b7384789
+GR,2029,autumn,2029-10-06,2029-10-21,16,Autumn holidays,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,aa80ed06-9e85-4c37-b2ff-f30ea3864417
+GR,2029,christmas,2029-12-22,2030-01-06,16,Christmas holidays,"GR-AB,GR-BN,GR-EB,GR-IB,GR-LQ,GR-ML,GR-PD,GR-PS,GR-SS,GR-VM",True,openholidays,488584ae-13af-499d-acb0-a9062d3da5bd
+JU,2019,christmas,2019-12-23,2020-01-03,12,Christmas holidays,JU,False,openholidays,58e678f8-c4a9-4828-a1ab-2d9c94a230ec
+JU,2019,winter,2020-02-17,2020-02-21,5,Winter break,JU,False,openholidays,b088d3dd-4f17-4c3c-b96b-c408d29d1ff1
+JU,2019,spring,2020-04-10,2020-04-24,15,Easter holidays,JU,False,openholidays,27e8dff2-9461-4bce-acda-a83139ccc379
+JU,2019,bridge,2020-04-21,2020-04-22,2,Ascension,JU,False,openholidays,96e57047-2a32-4246-8f29-7d875162eeb0
+JU,2019,summer,2020-07-06,2020-08-14,40,Summer holidays,JU,False,openholidays,1188ca07-2fab-44d6-899b-00f274398969
+JU,2020,autumn,2020-10-12,2020-10-23,12,Autumn holidays,JU,False,openholidays,35239f35-b812-4f38-b2b3-46d187a3ced2
+JU,2020,christmas,2020-12-24,2021-01-08,16,Christmas holidays,JU,False,openholidays,d2feda01-4c76-49f2-9df1-0d2509b9e63b
+JU,2020,winter,2021-02-22,2021-02-26,5,Winter break,JU,False,openholidays,fc2fa279-a2c6-41b6-b75b-9cf22117dc52
+JU,2020,spring,2021-04-02,2021-04-16,15,Easter holidays,JU,False,openholidays,4da302fe-145f-4305-bfba-0da8d5666e76
+JU,2020,bridge,2021-05-13,2021-05-14,2,Ascension,JU,False,openholidays,87988e43-c93a-4274-bb84-847e2a6c65d2
+JU,2020,summer,2021-07-05,2021-08-13,40,Summer holidays,JU,False,openholidays,12df7121-d17d-4188-bc92-edbadb207e18
+JU,2021,autumn,2021-10-11,2021-10-22,12,Autumn holidays,JU,False,openholidays,eec034d1-9743-4980-bab1-2a5e8cc9fc49
+JU,2021,christmas,2021-12-24,2022-01-07,15,Christmas holidays,JU,False,openholidays,6222d3d1-3157-4574-9b85-4ebc8d6a403d
+JU,2021,winter,2022-02-21,2022-02-25,5,Winter break,JU,False,openholidays,5dd06fe4-244f-417c-9f40-764456c4617e
+JU,2021,spring,2022-04-11,2022-04-22,12,Easter holidays,JU,False,openholidays,2d2d0256-4528-4604-950b-2dc9ecb87791
+JU,2021,bridge,2022-05-26,2022-05-27,2,Ascension,JU,False,openholidays,9545b692-abf2-4696-b38a-64f3073db301
+JU,2021,summer,2022-07-04,2022-08-12,40,Summer holidays,JU,False,openholidays,d8ae8395-1558-44a2-8359-ee204be8f204
+JU,2022,autumn,2022-10-10,2022-10-21,12,Autumn holidays,JU,False,openholidays,77780b87-1a3b-4c83-b7ba-a33a716bcc70
+JU,2022,christmas,2022-12-26,2023-01-06,12,Christmas holidays,JU,False,openholidays,196823b2-00e0-45d1-b37d-00f16eb7fd06
+JU,2022,winter,2023-02-20,2023-02-24,5,Winter break,JU,False,openholidays,313cd02f-2e0c-4c13-afbd-2beb1b7892ab
+JU,2022,spring,2023-04-07,2023-04-21,15,Easter holidays,JU,False,openholidays,b3360222-da89-4408-a4b1-9fe5a7209c9c
+JU,2022,bridge,2023-05-18,2023-05-19,2,Ascension,JU,False,openholidays,0d00fffe-2c46-41b8-bc23-1f6798d6fd5f
+JU,2022,summer,2023-07-03,2023-08-18,47,Summer holidays,JU,False,openholidays,5cdd645d-10c3-4468-8c14-6e7ad144fa94
+JU,2023,autumn,2023-10-16,2023-10-27,12,Autumn holidays,JU,False,openholidays,faec1dcd-44e6-4b89-a28c-2a0e819082e7
+JU,2023,christmas,2023-12-25,2024-01-05,12,Christmas holidays,JU,False,openholidays,e3ec52db-2411-4fd5-9d7b-35652e8500d2
+JU,2023,winter,2024-02-19,2024-02-23,5,Winter break,JU,False,openholidays,5113dd5b-0be5-429c-adba-9d56f7ad51cd
+JU,2023,spring,2024-03-29,2024-04-12,15,Easter holidays,JU,False,openholidays,5da0a8c1-1382-4f82-b6d7-a1c6e3bc2fe2
+JU,2023,bridge,2024-05-09,2024-05-10,2,Ascension,JU,False,openholidays,a5f29a26-c4e5-4364-be25-63cbe9efbf55
+JU,2023,summer,2024-07-08,2024-08-16,40,Summer holidays,JU,False,openholidays,8d90452c-29ce-44dd-9969-5300053ce0e5
+JU,2024,autumn,2024-10-14,2024-10-25,12,Autumn holidays,JU,False,openholidays,7cea4b0c-6c58-4b8a-ad0e-6f984ae72e09
+JU,2024,christmas,2024-12-23,2025-01-03,12,Christmas holidays,JU,False,openholidays,c3739baf-6474-46db-956f-b4117557bcfc
+JU,2024,winter,2025-02-24,2025-02-28,5,Winter break,JU,False,openholidays,e62fc6ee-566d-4d7e-b260-8eb1d9ba71f1
+JU,2024,spring,2025-03-18,2025-05-02,46,Easter holidays,JU,False,openholidays,ce0f46e5-6d48-4f5b-a73f-31b21ae1687a
+JU,2024,bridge,2025-05-29,2025-05-30,2,Ascension,JU,False,openholidays,8f4ce40e-4be7-460f-b33a-1d8d731bd8ae
+JU,2024,summer,2025-07-07,2025-08-15,40,Summer holidays,JU,False,openholidays,ec5ebce1-ce8e-4ede-a611-7d136d513f06
+JU,2025,autumn,2025-10-06,2025-10-17,12,Autumn holidays,JU,False,openholidays,6b0817e9-bcec-46ad-b04d-01e320e8c2b9
+JU,2025,christmas,2025-12-22,2026-01-02,12,Christmas holidays,JU,False,openholidays,d774f9c1-0df7-46b0-aeb8-7d01b27a5bbc
+JU,2025,winter,2026-02-16,2026-02-20,5,Winter break,JU,False,openholidays,818cee2d-0a2b-4345-a033-c7aa161621f1
+JU,2025,spring,2026-04-03,2026-04-17,15,Easter holidays,JU,False,openholidays,17654155-6aeb-41aa-a466-51ed47695216
+JU,2025,bridge,2026-05-14,2026-05-15,2,Ascension,JU,False,openholidays,a033dce3-9550-4160-bbf9-627dbfde6f55
+JU,2025,summer,2026-07-06,2026-08-14,40,Summer holidays,JU,False,openholidays,aec7dfdd-64a5-4a54-9c9d-add2699179c8
+JU,2026,autumn,2026-10-05,2026-10-16,12,Autumn holidays,JU,False,openholidays,d605cc69-78d0-4eea-9f1c-a44fa4b901c4
+JU,2026,christmas,2026-12-24,2027-01-08,16,Christmas holidays,JU,False,openholidays,fd91a357-458f-4da5-b609-33cc3e0142a8
+JU,2026,winter,2027-02-15,2027-02-19,5,Winter break,JU,False,openholidays,04904af2-b545-4f91-b249-cb09cea3b33b
+JU,2026,spring,2027-03-26,2027-04-09,15,Easter holidays,JU,False,openholidays,6a9b6f32-d7f6-46b8-8f2d-a520545b4348
+JU,2026,bridge,2027-05-06,2027-05-07,2,Ascension,JU,False,openholidays,15416864-1717-4cb4-a075-37e00a65fae6
+JU,2026,summer,2027-07-05,2027-08-13,40,Summer holidays,JU,False,openholidays,d5028e28-6d02-4b04-8f58-9b4d68149840
+JU,2027,autumn,2027-10-11,2027-10-22,12,Autumn holidays,JU,False,openholidays,72960721-2f8f-4ab8-9e4b-88e0fe1e82bc
+JU,2027,christmas,2027-12-24,2028-01-07,15,Christmas holidays,JU,False,openholidays,9dcca064-f23a-4909-a1c2-c99b9bea51ee
+JU,2027,winter,2028-02-21,2028-02-25,5,Winter break,JU,False,openholidays,a03a59d7-56b3-48c7-84ce-80749bb0a346
+JU,2027,spring,2028-04-14,2028-04-28,15,Easter holidays,JU,False,openholidays,522917f6-c694-4729-b839-ebc6bb22a8da
+JU,2027,bridge,2028-05-25,2028-05-26,2,Ascension,JU,False,openholidays,cb1fa839-ab38-4469-a884-33d2d87745e8
+JU,2027,summer,2028-07-03,2028-08-18,47,Summer holidays,JU,False,openholidays,2cdc338d-3be2-46b4-9f98-114f1d86b210
+LU,2019,winter,2020-02-15,2020-03-01,16,Carnival holidays,LU,False,openholidays,61c1a975-ff43-4a65-b0d0-ac5f1cb17b11
+LU,2019,spring,2020-04-10,2020-04-26,17,Spring holidays,LU,False,openholidays,d0c5f3e5-d87a-470b-b1fd-5e4e357d4b81
+LU,2019,summer,2020-07-04,2020-08-16,44,Summer holidays,LU,False,openholidays,27c09d89-2781-4ae7-bc42-18c89ded2e28
+LU,2020,autumn,2020-09-26,2020-10-11,16,Autumn holidays,LU,False,openholidays,5bf1babb-cf98-4703-aac9-b818353de821
+LU,2020,christmas,2020-12-19,2021-01-03,16,Christmas holidays,LU,False,openholidays,f3d2c528-b864-449b-aa9e-53f9ccc0a40a
+LU,2020,winter,2021-02-06,2021-02-21,16,Carnival holidays,LU,False,openholidays,01acd7e5-fe4b-4abe-bc70-3ebd023f2e74
+LU,2020,spring,2021-04-02,2021-04-18,17,Spring holidays,LU,False,openholidays,0ce3b311-a4a8-48d3-85c7-427739f268ed
+LU,2020,summer,2021-07-10,2021-08-22,44,Summer holidays,LU,False,openholidays,39254918-6ee0-4af8-b0b5-f920a65aaf29
+LU,2021,autumn,2021-10-02,2021-10-17,16,Autumn holidays,LU,False,openholidays,273a0514-8281-4f86-9dc6-b095fd9a69e2
+LU,2021,christmas,2021-12-18,2022-01-02,16,Christmas holidays,LU,False,openholidays,976035b6-d1d2-42f1-996d-70cdbef863f3
+LU,2021,winter,2022-02-19,2022-03-06,16,Carnival holidays,LU,False,openholidays,91995f00-add6-452e-8cb9-5b67c4e4fa76
+LU,2021,spring,2022-04-15,2022-05-01,17,Spring holidays,LU,False,openholidays,912af123-df18-4a77-8c4b-109e512fc111
+LU,2021,summer,2022-07-09,2022-08-21,44,Summer holidays,LU,False,openholidays,eaa2f014-8106-4069-8d82-8cadebe0bc81
+LU,2022,autumn,2022-10-01,2022-10-16,16,Autumn holidays,LU,False,openholidays,33370f3a-dd8c-4979-b2de-565db21f7146
+LU,2022,christmas,2022-12-24,2023-01-08,16,Christmas holidays,LU,False,openholidays,6bc78d05-9559-497e-b84a-077b93f48145
+LU,2022,winter,2023-02-11,2023-02-26,16,Carnival holidays,LU,False,openholidays,3cbb062b-3ae6-4874-93e1-5fd0f497cf31
+LU,2022,spring,2023-04-07,2023-04-23,17,Spring holidays,LU,False,openholidays,f5bab825-41ea-4a96-8776-b062d217eada
+LU,2022,summer,2023-07-08,2023-08-20,44,Summer holidays,LU,False,openholidays,ea2b8dcb-1b1c-436b-8951-fbd33bfa0cb1
+LU,2023,autumn,2023-09-30,2023-10-15,16,Autumn holidays,LU,False,openholidays,6f6c0fb8-f2d0-4903-92ac-6a522ee68873
+LU,2023,christmas,2023-12-23,2024-01-07,16,Christmas holidays,LU,False,openholidays,5b073a86-b274-4052-afd7-ddd307cc69db
+LU,2023,winter,2024-02-03,2024-02-18,16,Carnival holidays,LU,False,openholidays,c302a2e3-bce8-4cd9-bd54-4ae40193c5f1
+LU,2023,spring,2024-03-29,2024-04-14,17,Spring holidays,LU,False,openholidays,0d6288cd-f343-4b60-a822-68921c649fb0
+LU,2023,summer,2024-07-06,2024-08-18,44,Summer holidays,LU,False,openholidays,5216961e-50dc-41cd-a4f5-d4f452f432d7
+LU,2024,autumn,2024-09-28,2024-10-13,16,Autumn holidays,LU,False,openholidays,d7f04c4a-b99b-4236-85d3-05010fe55fe6
+LU,2024,christmas,2024-12-21,2025-01-05,16,Christmas holidays,LU,False,openholidays,4d974cf2-84a2-4de4-8c49-f3c70d0936ea
+LU,2024,winter,2025-02-22,2025-03-09,16,Carnival holidays,LU,False,openholidays,74c58d14-0b0f-4032-b099-267f83be2f49
+LU,2024,spring,2025-04-18,2025-05-04,17,Spring holidays,LU,False,openholidays,7634be9a-fa1d-4c22-92e9-918e6de28279
+LU,2024,summer,2025-07-05,2025-08-17,44,Summer holidays,LU,False,openholidays,4b99d87b-1ec0-498f-9ffe-c7e13ad79115
+LU,2025,autumn,2025-09-27,2025-10-12,16,Autumn holidays,LU,False,openholidays,f91a120d-cd36-4fb5-af3a-3491832d63c3
+LU,2025,christmas,2025-12-20,2026-01-04,16,Christmas holidays,LU,False,openholidays,19143f74-1e56-4a96-a168-e2842c46fc8b
+LU,2025,winter,2026-02-07,2026-02-22,16,Carnival holidays,LU,False,openholidays,1891d826-9e88-4a57-832b-cc84969afea2
+LU,2025,spring,2026-04-03,2026-04-19,17,Spring holidays,LU,False,openholidays,145b3a26-566f-43b2-85df-b91e0be88393
+LU,2025,summer,2026-07-04,2026-08-16,44,Summer holidays,LU,False,openholidays,048f0bc2-12f0-4bcf-ab87-42dcc41672f7
+LU,2026,autumn,2026-09-26,2026-10-11,16,Autumn holidays,LU,False,openholidays,a1178819-bc37-4d86-9c2c-02aac6da6b6c
+LU,2026,christmas,2026-12-19,2027-01-03,16,Christmas holidays,LU,False,openholidays,1c7a0d5c-f7c4-4060-8466-78df2daac6a5
+LU,2026,winter,2027-01-30,2027-02-14,16,Carnival holidays,LU,False,openholidays,bb78e96c-f3a1-478a-ad0a-68b40605a38f
+LU,2026,spring,2027-03-26,2027-04-11,17,Spring holidays,LU,False,openholidays,989e9911-8705-4f76-b1a2-3f69e76fed81
+LU,2026,summer,2027-07-03,2027-08-15,44,Summer holidays,LU,False,openholidays,6ec7b886-a602-4f31-b14e-6a3a5f29d155
+LU,2027,autumn,2027-09-25,2027-10-10,16,Autumn holidays,LU,False,openholidays,1a3f289b-af20-411a-a590-e9c7593b77ed
+LU,2027,christmas,2027-12-18,2028-01-02,16,Christmas holidays,LU,False,openholidays,df3a9e63-f74e-4363-b0a0-6d251c472b08
+LU,2027,winter,2028-02-19,2028-03-05,16,Carnival holidays,LU,False,openholidays,1a7cde0e-4e7a-415d-a945-6aa021cb971e
+LU,2027,spring,2028-04-14,2028-04-30,17,Spring holidays,LU,False,openholidays,f7067831-c8ca-4792-8c79-fc96b7b8f020
+LU,2027,summer,2028-07-08,2028-08-20,44,Summer holidays,LU,False,openholidays,3308ae9e-c2b3-48e1-8897-a12dde6201df
+NE,2019,winter,2020-02-22,2020-03-01,9,Sport,NE,False,openholidays,eff455dc-e36f-4575-8470-48e0a6a69e88
+NE,2019,spring,2020-04-10,2020-04-26,17,Spring,NE,False,openholidays,f653b6bc-3cdd-4d49-ad2b-9dd7e314658f
+NE,2019,summer,2020-07-04,2020-08-16,44,Summer,NE,False,openholidays,d68e8b14-b3bc-4b8e-8c2a-38828d71a9b9
+NE,2020,autumn,2020-10-03,2020-10-18,16,Autumn,NE,False,openholidays,a7952a28-97ec-49bc-b6f5-026006e4b615
+NE,2020,christmas,2020-12-24,2021-01-10,18,Christmas,NE,False,openholidays,2d936978-743f-408a-bd88-4bb02ed19550
+NE,2020,winter,2021-02-27,2021-03-07,9,Sport,NE,False,openholidays,7de93ae5-9ef7-4cfe-b8e0-d03478a69f8b
+NE,2020,spring,2021-04-02,2021-04-18,17,Spring,NE,False,openholidays,db3dfbd2-0eb3-46b3-8eda-5473b5bdc523
+NE,2020,summer,2021-07-03,2021-08-15,44,Summer,NE,False,openholidays,8e257d30-410a-476f-9f59-9180d92b23fe
+NE,2021,autumn,2021-10-02,2021-10-17,16,Autumn,NE,False,openholidays,a9d2e715-54d8-44a9-bc6d-f585d82840e7
+NE,2021,christmas,2021-12-24,2022-01-09,17,Christmas,NE,False,openholidays,f0a3d8ab-33eb-4110-ac36-32d594ba07a1
+NE,2021,winter,2022-02-26,2022-03-06,9,Sport,NE,False,openholidays,8b17fd2e-d771-4b9b-af6b-e5a2dc4ed139
+NE,2021,spring,2022-04-09,2022-04-24,16,Spring,NE,False,openholidays,f93a5e08-20c7-4e76-9c1e-1d3693c277ea
+NE,2021,summer,2022-07-02,2022-08-14,44,Summer,NE,False,openholidays,23ad7dd7-94fb-4b48-9d90-62d607bcdfcb
+NE,2022,autumn,2022-10-01,2022-10-16,16,Autumn,NE,False,openholidays,4a45f82c-f63b-4ce1-9569-36b0784b7053
+NE,2022,christmas,2022-12-24,2023-01-08,16,Christmas,NE,False,openholidays,1b5c523d-d9dd-44e2-8ac5-d18e7a65bffe
+NE,2022,winter,2023-02-25,2023-03-05,9,Sport,NE,False,openholidays,627e9106-90a2-48ea-a2cd-57e807c0674c
+NE,2022,spring,2023-04-07,2023-04-23,17,Spring,NE,False,openholidays,d0e309a9-2070-4fe9-98e7-ffbd7aca6b73
+NE,2022,summer,2023-07-01,2023-08-13,44,Summer,NE,False,openholidays,f2bb2b3f-4ba6-4597-b9d6-b08038c7f610
+NE,2023,autumn,2023-09-30,2023-10-15,16,Autumn,NE,False,openholidays,8e20fd99-cfe6-4551-ad5a-927176091741
+NE,2023,christmas,2023-12-21,2024-01-07,18,Christmas,NE,False,openholidays,c0923b18-2178-4348-99a6-a67b6d12ea38
+NE,2023,winter,2024-02-24,2024-03-03,9,Sport,NE,False,openholidays,b0d81215-be40-4384-b7d6-49ec903d1e49
+NE,2023,spring,2024-03-29,2024-04-14,17,Spring,NE,False,openholidays,95b83ef0-364f-4424-8043-a65e38d6690e
+NE,2023,summer,2024-07-06,2024-08-18,44,Summer,NE,False,openholidays,f814481b-c7b7-417c-a114-6bf998d57ea7
+NE,2024,autumn,2024-10-05,2024-10-20,16,Autumn,NE,False,openholidays,c4ff53cc-53d6-4ce3-b997-bec9d223cf92
+NE,2024,christmas,2024-12-21,2025-01-05,16,Christmas,NE,False,openholidays,eda0dd4b-6919-4b64-bcf2-c7426cf1935c
+NE,2024,winter,2025-02-22,2025-03-02,9,Sport,NE,False,openholidays,5584797c-8c14-44fb-a9f1-217ef67f2fb7
+NE,2024,spring,2025-04-12,2025-04-27,16,Spring,NE,False,openholidays,1025b936-fc45-463e-bf61-970317c775c9
+NE,2024,summer,2025-07-05,2025-08-17,44,Summer,NE,False,openholidays,08c7bc71-5812-49ce-9dda-e4878d95ecb1
+NE,2025,autumn,2025-10-04,2025-10-19,16,Autumn,NE,False,openholidays,0ea25d77-9900-4867-b234-011a309a6806
+NE,2025,christmas,2025-12-20,2026-01-04,16,Christmas,NE,False,openholidays,9906a95a-7189-4f23-900e-4ba9a1d6dfdd
+NE,2025,winter,2026-02-21,2026-03-01,9,Sport,NE,False,openholidays,b452008e-d708-4efa-9b77-e56579c18987
+NE,2025,spring,2026-04-03,2026-04-19,17,Spring,NE,False,openholidays,8a50b883-a98b-42e8-92cc-70367444655f
+NE,2025,summer,2026-07-04,2026-08-16,44,Summer,NE,False,openholidays,7e4647cb-09d5-49ac-8648-adb1deb9f640
+NE,2026,autumn,2026-10-03,2026-10-18,16,Autumn,NE,False,openholidays,d28e171a-95cd-40c0-a61c-411c5ad4ae31
+NE,2026,christmas,2026-12-19,2027-01-03,16,Christmas,NE,False,openholidays,2600c8f5-b66c-4cd5-860c-af6f6fc3d2bf
+NW,2019,winter,2020-02-15,2020-03-01,16,Sport,NW,False,openholidays,4537d5fa-9e1a-456e-8b7e-23810a03175e
+NW,2019,spring,2020-04-10,2020-04-26,17,Spring,NW,False,openholidays,c7289de2-094b-42b3-9a0c-8d67364c3534
+NW,2019,summer,2020-07-04,2020-08-16,44,Summer,NW,False,openholidays,c760ff7d-9b21-4d03-8b0b-e03d6a13ffa3
+NW,2019,summer,2020-07-04,2020-08-23,51,Summer,NW,False,openholidays,512164cd-e738-45cd-8939-a9bd03fdd127
+NW,2020,autumn,2020-09-26,2020-10-11,16,Autumn,NW,False,openholidays,0139239e-2cd7-4886-bcc2-338a13cc1b73
+NW,2020,christmas,2020-12-19,2021-01-03,16,Christmas,NW,False,openholidays,85f314a3-b750-4e47-bb4b-b33adc63e229
+NW,2020,winter,2021-02-06,2021-02-21,16,Sport,NW,False,openholidays,cf0730c3-d2f6-46c2-99d2-498ad1f31cb4
+NW,2020,spring,2021-04-02,2021-04-18,17,Spring,NW,False,openholidays,f1f6d2e8-4d37-4695-9bed-b772dccf21cd
+NW,2020,summer,2021-07-03,2021-08-15,44,Summer,NW,False,openholidays,3e8368f0-9537-492b-b159-ce755e9d1a0c
+NW,2020,summer,2021-07-03,2021-08-22,51,Summer,NW,False,openholidays,45017e63-e8f8-4b6f-989d-9f7908b0a5df
+NW,2021,autumn,2021-09-25,2021-10-10,16,Autumn,NW,False,openholidays,3e144ab9-f606-4080-976b-a8027bc3f1cc
+NW,2021,christmas,2021-12-18,2022-01-02,16,Christmas,NW,False,openholidays,141519d6-91cd-46bd-9830-2a8ac34df468
+NW,2021,winter,2022-02-19,2022-03-06,16,Sport,NW,False,openholidays,35ce46b5-fa89-42f4-b4d6-322788c9339f
+NW,2021,spring,2022-04-15,2022-05-01,17,Spring,NW,False,openholidays,2cab986e-8aad-4a55-9fe2-bb2a97ffeb85
+NW,2021,summer,2022-07-09,2022-08-21,44,Summer,NW,False,openholidays,1cc6bfbd-43a9-4e91-aa21-ca08a9201c07
+NW,2021,summer,2022-07-09,2022-08-28,51,Summer,NW,False,openholidays,6bd3564b-69e5-4228-9e15-3b7b0ee731a1
+NW,2022,autumn,2022-10-01,2022-10-16,16,Autumn,NW,False,openholidays,ea20c4b5-734d-4891-a57b-a308be9c24d6
+NW,2022,christmas,2022-12-24,2023-01-08,16,Christmas,NW,False,openholidays,1c3c8efa-057a-4713-993c-0dbe36c2c3a0
+NW,2022,winter,2023-02-11,2023-02-26,16,Sport,NW,False,openholidays,287559d4-ba67-4bc9-bf11-23ae5d3bc400
+NW,2022,spring,2023-04-07,2023-04-23,17,Spring,NW,False,openholidays,822852a7-08bf-4724-ae20-cfaee61f6168
+NW,2022,summer,2023-07-08,2023-08-20,44,Summer,NW,False,openholidays,882071d7-e8a5-4a90-a8ce-84a5c5187890
+NW,2022,summer,2023-07-08,2023-08-27,51,Summer,NW,False,openholidays,8095366b-8fd2-4aaf-960b-6044b6e0879b
+NW,2023,autumn,2023-09-30,2023-10-15,16,Autumn,NW,False,openholidays,d472f04a-0e93-47e1-84d4-4c18f5dfda44
+NW,2023,christmas,2023-12-23,2024-01-07,16,Christmas,NW,False,openholidays,78b1aede-5b3b-43f1-a766-19f4254192d1
+NW,2023,winter,2024-02-03,2024-02-18,16,Sport,NW,False,openholidays,849393ff-7e37-4805-9461-186b473ec3d3
+NW,2023,spring,2024-03-29,2024-04-14,17,Spring,NW,False,openholidays,6ba47749-9e04-48cb-9917-81117f631b3c
+NW,2023,summer,2024-07-06,2024-08-18,44,Summer,NW,False,openholidays,3a0b7f2b-67f1-4c1a-a6d9-22872e169cf0
+NW,2023,summer,2024-07-06,2024-08-25,51,Summer,NW,False,openholidays,b8eb14a5-a51f-4892-8b2f-a70e2a95d9d2
+NW,2024,autumn,2024-09-28,2024-10-13,16,Autumn,NW,False,openholidays,30bb4897-16fe-42cd-af77-3668e41a5363
+NW,2024,christmas,2024-12-21,2025-01-05,16,Christmas,NW,False,openholidays,65a928a6-95a0-44ac-bc40-dc4f4ff6188f
+NW,2024,winter,2025-02-22,2025-03-09,16,Sport,NW,False,openholidays,96616d4c-3f55-444b-87b5-40f17af0c599
+NW,2024,spring,2025-04-18,2025-05-04,17,Spring,NW,False,openholidays,b422837b-d097-44cf-b8ad-736aa47b36dc
+NW,2024,summer,2025-07-05,2025-08-17,44,Summer,NW,False,openholidays,a6914596-a506-4916-ae07-d979930f73e5
+NW,2025,autumn,2025-09-27,2025-10-12,16,Autumn,NW,False,openholidays,8b6c41c2-c6d1-4922-877e-49b9751a2b7a
+NW,2025,christmas,2025-12-20,2026-01-04,16,Christmas,NW,False,openholidays,19ce8e6e-99e5-435f-bac1-94f48776914b
+NW,2025,winter,2026-02-07,2026-02-22,16,Sport,NW,False,openholidays,4baf5592-0bdb-4fc5-b169-de9bb8012c0e
+NW,2025,spring,2026-04-03,2026-04-19,17,Spring,NW,False,openholidays,f8c994ff-cd43-4353-9ea1-4f0834155cef
+NW,2025,summer,2026-07-04,2026-08-16,44,Summer,NW,False,openholidays,59d04946-cd55-4793-ac15-fc0c4708763c
+NW,2026,autumn,2026-09-26,2026-10-11,16,Autumn,NW,False,openholidays,417edf11-8124-486a-a06e-3bc9ddb46406
+NW,2026,christmas,2026-12-19,2027-01-03,16,Christmas,NW,False,openholidays,29772705-4368-43a5-89ca-9e82a6face5a
+OW,2019,winter,2020-02-15,2020-03-01,16,Sport,OW,False,openholidays,26d95037-c303-4135-99a8-3686518e8778
+OW,2019,spring,2020-04-10,2020-04-26,17,Spring,OW,False,openholidays,eb20e3ba-106a-469f-bbbd-ced3240351f1
+OW,2019,summer,2020-07-04,2020-08-16,44,Summer,OW,False,openholidays,7adcdbbf-0b47-49a2-a1c1-56cb85eb6a8f
+OW,2020,autumn,2020-09-26,2020-10-11,16,Autumn,OW,False,openholidays,7184ecc8-0f02-4473-9542-5bbb30b3be96
+OW,2020,christmas,2020-12-24,2021-01-06,14,Christmas,OW,False,openholidays,f2fb5f50-1517-47b0-ab8c-6a1b6de1459d
+OW,2020,winter,2021-02-06,2021-02-21,16,Sport,OW,False,openholidays,9d33a3fa-a7b0-4114-aeab-06fa1ea3eff8
+OW,2020,spring,2021-04-02,2021-04-18,17,Spring,OW,False,openholidays,5f81ff08-72a1-4d08-a7da-870b455569e2
+OW,2020,summer,2021-07-10,2021-08-22,44,Summer,OW,False,openholidays,7f2df6e1-c936-4608-b5bf-4fb282e00c85
+OW,2021,autumn,2021-10-02,2021-10-24,23,Autumn,OW,False,openholidays,cf172617-8877-4f3f-85ce-cda75d1a665d
+OW,2021,christmas,2021-12-24,2022-01-06,14,Christmas,OW,False,openholidays,d086e359-c593-4e4a-9ae8-0ca94ae36e45
+OW,2021,winter,2022-02-19,2022-03-06,16,Sport,OW,False,openholidays,0e508827-a900-4fea-8f67-4fb45327dbf7
+OW,2021,spring,2022-04-15,2022-05-01,17,Spring,OW,False,openholidays,d2ecf586-9510-4462-a7ef-5b2d10ae196b
+OW,2021,summer,2022-07-02,2022-08-15,45,Summer,OW,False,openholidays,8aa694c5-df00-48ed-bb78-24017ae56294
+OW,2022,autumn,2022-10-01,2022-10-16,16,Autumn,OW,False,openholidays,a9a17221-9bf8-45d0-ba77-b3d0c7e98488
+OW,2022,christmas,2022-12-24,2023-01-08,16,Christmas,OW,False,openholidays,1f2f18df-7bd2-4a1a-9ea4-fdfbf6290421
+OW,2022,winter,2023-02-11,2023-02-26,16,Sport,OW,False,openholidays,2adecc1c-336d-4b94-b3a0-6598a57a0040
+OW,2022,spring,2023-04-07,2023-04-23,17,Spring,OW,False,openholidays,3d8b0c36-eaa1-4bc3-888a-c9611089bbfa
+OW,2022,summer,2023-07-08,2023-08-20,44,Summer,OW,False,openholidays,7b9d4051-0932-404c-af7f-3e0519032e32
+OW,2023,autumn,2023-09-30,2023-10-15,16,Autumn,OW,False,openholidays,00ac11ce-ccb0-4c24-92fd-d1c565950cdb
+OW,2023,christmas,2023-12-23,2024-01-07,16,Christmas,OW,False,openholidays,6e94b178-fb36-4e8c-a416-e549d760cd2d
+OW,2023,winter,2024-02-03,2024-02-18,16,Sport,OW,False,openholidays,31b76769-bffe-4224-9fa5-2995a3a95f12
+OW,2023,spring,2024-03-29,2024-04-14,17,Spring,OW,False,openholidays,744c4b25-44ea-402d-8b3f-4a3076347247
+OW,2023,summer,2024-07-06,2024-08-18,44,Summer,OW,False,openholidays,fdf2e241-35b9-4f7f-8fc4-abe70852d093
+OW,2024,autumn,2024-09-28,2024-10-13,16,Autumn,OW,False,openholidays,27c549a8-496b-4de9-9207-3439ce92d959
+OW,2024,christmas,2024-12-21,2025-01-05,16,Christmas,OW,False,openholidays,901abc74-ea7a-4175-820e-ca066aea5c39
+OW,2024,winter,2025-02-22,2025-03-09,16,Sport,OW,False,openholidays,55c61d73-a26f-44c1-8c48-d8e51b5dca73
+OW,2024,winter,2025-02-27,2025-03-09,11,Sport,OW,False,openholidays,f9269753-9e72-4888-8110-0d67baa2f985
+OW,2024,spring,2025-04-18,2025-05-04,17,Spring,OW,False,openholidays,357ab7e7-6546-49cf-80b1-456174409bfa
+OW,2024,spring,2025-04-18,2025-05-04,17,Spring,OW,False,openholidays,505e623a-77b5-428f-943a-e2fd0c05363c
+OW,2024,summer,2025-06-28,2025-08-10,44,Summer,OW,False,openholidays,7d78ad4e-4649-4457-a8ee-5f2c871304ee
+OW,2024,summer,2025-07-05,2025-08-17,44,Summer,OW,False,openholidays,6c6e6050-1d09-4fc2-b34e-33bc34dfc941
+OW,2025,autumn,2025-09-27,2025-10-12,16,Autumn,OW,False,openholidays,b967a0bf-e573-487f-8794-c4ff25592909
+OW,2025,autumn,2025-10-04,2025-10-26,23,Autumn,OW,False,openholidays,17eeaf52-f1de-4d6e-9c95-9d6c9653bb8f
+OW,2025,christmas,2025-12-24,2026-01-06,14,Christmas,OW,False,openholidays,f7617252-d95d-472b-9140-789ec3eaabee
+OW,2025,christmas,2025-12-24,2026-01-06,14,Christmas,OW,False,openholidays,d1d83361-1282-4580-bddb-8e2137dc5aef
+OW,2025,winter,2026-02-07,2026-02-22,16,Sport,OW,False,openholidays,8abbb1fd-9f53-4381-b8ba-550ad5ba1f4c
+OW,2025,winter,2026-02-12,2026-02-22,11,Sport,OW,False,openholidays,426b159d-4e02-49ba-a1e7-378c5d75907c
+OW,2025,spring,2026-04-03,2026-04-19,17,Spring,OW,False,openholidays,86e10b68-6c09-402b-abc8-d63e21549fc4
+OW,2025,spring,2026-04-03,2026-04-19,17,Spring,OW,False,openholidays,67e2b06b-5bca-4364-9d38-0da71639d5d3
+OW,2025,summer,2026-06-27,2026-08-09,44,Summer,OW,False,openholidays,ca1ec27f-b294-4c67-9fdc-bd8038ea05f8
+OW,2025,summer,2026-07-04,2026-08-16,44,Summer,OW,False,openholidays,d57a3d59-3e74-47c1-8fab-98f97652e328
+OW,2026,autumn,2026-09-25,2026-10-11,17,Autumn,OW,False,openholidays,8a9aa84e-acc1-4bb5-b521-9eb82465ce4d
+OW,2026,autumn,2026-10-03,2026-10-25,23,Autumn,OW,False,openholidays,ce728d25-e09f-45da-be4e-c684cd25d0fc
+OW,2026,christmas,2026-12-24,2027-01-06,14,Christmas,OW,False,openholidays,2df41431-eb99-48e3-a9dc-02f55d7f843a
+OW,2026,christmas,2026-12-24,2027-01-06,14,Christmas,OW,False,openholidays,840fc0d3-8d82-494b-a26a-5137fa67dd90
+SG,2019,christmas,2019-12-22,2020-01-05,15,Christmas holidays,SG,False,openholidays,1adbd5d6-73ac-4e0a-8b88-e5e0b1aed82c
+SG,2019,spring,2020-04-05,2020-04-19,15,Spring holidays,SG,False,openholidays,05d9da9f-939d-4383-88fa-47a7c5f1adbf
+SG,2019,summer,2020-07-05,2020-08-09,36,Summer holidays,SG,False,openholidays,bb81af7c-0af9-480f-852a-a8e87635c475
+SG,2020,autumn,2020-09-27,2020-10-18,22,Autumn holidays,SG,False,openholidays,e2b6aa3b-ab4c-479c-8a5d-3643a22f0988
+SG,2020,christmas,2020-12-20,2021-01-03,15,Christmas holidays,SG,False,openholidays,7637d76a-1e80-44a1-90a9-286fb3c08176
+SG,2020,spring,2021-04-11,2021-04-25,15,Spring holidays,SG,False,openholidays,bca126c7-bcca-40c5-a667-7c9f69b80c28
+SG,2020,summer,2021-07-11,2021-08-15,36,Summer holidays,SG,False,openholidays,eeb1133c-d2d7-4b84-a4de-a1e0d4eeccf5
+SG,2021,autumn,2021-10-03,2021-10-24,22,Autumn holidays,SG,False,openholidays,a5301ff3-f913-479e-8022-d44872d66e29
+SG,2021,christmas,2021-12-19,2022-01-02,15,Christmas holidays,SG,False,openholidays,f9f00c9b-bbff-420e-bbb7-f2122d0f3371
+SG,2021,spring,2022-04-10,2022-04-24,15,Spring holidays,SG,False,openholidays,af9fcfc9-14c5-4d03-b458-63670b909a10
+SG,2021,summer,2022-07-10,2022-08-14,36,Summer holidays,SG,False,openholidays,aa7a47ac-7ba2-47d0-8215-4946dc5fd842
+SG,2022,autumn,2022-10-02,2022-10-23,22,Autumn holidays,SG,False,openholidays,343ec99c-9abd-4582-894e-53ba09b9e340
+SG,2022,christmas,2022-12-25,2023-01-08,15,Christmas holidays,SG,False,openholidays,91dd933e-fe28-4494-800d-8511a882ef2b
+SG,2022,spring,2023-04-09,2023-04-23,15,Spring holidays,SG,False,openholidays,f046a745-cc23-4912-bbb5-48837f709c36
+SG,2022,summer,2023-07-09,2023-08-13,36,Summer holidays,SG,False,openholidays,63006a41-e794-47be-9d9e-70cb9db69d23
+SG,2023,autumn,2023-10-01,2023-10-22,22,Autumn holidays,SG,False,openholidays,168584fa-ceb1-4e50-b815-aafe1a7965a2
+SG,2023,christmas,2023-12-24,2024-01-07,15,Christmas holidays,SG,False,openholidays,609547c1-31b1-4613-bdc5-6d1160bf4018
+SG,2023,spring,2024-04-07,2024-04-21,15,Spring holidays,SG,False,openholidays,8a4a4df4-4c37-4937-baae-33f61b7a3cbe
+SG,2023,summer,2024-07-07,2024-08-11,36,Summer holidays,SG,False,openholidays,16d0b603-b9b2-4129-9e24-a1d38a54b260
+SG,2024,autumn,2024-09-29,2024-10-20,22,Autumn holidays,SG,False,openholidays,faa66d61-5d28-4ccc-95d4-7cbd38ffeca3
+SG,2024,christmas,2024-12-22,2025-01-05,15,Christmas holidays,SG,False,openholidays,e86caf3c-dc93-455b-b97f-b07bd710b749
+SG,2024,spring,2025-04-06,2025-04-20,15,Spring holidays,SG,False,openholidays,6c53abc3-0856-4374-abcd-a86d9d7f1736
+SG,2024,summer,2025-07-06,2025-08-10,36,Summer holidays,SG,False,openholidays,5e1d8b1d-1557-46f8-94b4-5cc3fa533de2
+SG,2025,autumn,2025-09-28,2025-10-19,22,Autumn holidays,SG,False,openholidays,acfe8e10-004e-4238-9e81-fc5006e5a70b
+SG,2025,christmas,2025-12-21,2026-01-04,15,Christmas holidays,SG,False,openholidays,8ef4ec84-bb2a-459c-9d59-d63c8601b3f3
+SG,2025,spring,2026-04-05,2026-04-19,15,Spring holidays,SG,False,openholidays,6f307fe8-491b-40c9-9fe0-d6aedce73b58
+SG,2025,summer,2026-07-05,2026-08-09,36,Summer holidays,SG,False,openholidays,9f50bde3-582f-411f-870d-52186e4a1dea
+SG,2026,autumn,2026-09-27,2026-10-18,22,Autumn holidays,SG,False,openholidays,4d6cb071-c819-4d56-a4eb-ee78a8444e15
+SG,2026,christmas,2026-12-20,2027-01-03,15,Christmas holidays,SG,False,openholidays,011f2c11-fd8d-4358-ac30-a83c106882fb
+SG,2026,spring,2027-04-11,2027-04-25,15,Spring holidays,SG,False,openholidays,71551f0e-e9ea-4a79-b9a9-ad00f1b78e7d
+SG,2026,summer,2027-07-11,2027-08-15,36,Summer holidays,SG,False,openholidays,fb1b47d4-d9bd-4161-9427-8313d1f32e84
+SG,2027,autumn,2027-10-03,2027-10-24,22,Autumn holidays,SG,False,openholidays,35814e7c-f863-4dc6-83fd-4a36da5f849a
+SG,2027,christmas,2027-12-19,2028-01-02,15,Christmas holidays,SG,False,openholidays,5365287d-7cd0-47e7-9476-7bcd2dd43052
+SG,2027,spring,2028-04-09,2028-04-23,15,Spring holidays,SG,False,openholidays,dfb919ab-d963-4960-9eb0-151ffb07ac3d
+SG,2027,summer,2028-07-09,2028-08-13,36,Summer holidays,SG,False,openholidays,110f8f36-f84d-4102-812e-69dd3c1554ed
+SG,2028,autumn,2028-10-01,2028-10-22,22,Autumn holidays,SG,False,openholidays,8870b0bd-b11a-4bec-81dc-4a0cd26f3c5d
+SG,2028,christmas,2028-12-24,2029-01-07,15,Christmas holidays,SG,False,openholidays,06910ff2-e612-4cf6-aff4-e21d681baec0
+SG,2028,spring,2029-04-08,2029-04-22,15,Spring holidays,SG,False,openholidays,a96f9d77-e2c3-4728-8d9f-80c79cf95e66
+SG,2028,summer,2029-07-08,2029-08-12,36,Summer holidays,SG,False,openholidays,20eb8b5d-e55c-4d8f-b55b-5a1df1ce5de1
+SH,2019,winter,2020-01-25,2020-02-09,16,Sport,SH,False,openholidays,6578a546-c4fd-4ea7-a537-210a75f14c81
+SH,2019,spring,2020-04-11,2020-04-26,16,Spring,SH,False,openholidays,3e46699c-9501-4b49-89df-1f57dfef769a
+SH,2019,summer,2020-07-04,2020-08-09,37,Summer,SH,False,openholidays,41169837-76b6-4440-b81d-f49764ffd8c3
+SH,2020,autumn,2020-09-26,2020-10-18,23,Autumn,SH,False,openholidays,ec7504ee-66d1-46ba-8d70-01af0a3021b4
+SH,2020,christmas,2020-12-24,2021-01-03,11,Christmas,SH,False,openholidays,d2c18e48-829c-4c51-824a-745abe87a377
+SH,2020,winter,2021-01-30,2021-02-14,16,Sport,SH,False,openholidays,2f027d89-59ac-46ed-a206-6a51cfe4a44d
+SH,2020,spring,2021-04-17,2021-05-02,16,Spring,SH,False,openholidays,73f593ef-06a1-4754-9b49-a89703abb38e
+SH,2020,summer,2021-07-10,2021-08-15,37,Summer,SH,False,openholidays,06df4e67-b32c-4505-96db-9a560e36a744
+SH,2021,autumn,2021-10-02,2021-10-24,23,Autumn,SH,False,openholidays,039dd3ac-8669-4bec-8d0b-310f2a6dcb43
+SH,2021,christmas,2021-12-24,2022-01-02,10,Christmas,SH,False,openholidays,13faff51-8173-4d1e-bdd2-ffe53ff28a2b
+SH,2021,winter,2022-01-29,2022-02-13,16,Sport,SH,False,openholidays,3491b442-34e2-44bc-88be-6a55ab15b0ac
+SH,2021,spring,2022-04-15,2022-05-01,17,Spring,SH,False,openholidays,ebbec4e5-75e9-4147-94c1-63af894bc877
+SH,2021,summer,2022-07-09,2022-08-14,37,Summer,SH,False,openholidays,53dc41df-f8e9-44b2-8b71-67d1842067fe
+SH,2022,autumn,2022-10-01,2022-10-23,23,Autumn,SH,False,openholidays,837cefdc-0e82-4c31-bf05-cbe2e69782ae
+SH,2022,christmas,2022-12-24,2023-01-02,10,Christmas,SH,False,openholidays,77cf513b-6216-4058-9dd0-eb4afc4593a7
+SH,2022,winter,2023-01-28,2023-02-12,16,Sport,SH,False,openholidays,85741e7c-04b9-4a4d-9ce6-05455d511236
+SH,2022,spring,2023-04-15,2023-05-01,17,Spring,SH,False,openholidays,6ea64480-2bc8-4fd2-9edb-c0c5cf02be10
+SH,2022,summer,2023-07-08,2023-08-13,37,Summer,SH,False,openholidays,ba745ee3-868e-4885-82cd-f493c9d2584a
+SH,2023,autumn,2023-09-30,2023-10-22,23,Autumn,SH,False,openholidays,1c071e92-0ae7-4a9d-a611-5c4bdb491c1d
+SH,2023,christmas,2023-12-23,2024-01-02,11,Christmas,SH,False,openholidays,f5e66444-162d-41fd-8d37-adfb0020b5b0
+SH,2023,winter,2024-01-27,2024-02-11,16,Sport,SH,False,openholidays,719a446b-4f93-415b-8044-b77bbf845b54
+SH,2023,spring,2024-04-13,2024-04-28,16,Spring,SH,False,openholidays,e8086d7b-38c9-43e0-ac6f-d84e67edbd7e
+SH,2023,summer,2024-07-06,2024-08-11,37,Summer,SH,False,openholidays,dfc4a471-db57-48de-8cf2-f0a2540dd22f
+SH,2024,autumn,2024-09-28,2024-10-20,23,Autumn,SH,False,openholidays,62d02b8b-ea7e-4db3-a5e4-6361bf129db1
+SH,2024,christmas,2024-12-24,2025-01-05,13,Christmas,SH,False,openholidays,854067f3-d203-4b18-9e34-63afd9905aed
+SH,2024,winter,2025-01-25,2025-02-09,16,Sport,SH,False,openholidays,ecdec835-cd61-40ac-9a7d-61b3dc993d82
+SH,2024,spring,2025-04-12,2025-04-27,16,Spring,SH,False,openholidays,c6e34525-b88f-49a0-a26b-ec878b9861e8
+SH,2024,summer,2025-07-05,2025-08-10,37,Summer,SH,False,openholidays,8871b5ad-6e1b-445b-a58f-20b8e03c9185
+SH,2025,autumn,2025-09-27,2025-10-19,23,Autumn,SH,False,openholidays,0d09faca-2fee-469e-bc9f-d2edea19c77e
+SH,2025,christmas,2025-12-24,2026-01-04,12,Christmas,SH,False,openholidays,3c95c09d-da72-4f9c-89c0-9fe062d333dd
+SH,2025,winter,2026-01-24,2026-02-08,16,Sport,SH,False,openholidays,7d15dab9-5d30-41e1-885e-14e56caa42be
+SH,2025,spring,2026-04-11,2026-04-26,16,Spring,SH,False,openholidays,3fa907f2-83b0-4cb0-9340-8a6eb49b76e1
+SH,2025,summer,2026-07-04,2026-08-09,37,Summer,SH,False,openholidays,86d3a5b9-944f-4d2f-a673-73f76f5d3ca5
+SH,2026,autumn,2026-09-26,2026-10-18,23,Autumn,SH,False,openholidays,e9ac5abb-466c-4530-ad63-604475012a32
+SH,2026,christmas,2026-12-24,2027-01-03,11,Christmas,SH,False,openholidays,ffa7efd1-4148-41b7-863d-d7cac15afd4b
+SO,2019,christmas,2019-12-23,2020-01-03,12,Christmas holidays,SO,False,openholidays,15468f31-0dbb-4049-a226-bae23c3cc822
+SO,2019,winter,2020-02-03,2020-02-14,12,Winter break,SO,False,openholidays,8f580c2d-2cb6-4708-82d8-3e1b4dfa633b
+SO,2019,spring,2020-04-06,2020-04-17,12,Spring holidays,SO,False,openholidays,9823a9d8-a9f0-4ef5-83a7-f52b322b563e
+SO,2019,summer,2020-07-06,2020-08-07,33,Summer holidays,SO,False,openholidays,d2475eba-08d8-41cd-adea-b0044d47925a
+SO,2020,autumn,2020-09-28,2020-10-16,19,Autumn holidays,SO,False,openholidays,d0a1b280-1b41-4617-b119-566cfded2c7b
+SO,2020,christmas,2020-12-21,2021-01-01,12,Christmas holidays,SO,False,openholidays,8955f0a9-97d0-4fa8-8276-fcac61401521
+SO,2020,winter,2021-02-08,2021-02-19,12,Winter break,SO,False,openholidays,6e631c4c-3675-49dc-a680-573baf39c99d
+SO,2020,spring,2021-04-12,2021-04-23,12,Spring holidays,SO,False,openholidays,69c329a9-7764-40cf-baa3-7d93ab33748b
+SO,2020,summer,2021-07-10,2021-08-15,37,Summer holidays,SO,False,openholidays,b890853d-be6a-40cd-a44b-db49573ecb9e
+SO,2021,autumn,2021-10-04,2021-10-22,19,Autumn holidays,SO,False,openholidays,165ed5cb-9a5e-4bb9-91ac-d4247a6d5dff
+SO,2021,christmas,2021-12-27,2022-01-07,12,Christmas holidays,SO,False,openholidays,b4ca2744-2f18-4458-ba42-a1bcd1929dc9
+SO,2021,winter,2022-02-07,2022-02-18,12,Winter break,SO,False,openholidays,66a622ca-6427-447a-b4d6-f15648d4ca9d
+SO,2021,spring,2022-04-11,2022-04-22,12,Spring holidays,SO,False,openholidays,a1bfd38b-b6df-433f-9891-0cec51f31b94
+SO,2021,summer,2022-07-11,2022-08-12,33,Summer holidays,SO,False,openholidays,9184224e-96de-45f3-98c7-e968f3dfd465
+SO,2022,autumn,2022-10-03,2022-10-21,19,Autumn holidays,SO,False,openholidays,5b956b42-ecbd-4f7f-b413-e38173f59fdc
+SO,2022,christmas,2022-12-26,2023-01-06,12,Christmas holidays,SO,False,openholidays,79c0dec0-7c2d-405a-b1c5-362367051ac1
+SO,2022,winter,2023-02-06,2023-02-17,12,Winter break,SO,False,openholidays,253be433-e1d1-442a-a808-4e88c2cc9839
+SO,2022,spring,2023-04-10,2023-04-21,12,Spring holidays,SO,False,openholidays,815ea111-0e4e-4245-903d-e0b5d50f8c42
+SO,2022,summer,2023-07-10,2023-08-15,37,Summer holidays,SO,False,openholidays,ef2c5683-eed9-422d-b1fb-16cb9267805f
+SO,2023,autumn,2023-10-02,2023-10-20,19,Autumn holidays,SO,False,openholidays,b5be41c6-29ce-4674-9ab6-106203ba550e
+SO,2023,christmas,2023-12-25,2024-01-05,12,Christmas holidays,SO,False,openholidays,4dbee1a7-dd96-4128-a611-81f893d19920
+SO,2023,winter,2024-02-05,2024-02-16,12,Winter break,SO,False,openholidays,7e528ad7-e5b0-4d9c-827e-10d006ee44a4
+SO,2023,spring,2024-04-08,2024-04-19,12,Spring holidays,SO,False,openholidays,752e5903-d72f-49fd-abea-aef879602ca4
+SO,2023,summer,2024-07-08,2024-08-09,33,Summer holidays,SO,False,openholidays,01d2d30f-45ab-4746-a8a1-c53d68d1cb5a
+SO,2024,autumn,2024-09-30,2024-10-18,19,Autumn holidays,SO,False,openholidays,1f2d0f1c-2212-46f6-8708-bdc7c8079df3
+SO,2024,christmas,2024-12-23,2025-01-03,12,Christmas holidays,SO,False,openholidays,bcf04faa-bcf6-489e-b49d-442aac6a7d1e
+SO,2024,winter,2025-02-03,2025-02-14,12,Winter break,SO,False,openholidays,8368c902-869f-4a56-ac8f-cd1a38c5527a
+SO,2024,spring,2025-04-07,2025-04-21,15,Spring holidays,SO,False,openholidays,e541f9df-9b6e-4206-9d8f-5d89019f4f83
+SO,2024,summer,2025-07-07,2025-08-08,33,Summer holidays,SO,False,openholidays,25e1aec4-566f-4057-a0d0-81e545e7f024
+SO,2025,autumn,2025-09-29,2025-10-17,19,Autumn holidays,SO,False,openholidays,6125d8e1-7c10-4066-b829-04af112bd792
+SO,2025,christmas,2025-12-22,2026-01-02,12,Christmas holidays,SO,False,openholidays,e632928c-671f-4de3-bd44-8a73909412e4
+SO,2025,winter,2026-02-02,2026-02-13,12,Winter break,SO,False,openholidays,15abafd2-a296-483c-8194-8ec93a96ed7a
+SO,2025,spring,2026-04-06,2026-04-17,12,Spring holidays,SO,False,openholidays,602b7062-b5c0-46b4-9a0f-004b698e06c0
+SO,2025,summer,2026-07-06,2026-08-07,33,Summer holidays,SO,False,openholidays,624eae3c-259d-4b00-9c95-a6866e67a426
+SO,2026,autumn,2026-09-28,2026-10-16,19,Autumn holidays,SO,False,openholidays,b4069583-c222-4745-92ca-fdbb70a7a120
+SO,2026,christmas,2026-12-21,2027-01-01,12,Christmas holidays,SO,False,openholidays,18980831-7f7f-4750-900f-7d0948d47cc9
+SO,2026,winter,2027-02-08,2027-02-19,12,Winter break,SO,False,openholidays,773664ae-f6fe-4a6d-824e-b2c9d8a85469
+SO,2026,spring,2027-04-02,2027-04-23,22,Spring holidays,SO,False,openholidays,053cab99-e7b5-42de-a094-c02c1bc533ec
+SO,2026,summer,2027-07-12,2027-08-13,33,Summer holidays,SO,False,openholidays,f03a2c72-117b-450a-8854-1ff793eecb2b
+SO,2027,autumn,2027-10-04,2027-10-22,19,Autumn holidays,SO,False,openholidays,46d78c62-6f66-44ce-bbf0-f9368c09b7c7
+SO,2027,christmas,2027-12-27,2028-01-07,12,Christmas holidays,SO,False,openholidays,5eb43c99-6d01-4b4c-adf1-0f82235d9191
+SO,2027,winter,2028-02-07,2028-02-18,12,Winter break,SO,False,openholidays,b3f9b6ce-df7e-4706-b04b-2b01873c608d
+SO,2027,spring,2028-04-10,2028-04-21,12,Spring holidays,SO,False,openholidays,6462123b-fc09-4a19-b11f-68014010a04c
+SO,2027,summer,2028-07-10,2028-08-11,33,Summer holidays,SO,False,openholidays,3fcf83b4-4154-4b1a-b1ec-04d0ee95ffd3
+SO,2028,autumn,2028-10-02,2028-10-20,19,Autumn holidays,SO,False,openholidays,74b0c4a5-d7f0-4e72-b282-c7833c9d5d00
+SO,2028,christmas,2028-12-25,2029-01-05,12,Christmas holidays,SO,False,openholidays,5f0c423b-df30-4514-922b-ad43e8900650
+SO,2028,winter,2029-02-05,2029-02-16,12,Winter break,SO,False,openholidays,e7f67fe9-1ead-451e-a1d7-86361eb002fb
+SO,2028,spring,2029-04-09,2029-04-20,12,Spring holidays,SO,False,openholidays,cb4dab6c-4090-49fe-a9b5-617bbc881b54
+SO,2028,summer,2029-07-09,2029-08-10,33,Summer holidays,SO,False,openholidays,4bc8dde4-9e12-4bb1-b727-d208794d444b
+SO,2029,autumn,2029-10-01,2029-10-19,19,Autumn holidays,SO,False,openholidays,a3b4158c-e039-4d1c-9120-d5082e4cf5bf
+SO,2029,christmas,2029-12-24,2030-01-04,12,Christmas holidays,SO,False,openholidays,1fa6fb58-4ff7-4d16-b64f-23d378ede037
+SO,2029,winter,2030-02-04,2030-02-15,12,Winter break,SO,False,openholidays,80f9623b-3bf0-4937-bc2f-f2a52318a8f7
+SO,2029,spring,2030-04-08,2030-04-22,15,Spring holidays,SO,False,openholidays,8680b8cc-60a8-4ce8-a427-a9c331bdefd9
+SO,2029,summer,2030-07-08,2030-08-09,33,Summer holidays,SO,False,openholidays,8f90a2a6-9fe8-4844-97f4-e95be08b57cc
+SO,2030,autumn,2030-09-30,2030-10-18,19,Autumn holidays,SO,False,openholidays,de9a32e3-662b-4276-ae2e-cc8dbabf9bef
+SO,2030,christmas,2030-12-23,2031-01-03,12,Christmas holidays,SO,False,openholidays,b3474400-6aaa-48c0-b609-f8a022af96a8
+SO,2030,winter,2031-02-03,2031-02-14,12,Winter break,SO,False,openholidays,83500c20-3790-4085-bcd9-594901a775a7
+SO,2030,spring,2031-04-07,2031-04-18,12,Spring holidays,SO,False,openholidays,c56cff95-3386-4f18-9a8b-e4f4481dde1d
+SO,2030,summer,2031-07-07,2031-08-08,33,Summer holidays,SO,False,openholidays,7b224dad-ae0a-49c9-a0c0-47032f9d12d4
+SZ,2019,winter,2020-02-22,2020-03-01,9,Sport,SZ,False,openholidays,8453e0a8-8748-4087-9bb7-e4467f6c401a
+SZ,2019,spring,2020-04-25,2020-05-10,16,Spring,SZ,False,openholidays,1231ff40-69e2-43fb-822e-073e78b0d617
+SZ,2019,summer,2020-07-04,2020-08-09,37,Summer,SZ,False,openholidays,665ed69b-8f4c-4160-ab79-95221a04aadd
+SZ,2020,autumn,2020-09-26,2020-10-11,16,Autumn,SZ,False,openholidays,d9984e9f-549f-49da-b837-1c0c962f6a3a
+SZ,2020,christmas,2020-12-24,2021-01-06,14,Christmas,SZ,False,openholidays,b3010136-e7da-4a5c-b1a4-cc535f38e267
+SZ,2020,winter,2021-02-27,2021-03-07,9,Sport,SZ,False,openholidays,e8d7bbe9-47a5-4f17-9d49-30fe978dc080
+SZ,2020,spring,2021-05-01,2021-05-16,16,Spring,SZ,False,openholidays,da8f71bc-ef8d-461c-8fe9-486b38056f10
+SZ,2020,summer,2021-07-10,2021-08-15,37,Summer,SZ,False,openholidays,869c163d-06d3-4f4f-a553-5e11166c1f56
+SZ,2021,autumn,2021-10-02,2021-10-17,16,Autumn,SZ,False,openholidays,c2e39bca-c73a-4ace-859b-4d1a0e45594f
+SZ,2021,christmas,2021-12-24,2022-01-06,14,Christmas,SZ,False,openholidays,556d65b4-add1-4304-a27f-28a818d281cb
+SZ,2021,winter,2022-02-26,2022-03-06,9,Sport,SZ,False,openholidays,18cfc802-5511-45c6-bf66-9c265abf16bb
+SZ,2021,spring,2022-04-30,2022-05-15,16,Spring,SZ,False,openholidays,930de4f7-2141-4b77-96b8-a650a9f5e61c
+SZ,2021,summer,2022-07-09,2022-08-14,37,Summer,SZ,False,openholidays,3d5d5d49-bdb4-4d01-81bc-750c29a0365a
+SZ,2022,autumn,2022-10-01,2022-10-16,16,Autumn,SZ,False,openholidays,a6000cb6-4334-41c5-9737-0048f1df292f
+SZ,2022,christmas,2022-12-24,2023-01-08,16,Christmas,SZ,False,openholidays,174736a6-90f9-4675-b606-bf3482ac4576
+SZ,2022,winter,2023-02-25,2023-03-05,9,Sport,SZ,False,openholidays,122c1780-8f57-4fab-8bed-77bb9676fa4f
+SZ,2022,spring,2023-04-29,2023-05-14,16,Spring,SZ,False,openholidays,62f8229c-e53b-4962-b850-2932534a9692
+SZ,2022,summer,2023-07-08,2023-08-13,37,Summer,SZ,False,openholidays,ddcaeacf-e213-4bfe-8f2c-332e72839ee7
+SZ,2023,autumn,2023-09-30,2023-10-15,16,Autumn,SZ,False,openholidays,e0b5b5aa-9527-4075-9612-821c090fd5d4
+SZ,2023,christmas,2023-12-23,2024-01-07,16,Christmas,SZ,False,openholidays,8f7fde05-c25e-4f3e-854a-62335305cfd7
+SZ,2023,winter,2024-02-24,2024-03-03,9,Sport,SZ,False,openholidays,acf941e1-60ae-4364-bc79-b6330dea1eaa
+SZ,2023,spring,2024-04-27,2024-05-12,16,Spring,SZ,False,openholidays,202cdd8b-eb17-4813-9f84-73785a2c9ffc
+SZ,2023,summer,2024-07-06,2024-08-11,37,Summer,SZ,False,openholidays,aabcba61-12c0-483e-ab5b-af61412ae269
+SZ,2024,autumn,2024-09-28,2024-10-13,16,Autumn,SZ,False,openholidays,a111b660-08f7-484e-94f1-82620e3a271a
+SZ,2024,christmas,2024-12-25,2025-01-06,13,Christmas,SZ,False,openholidays,e13d7772-808b-4462-aaed-c236be9594d3
+SZ,2024,winter,2025-02-22,2025-03-02,9,Sport,SZ,False,openholidays,58728bf7-8ef5-4811-8728-39cfaee63319
+SZ,2024,spring,2025-04-26,2025-05-11,16,Spring,SZ,False,openholidays,39db9a81-c09b-47bb-9b6d-a3a0c09a6495
+SZ,2024,summer,2025-07-05,2025-08-17,44,Summer,SZ,False,openholidays,4495160f-c6be-46de-97b6-3d5e6b1e6c21
+SZ,2025,autumn,2025-09-27,2025-10-12,16,Autumn,SZ,False,openholidays,86f2b0f1-5bde-4602-95ee-3e5cf5a12ea8
+SZ,2025,christmas,2025-12-20,2026-01-04,16,Christmas,SZ,False,openholidays,3bdac322-2c2d-4dd3-a8e7-8cdf8a698fd5
+SZ,2025,winter,2026-02-21,2026-03-01,9,Sport,SZ,False,openholidays,becbef7c-2dce-4e2c-bdce-d68a5ea8231d
+SZ,2025,spring,2026-04-25,2026-05-10,16,Spring,SZ,False,openholidays,1f447058-0d80-4471-bfe5-70ca5e4e9f6c
+SZ,2025,summer,2026-07-04,2026-08-09,37,Summer,SZ,False,openholidays,298bbdc2-09a9-4aac-aded-8f5ef86151ac
+SZ,2026,autumn,2026-09-26,2026-10-11,16,Autumn,SZ,False,openholidays,ba2d93ab-afe2-4bf0-b14e-ec443aaa751a
+SZ,2026,christmas,2026-12-25,2027-01-06,13,Christmas,SZ,False,openholidays,b93f2216-4680-468c-910a-f0a5e5ff9b5b
+TG,2019,winter,2020-01-25,2020-02-02,9,Sport,TG,False,openholidays,28c349bf-630a-4352-892a-d0b08871d291
+TG,2019,spring,2020-03-28,2020-04-13,17,Spring,TG,False,openholidays,76a3d082-44b9-4bcc-ab96-1e71dfa5705d
+TG,2019,summer,2020-07-04,2020-08-09,37,Summer,TG,False,openholidays,a9ec9622-5168-4e63-becd-00118737dfd6
+TG,2020,autumn,2020-10-03,2020-10-18,16,Autumn,TG,False,openholidays,d1642149-8d3e-4fe3-befc-07602045918e
+TG,2020,christmas,2020-12-19,2021-01-03,16,Christmas,TG,False,openholidays,d2c109b3-8694-4d74-8542-24be8087c34a
+TG,2020,winter,2021-01-30,2021-02-07,9,Sport,TG,False,openholidays,29da597a-a3ee-499b-85f1-6b26d9060164
+TG,2020,spring,2021-04-02,2021-04-18,17,Spring,TG,False,openholidays,48d69cd3-4ad0-46d3-a433-520b35ae266c
+TG,2020,summer,2021-07-10,2021-08-15,37,Summer,TG,False,openholidays,e304bbed-c862-40c9-a332-eedb72ea8285
+TG,2021,autumn,2021-10-09,2021-10-24,16,Autumn,TG,False,openholidays,af2f8dc3-7c04-4102-b7e4-b124620d6baf
+TG,2021,christmas,2021-12-18,2022-01-02,16,Christmas,TG,False,openholidays,a1dc86b3-ce24-48df-92bb-5ce47321e172
+TG,2021,winter,2022-01-29,2022-02-06,9,Sport,TG,False,openholidays,deefb887-b9c2-46f6-9745-5b1ff07b8c85
+TG,2021,spring,2022-04-02,2022-04-18,17,Spring,TG,False,openholidays,b1716497-0b06-4d42-a13a-5a364e0c9baa
+TG,2021,summer,2022-07-09,2022-08-14,37,Summer,TG,False,openholidays,23a9f87a-7d7a-441e-9963-3a836aeeb2ea
+TG,2022,autumn,2022-10-08,2022-10-23,16,Autumn,TG,False,openholidays,a3d113f3-ccf8-4db8-b446-0dc9bda2416e
+TG,2022,christmas,2022-12-24,2023-01-08,16,Christmas,TG,False,openholidays,b5fb3b82-1d6c-441b-853e-fbe8ba3e8ea7
+TG,2022,winter,2023-01-28,2023-02-05,9,Sport,TG,False,openholidays,89b85066-220f-41e9-b1c8-a480e9569492
+TG,2022,spring,2023-03-25,2023-04-10,17,Spring,TG,False,openholidays,49fc683f-a352-42f8-9186-b597b7c30f94
+TG,2022,summer,2023-07-08,2023-08-13,37,Summer,TG,False,openholidays,4c31fedc-5601-430b-81e5-2689ef17df8e
+TG,2023,autumn,2023-10-07,2023-10-22,16,Autumn,TG,False,openholidays,0ebd8baa-958d-4c76-b5c7-2cf4bb410b81
+TG,2023,christmas,2023-12-23,2024-01-07,16,Christmas,TG,False,openholidays,77540805-d399-4715-8f2d-22c425772d41
+TG,2023,winter,2024-01-27,2024-02-04,9,Sport,TG,False,openholidays,2f38236f-3188-4ef9-bd01-947631412282
+TG,2023,spring,2024-03-29,2024-04-14,17,Spring,TG,False,openholidays,6deecab4-8bd1-485f-947b-0642c7a0a1ab
+TG,2023,summer,2024-07-06,2024-08-11,37,Summer,TG,False,openholidays,6fec3c00-6314-4b7a-b50b-dc9c0d599255
+TG,2024,autumn,2024-10-05,2024-10-20,16,Autumn,TG,False,openholidays,402202d8-136f-45c8-a1a0-310365dfae2d
+TG,2024,christmas,2024-12-21,2025-01-05,16,Christmas,TG,False,openholidays,ffcdc7ae-45fa-4f8d-ac0d-bd3290bcd151
+TG,2024,winter,2025-01-25,2025-02-02,9,Sport,TG,False,openholidays,4bd8eef6-4dc2-4007-aec0-ab0c02cfca52
+TG,2024,spring,2025-04-12,2025-04-27,16,Spring,TG,False,openholidays,20f712a2-180a-4fb1-80f3-38215940b3d5
+TG,2024,summer,2025-07-05,2025-08-10,37,Summer,TG,False,openholidays,38b95539-b835-4198-8b41-06a9c1edf6ea
+TG,2025,autumn,2025-10-04,2025-10-19,16,Autumn,TG,False,openholidays,b07f7446-9831-4159-91ef-3c69b0b29370
+TG,2025,christmas,2025-12-20,2026-01-04,16,Christmas,TG,False,openholidays,204ab16f-aeea-45f8-9b51-d511bcc5d792
+TG,2025,winter,2026-01-24,2026-02-01,9,Sport,TG,False,openholidays,f25bbeb3-7046-437e-8501-1be896895a1c
+TG,2025,spring,2026-04-03,2026-04-19,17,Spring,TG,False,openholidays,49db4392-7f22-4301-9ecf-d51fd92b129a
+TG,2025,bridge,2026-05-14,2026-05-25,12,Pentecost,TG,False,openholidays,17adde5a-60cf-42cb-9257-3a69c0a9af54
+TG,2025,summer,2026-07-04,2026-08-09,37,Summer,TG,False,openholidays,9e1c5f5d-6ec1-41ca-b3bc-9643e9ec5ab8
+TG,2026,autumn,2026-10-03,2026-10-18,16,Autumn,TG,False,openholidays,4b91a1e0-996a-46cb-8635-90b32aa491fc
+TG,2026,christmas,2026-12-19,2027-01-03,16,Christmas,TG,False,openholidays,7b8caa35-07ad-4506-8d87-aa531832b88d
+TI,2019,winter,2020-02-22,2020-03-01,9,Sport,TI,False,openholidays,8952af7b-d069-4a7e-9c58-7db8e4e7b720
+TI,2019,spring,2020-04-10,2020-04-19,10,Spring,TI,False,openholidays,00ea5289-96cc-43b4-a50e-c0919aeddf3b
+TI,2019,summer,2020-06-20,2020-08-30,72,Summer,TI,False,openholidays,0ed504ac-15ff-4686-a4c0-65def77acc5b
+TI,2020,autumn,2020-10-31,2020-11-08,9,Autumn,TI,False,openholidays,7fdb8290-3124-407b-858d-61982d6f0bcc
+TI,2020,christmas,2020-12-24,2021-01-06,14,Christmas,TI,False,openholidays,7779c9aa-929d-44a5-a613-50a954fd34ba
+TI,2020,winter,2021-02-13,2021-02-21,9,Sport,TI,False,openholidays,a76d6b67-8e07-4365-8935-df061527f30a
+TI,2020,spring,2021-04-02,2021-04-11,10,Spring,TI,False,openholidays,e63a89e2-eef3-4bf8-ab94-a65c70041293
+TI,2020,summer,2021-06-19,2021-08-29,72,Summer,TI,False,openholidays,bb027f2f-f3fd-4cdb-9063-bfee65a4b9e5
+TI,2021,autumn,2021-10-30,2021-11-07,9,Autumn,TI,False,openholidays,1667998f-d1d4-4ca1-ab50-3e17e9b21062
+TI,2021,christmas,2021-12-24,2022-01-09,17,Christmas,TI,False,openholidays,0854256c-fdb3-4884-9b2d-81804504c0b8
+TI,2021,winter,2022-02-26,2022-03-06,9,Sport,TI,False,openholidays,3a89b818-1865-416b-8563-48d0907cc783
+TI,2021,spring,2022-04-15,2022-04-24,10,Spring,TI,False,openholidays,664dacbc-8c8c-40c6-aa69-f9caa23df0ff
+TI,2021,summer,2022-06-16,2022-08-28,74,Summer,TI,False,openholidays,acb6baf8-cd43-4be1-b983-97ecb6086ef3
+TI,2022,autumn,2022-10-29,2022-11-06,9,Autumn,TI,False,openholidays,76b65751-2b2d-432c-a7a6-bc9ccaa47906
+TI,2022,christmas,2022-12-24,2023-01-08,16,Christmas,TI,False,openholidays,d2418057-0da6-4ba1-a66c-8dfa8944fe0e
+TI,2022,winter,2023-02-18,2023-02-26,9,Sport,TI,False,openholidays,345c1566-6bc9-4eb0-8ea8-89a03e19d6dd
+TI,2022,spring,2023-04-07,2023-04-16,10,Spring,TI,False,openholidays,2c25ed0e-bf60-48d6-abbb-9814a380c0b1
+TI,2022,summer,2023-06-17,2023-08-27,72,Summer,TI,False,openholidays,92a667eb-7123-4d67-af0e-026605d4d844
+TI,2023,autumn,2023-10-28,2023-11-05,9,Autumn,TI,False,openholidays,2e53d72e-4042-4c38-8b0c-b9162a95a989
+TI,2023,christmas,2023-12-23,2024-01-07,16,Christmas,TI,False,openholidays,b7cc682d-b05e-4b9b-88e0-759e39e4fdd4
+TI,2023,winter,2024-02-10,2024-02-18,9,Sport,TI,False,openholidays,a2ac4b83-9145-4ae5-b7fc-8536ed2e50d0
+TI,2023,spring,2024-03-29,2024-04-07,10,Spring,TI,False,openholidays,b9ae464c-94c8-4b46-a084-16af67d8ea20
+TI,2023,summer,2024-06-15,2024-09-01,79,Summer,TI,False,openholidays,9ab4c998-936f-419e-8fcd-7a4e1b0b9a57
+TI,2024,autumn,2024-10-26,2024-11-03,9,Autumn,TI,False,openholidays,8967777e-b947-462f-9bab-6db9bac87a4f
+TI,2024,christmas,2024-12-21,2025-01-06,17,Christmas,TI,False,openholidays,090ba020-ef03-4ab7-96f4-0edbfdfcaa8f
+TI,2024,winter,2025-03-01,2025-03-09,9,Sport,TI,False,openholidays,49bf8bc1-707a-402c-95d0-8c04bfc8a950
+TI,2024,spring,2025-04-18,2025-04-27,10,Spring,TI,False,openholidays,b688c3ae-9c0e-42b5-88c7-f76162d1e917
+TI,2024,summer,2025-06-19,2025-08-31,74,Summer,TI,False,openholidays,e24cec76-8d56-4b02-8009-d7dc18bb9b66
+TI,2025,autumn,2025-11-01,2025-11-09,9,Autumn,TI,False,openholidays,7b7074ff-8044-45ec-9f01-5e44c56967de
+TI,2025,christmas,2025-12-24,2026-01-06,14,Christmas,TI,False,openholidays,d4e10c1c-6f00-4306-9629-155359ce6bb6
+TI,2025,winter,2026-02-14,2026-02-22,9,Sport,TI,False,openholidays,6cf18ff5-0282-40a1-a44b-58536009306c
+TI,2025,spring,2026-04-03,2026-04-12,10,Spring,TI,False,openholidays,9aeb6a67-eb6c-419d-97ea-2ebd782a45e4
+TI,2025,summer,2026-06-18,2026-08-30,74,Summer,TI,False,openholidays,3fa93851-2875-4d0f-b5bd-041b3f3677d0
+TI,2026,autumn,2026-10-31,2026-11-08,9,Autumn,TI,False,openholidays,531c5aac-8a8a-4626-ab1a-a621c2c1d4c7
+TI,2026,christmas,2026-12-24,2027-01-06,14,Christmas,TI,False,openholidays,b1508f20-44ec-4938-8432-77c252437445
+UR,2019,winter,2020-02-15,2020-03-01,16,Sport,UR,False,openholidays,39a89f11-8b0a-4aba-8e6d-bdc8bed57191
+UR,2019,spring,2020-04-25,2020-05-10,16,Spring,UR,False,openholidays,a6c1bb02-20c2-4619-bdb2-9777a769d99a
+UR,2019,summer,2020-07-04,2020-08-16,44,Summer,UR,False,openholidays,994e5157-dfb0-4bdf-881c-667ed49e81d7
+UR,2020,autumn,2020-10-03,2020-10-18,16,Autumn,UR,False,openholidays,6c0deb47-f9d1-4c16-8329-0a00f0c1f2a5
+UR,2020,christmas,2020-12-24,2021-01-10,18,Christmas,UR,False,openholidays,cbd28aa7-a008-4ae6-84a5-f987d6e5ae46
+UR,2020,winter,2021-02-27,2021-03-07,9,Sport,UR,False,openholidays,a010f40f-6531-4901-ac33-d184a7c604c5
+UR,2020,spring,2021-05-01,2021-05-16,16,Spring,UR,False,openholidays,82c02873-c647-4f91-9aea-3bc2fcd3bdeb
+UR,2020,summer,2021-07-03,2021-08-15,44,Summer,UR,False,openholidays,50f16fe0-64f8-4e6d-8623-3086b2c13dbe
+UR,2021,autumn,2021-10-02,2021-10-17,16,Autumn,UR,False,openholidays,d91f82f7-0871-4f75-907c-7639da2fc060
+UR,2021,christmas,2021-12-24,2022-01-09,17,Christmas,UR,False,openholidays,df53d715-2956-4157-a8ce-b208683ad81d
+UR,2021,winter,2022-02-19,2022-03-06,16,Sport,UR,False,openholidays,075b8071-1c44-4c66-bba6-7737ef178591
+UR,2021,spring,2022-04-30,2022-05-15,16,Spring,UR,False,openholidays,4e1be2c8-b064-465e-b9ca-6e62da3f6b60
+UR,2021,summer,2022-07-02,2022-08-15,45,Summer,UR,False,openholidays,2c2ef092-1232-413e-b2a8-608b83f62e2f
+UR,2022,autumn,2022-10-01,2022-10-16,16,Autumn,UR,False,openholidays,7b2ee2c2-275a-469a-87a1-42c13a251286
+UR,2022,christmas,2022-12-24,2023-01-08,16,Christmas,UR,False,openholidays,0e6ca5d9-2923-4d41-abc1-74778f1966e7
+UR,2022,winter,2023-03-04,2023-03-12,9,Sport,UR,False,openholidays,6b8bc05d-7ad8-46d6-9c52-4f577fbc0369
+UR,2022,spring,2023-04-22,2023-05-07,16,Spring,UR,False,openholidays,53f4186d-4d12-46e9-8235-7be4208b0583
+UR,2022,summer,2023-07-01,2023-08-20,51,Summer,UR,False,openholidays,292f2187-5f78-4a16-95ef-73d3da8a7ea9
+UR,2023,autumn,2023-10-07,2023-10-22,16,Autumn,UR,False,openholidays,1e6a710f-73f4-4cf7-8f76-035e9a045429
+UR,2023,christmas,2023-12-23,2024-01-07,16,Christmas,UR,False,openholidays,78161ea2-6f54-4aef-a7e3-966a93e7e2b0
+UR,2023,winter,2024-03-02,2024-03-10,9,Sport,UR,False,openholidays,cfefc1dd-5c54-4883-949e-5d77e0a6c7b1
+UR,2023,spring,2024-04-27,2024-05-12,16,Spring,UR,False,openholidays,4725cca9-08f6-454c-9362-c262ec947f37
+UR,2023,summer,2024-07-06,2024-08-18,44,Summer,UR,False,openholidays,bcc5fac2-2aa3-4839-b8c7-e7804e82bf53
+UR,2024,autumn,2024-10-05,2024-10-20,16,Autumn,UR,False,openholidays,a2a2229b-ef90-4154-81e5-c90ab7a48877
+UR,2024,christmas,2024-12-21,2025-01-06,17,Christmas,UR,False,openholidays,26273d78-c667-4dd4-af90-d4db9bc3b5fd
+UR,2024,winter,2025-02-22,2025-03-09,16,Sport,UR,False,openholidays,f3732c60-6d14-4f0d-97da-eba553787f74
+UR,2024,spring,2025-04-26,2025-05-11,16,Spring,UR,False,openholidays,e69e73af-9cad-4a70-bc4c-8cfe614b5e4e
+UR,2024,summer,2025-07-05,2025-08-17,44,Summer,UR,False,openholidays,64848cf3-a4c6-45ab-86d7-fe82456e1b76
+UR,2025,autumn,2025-10-04,2025-10-19,16,Autumn,UR,False,openholidays,3e41bbcd-3024-4fb4-8370-e352090a1d65
+UR,2025,christmas,2025-12-20,2026-01-06,18,Christmas,UR,False,openholidays,5f700d37-0aee-466f-a432-5b4da4a112e6
+UR,2025,winter,2026-02-28,2026-03-08,9,Sport,UR,False,openholidays,bdbdf71a-974a-405b-84e8-d3d9a9598609
+UR,2025,spring,2026-05-02,2026-05-17,16,Spring,UR,False,openholidays,012edc75-c959-4609-8c1c-f48856a36b18
+UR,2025,summer,2026-07-04,2026-08-16,44,Summer,UR,False,openholidays,2945a170-43c1-4176-92e4-b56b52a52480
+UR,2026,autumn,2026-10-03,2026-10-18,16,Autumn,UR,False,openholidays,460daea5-721f-4491-b1b3-9364afc0ca42
+UR,2026,christmas,2026-12-24,2027-01-10,18,Christmas,UR,False,openholidays,3346d32b-2a31-4583-a76f-3a6fb25e87f3
+VD,2019,winter,2020-02-15,2020-02-23,9,Sport,VD,False,openholidays,6a3087ad-bc64-46ff-a337-9120e4219b00
+VD,2019,spring,2020-04-10,2020-04-26,17,Spring,VD,False,openholidays,bf084731-7a84-4f84-b443-c9700390701f
+VD,2019,summer,2020-07-04,2020-08-23,51,Summer,VD,False,openholidays,b231eab3-7d4c-4f2b-8feb-a5b479a38b86
+VD,2020,autumn,2020-10-10,2020-10-25,16,Autumn,VD,False,openholidays,6cbdc598-a8a7-483f-b8e9-34c853ee405e
+VD,2020,christmas,2020-12-19,2021-01-03,16,Christmas,VD,False,openholidays,382a8dc5-e289-4f57-a17e-84df2f53ae39
+VD,2020,winter,2021-02-20,2021-02-28,9,Sport,VD,False,openholidays,902d5579-ca80-4afc-b32c-2bb7acaac019
+VD,2020,spring,2021-04-02,2021-04-18,17,Spring,VD,False,openholidays,a46c331c-f480-4314-8fcb-15e69e34f8d3
+VD,2020,summer,2021-07-03,2021-08-22,51,Summer,VD,False,openholidays,47ea1d91-9a6f-4161-9124-711a44bb8347
+VD,2021,autumn,2021-10-16,2021-10-31,16,Autumn,VD,False,openholidays,fc95621f-a343-4e16-abbd-ff6eab44a380
+VD,2021,christmas,2021-12-24,2022-01-09,17,Christmas,VD,False,openholidays,d1c2dfdf-a0dc-4f19-b22b-229a5e1961aa
+VD,2021,winter,2022-02-19,2022-02-27,9,Sport,VD,False,openholidays,bd0c1c08-e43d-4e1f-8ba6-cf36a1565340
+VD,2021,spring,2022-04-15,2022-05-01,17,Spring,VD,False,openholidays,b4e07481-519d-476f-9146-e7b6a686f0ec
+VD,2021,summer,2022-07-02,2022-08-21,51,Summer,VD,False,openholidays,aa4ee474-026f-41f1-9e27-d080066e2ae5
+VD,2022,autumn,2022-10-15,2022-10-30,16,Autumn,VD,False,openholidays,32a3830b-9068-4f0b-ad2f-f079d171ae2b
+VD,2022,christmas,2022-12-24,2023-01-08,16,Christmas,VD,False,openholidays,a7f4e927-fb70-47bd-97f8-80773da67c8b
+VD,2022,winter,2023-02-11,2023-02-19,9,Sport,VD,False,openholidays,bd65f16f-2722-43d7-97b1-edde37238bd9
+VD,2022,spring,2023-04-07,2023-04-23,17,Spring,VD,False,openholidays,ac20e359-e7b3-41ca-a62d-a211c0561a16
+VD,2022,summer,2023-07-01,2023-08-20,51,Summer,VD,False,openholidays,f26b837e-ef2f-412c-9de6-6d088ff954f2
+VD,2023,autumn,2023-10-14,2023-10-29,16,Autumn,VD,False,openholidays,7c432f92-c24e-45cd-9b03-435698af1306
+VD,2023,christmas,2023-12-23,2024-01-07,16,Christmas,VD,False,openholidays,85d32955-2c45-4cea-a451-ec7f4a7cb6e4
+VD,2023,winter,2024-02-10,2024-02-18,9,Sport,VD,False,openholidays,4b15caef-244e-4ddb-986e-424769044f01
+VD,2023,spring,2024-03-29,2024-04-14,17,Spring,VD,False,openholidays,0ed6ac4e-b1d3-4c2f-ad33-be2fec33a0b5
+VD,2023,summer,2024-06-29,2024-08-18,51,Summer,VD,False,openholidays,ff43dc81-35ff-43f3-8e8c-8c140d40570a
+VD,2024,autumn,2024-10-12,2024-10-27,16,Autumn,VD,False,openholidays,44ac8c48-7ec2-4aac-8abe-c12528f68810
+VD,2024,christmas,2024-12-21,2025-01-05,16,Christmas,VD,False,openholidays,072f6f74-62d4-4229-babd-199a2fc1694b
+VD,2024,winter,2025-02-15,2025-02-23,9,Sport,VD,False,openholidays,bf780aea-ae21-401d-8fb8-8ec71eb52fe5
+VD,2024,spring,2025-04-12,2025-04-27,16,Spring,VD,False,openholidays,226fc4be-37e4-4e56-adf8-378f7aff1771
+VD,2024,summer,2025-06-28,2025-08-17,51,Summer,VD,False,openholidays,ae562cc5-d2b2-413e-a899-4d523a2a5fee
+VD,2025,autumn,2025-10-11,2025-10-26,16,Autumn,VD,False,openholidays,b9776983-e55c-4aa2-b0e6-071992483299
+VD,2025,christmas,2025-12-20,2026-01-04,16,Christmas,VD,False,openholidays,0dae29f9-1292-418a-ab9f-22d933053ceb
+VD,2025,winter,2026-02-14,2026-02-22,9,Sport,VD,False,openholidays,ddcdced9-c70a-4025-a082-cdbfd9f70abf
+VD,2025,spring,2026-04-03,2026-04-19,17,Spring,VD,False,openholidays,4dce5bf7-4a4d-4231-915c-4bf51b0d5e08
+VD,2025,summer,2026-06-27,2026-08-16,51,Summer,VD,False,openholidays,4e136b40-7284-4df4-9fc7-975b5d0eaca5
+VD,2026,autumn,2026-10-10,2026-10-25,16,Autumn,VD,False,openholidays,c0bb9c6b-9e94-4325-9a70-118b268e8dd6
+VD,2026,christmas,2026-12-24,2027-01-10,18,Christmas,VD,False,openholidays,6f84bef5-f309-4000-81d9-35c02f0d0ece
+VS,2019,winter,2020-02-22,2020-03-01,9,Sport,VS,False,openholidays,658fc07c-48a5-409b-9d1d-17bf6a65772c
+VS,2019,winter,2020-02-22,2020-03-08,16,Sport,VS,False,openholidays,2e6431b9-694d-48d8-8279-39e82142baa1
+VS,2019,winter,2020-02-29,2020-03-08,9,Sport,VS,False,openholidays,4b1be466-c493-4411-a819-473beab9b12d
+VS,2019,spring,2020-04-10,2020-04-19,10,Spring,VS,False,openholidays,fc02a83e-01f6-4502-a7fb-ad56f4ad2250
+VS,2019,spring,2020-05-09,2020-05-24,16,Spring,VS,False,openholidays,e76c6acd-24dc-4bc5-aa49-a579d6a54e87
+VS,2019,spring,2020-05-16,2020-05-24,9,Spring,VS,False,openholidays,68ea1815-2ff1-43df-82c1-e62d6463288e
+VS,2019,summer,2020-06-20,2020-08-16,58,Summer,VS,False,openholidays,70a31ea9-2bff-4b7f-81aa-542ad8bc0943
+VS,2019,summer,2020-06-27,2020-08-16,51,Summer,VS,False,openholidays,0dd714d9-b3ba-4846-9be0-de1e9f7b02a6
+VS,2020,autumn,2020-10-10,2020-10-25,16,Autumn,VS,False,openholidays,406a9b2b-c362-4892-9fe6-79b3c096b702
+VS,2020,autumn,2020-10-22,2020-11-01,11,Autumn,VS,False,openholidays,7b153477-5e7a-4661-8001-5390a32fd608
+VS,2020,christmas,2020-12-19,2021-01-03,16,Christmas,VS,False,openholidays,ddae245e-fa47-4088-b021-0f646f998c5f
+VS,2020,christmas,2020-12-24,2021-01-06,14,Christmas,VS,False,openholidays,8a1181a3-772c-4b0f-af99-5fffd8f757c4
+VS,2020,winter,2021-02-13,2021-02-21,9,Sport,VS,False,openholidays,3bc436c1-0efb-4c38-a361-4b6541432edd
+VS,2020,winter,2021-02-20,2021-03-07,16,Sport,VS,False,openholidays,35a3ec39-d76b-43a1-b978-a47813fd72c2
+VS,2020,winter,2021-02-27,2021-03-07,9,Sport,VS,False,openholidays,dd6086f6-a4b4-4c0a-a030-e6b05ee5d607
+VS,2020,spring,2021-04-02,2021-04-11,10,Spring,VS,False,openholidays,6e4fdcf3-001c-40d9-b101-66a23315b737
+VS,2020,spring,2021-05-01,2021-05-16,16,Spring,VS,False,openholidays,8c7ded2b-0aae-4696-90c2-d7c410547cc0
+VS,2020,spring,2021-05-08,2021-05-16,9,Spring,VS,False,openholidays,1265c9ad-89f1-45f2-8726-5e978cf71999
+VS,2020,summer,2021-06-19,2021-08-18,61,Summer,VS,False,openholidays,d6c492dd-4d88-4cbe-a84e-8e2b2f1cd2c6
+VS,2020,summer,2021-06-26,2021-08-15,51,Summer,VS,False,openholidays,3d340082-19b2-4fad-aff8-ddc184596f07
+VS,2021,autumn,2021-10-09,2021-10-24,16,Autumn,VS,False,openholidays,58bfdeb4-b998-43ba-a828-f6c032118de3
+VS,2021,autumn,2021-10-13,2021-10-24,12,Autumn,VS,False,openholidays,1ce51693-25d7-40ca-bac6-472979c2b088
+VS,2021,christmas,2021-12-24,2022-01-09,17,Christmas,VS,False,openholidays,6f52186a-9cb6-4398-b765-42fba9723ecc
+VS,2021,christmas,2021-12-24,2022-01-09,17,Christmas,VS,False,openholidays,2c1efc3c-55e0-4ac8-bfb2-2b22debf38dc
+VS,2021,winter,2022-02-26,2022-03-06,9,Sport,VS,False,openholidays,c4b601a5-2a5b-4c76-b525-bf9e57d995c4
+VS,2021,winter,2022-02-26,2022-03-13,16,Sport,VS,False,openholidays,2b9bbe0a-42b2-4301-aadb-205bb278e08b
+VS,2021,winter,2022-03-05,2022-03-13,9,Sport,VS,False,openholidays,c88c3f24-e6b7-47b5-ba85-9a64b2edb099
+VS,2021,spring,2022-04-15,2022-04-24,10,Spring,VS,False,openholidays,fcb0dc69-8e5b-4627-8121-c86444eec508
+VS,2021,spring,2022-04-30,2022-05-15,16,Spring,VS,False,openholidays,a24eff71-d7ba-4ffb-8c3c-76387929aeb8
+VS,2021,spring,2022-05-07,2022-05-15,9,Spring,VS,False,openholidays,422e4341-bd3d-4c59-a2e7-bca186d90a99
+VS,2021,summer,2022-06-25,2022-08-17,54,Summer,VS,False,openholidays,e1e090ad-aec1-4a7b-bf03-409c7a557b28
+VS,2021,summer,2022-06-29,2022-08-15,48,Summer,VS,False,openholidays,40339073-e12f-4e2d-9a58-dcb817e6a4f0
+VS,2021,summer,2022-06-30,2022-08-15,47,Summer,VS,False,openholidays,d2974038-1d00-4737-b864-87809074e7c2
+VS,2022,autumn,2022-10-08,2022-10-23,16,Autumn,VS,False,openholidays,941af5ca-f548-486d-9471-9672a9f4dce1
+VS,2022,autumn,2022-10-13,2022-10-23,11,Autumn,VS,False,openholidays,3c1aa067-98e0-4a86-8c19-55920cad005d
+VS,2022,christmas,2022-12-24,2023-01-08,16,Christmas,VS,False,openholidays,5d45b319-9332-4afa-b157-51fa2f3a649b
+VS,2022,christmas,2022-12-24,2023-01-08,16,Christmas,VS,False,openholidays,c9a76233-14f7-441a-a732-40f9241274e0
+VS,2022,winter,2023-02-18,2023-02-26,9,Sport,VS,False,openholidays,38370cf1-1e58-4d24-a23a-d41af3b163c8
+VS,2022,winter,2023-02-25,2023-03-12,16,Sport,VS,False,openholidays,f4a2248c-28ab-4e20-8644-f064ecae8ecd
+VS,2022,winter,2023-03-04,2023-03-12,9,Sport,VS,False,openholidays,7960977a-cc67-4d98-a41f-3d88f366e01a
+VS,2022,spring,2023-04-07,2023-04-16,10,Spring,VS,False,openholidays,bd62a84f-ec80-4e39-bea8-25205af24a1b
+VS,2022,spring,2023-05-13,2023-05-21,9,Spring,VS,False,openholidays,afdc2e52-ec56-4937-9d31-62c84e771fb4
+VS,2022,spring,2023-05-13,2023-05-29,17,Spring,VS,False,openholidays,d046967d-4cbb-45ec-8219-0222b65bdd17
+VS,2022,summer,2023-06-24,2023-08-16,54,Summer,VS,False,openholidays,d395e127-46ff-46a4-87f7-fce9fbaaa5a0
+VS,2022,summer,2023-07-01,2023-08-15,46,Summer,VS,False,openholidays,9b2cae82-04be-405a-ad8f-f1f670b474e1
+VS,2023,autumn,2023-10-14,2023-10-29,16,Autumn,VS,False,openholidays,39f902dc-09f2-470a-9f7f-22831195a61d
+VS,2023,autumn,2023-10-19,2023-10-29,11,Autumn,VS,False,openholidays,ac7555b2-8eb8-4ef9-aa53-27c5492f0d6d
+VS,2023,christmas,2023-12-23,2024-01-07,16,Christmas,VS,False,openholidays,a9978030-e953-43ae-9675-8da37289de26
+VS,2023,christmas,2023-12-23,2024-01-07,16,Christmas,VS,False,openholidays,9a2e7f57-7052-4f65-a03b-c916472cd93b
+VS,2023,winter,2024-02-10,2024-02-18,9,Sport,VS,False,openholidays,f90c5583-dd57-448a-b92e-b910dc4a309f
+VS,2023,winter,2024-02-24,2024-03-10,16,Sport,VS,False,openholidays,e7796c3b-f0e1-489a-ac98-24ee49e22875
+VS,2023,winter,2024-03-02,2024-03-10,9,Sport,VS,False,openholidays,dca19c70-60d8-49cb-88bf-94819013fe3c
+VS,2023,spring,2024-03-29,2024-04-07,10,Spring,VS,False,openholidays,9c7382e8-de08-4bab-a558-53bb7e732148
+VS,2023,spring,2024-04-27,2024-05-12,16,Spring,VS,False,openholidays,4e4e7799-ccd6-42df-837f-519ee2d7dc80
+VS,2023,spring,2024-05-04,2024-05-12,9,Spring,VS,False,openholidays,5fd688da-3dd4-45a9-aece-54f3ad6f63bc
+VS,2023,summer,2024-06-22,2024-08-18,58,Summer,VS,False,openholidays,fd4aa58f-fe0f-4dad-ae01-7419cb8bd171
+VS,2023,summer,2024-06-29,2024-08-18,51,Summer,VS,False,openholidays,97951d3a-966b-43b2-830d-80c951f6c740
+VS,2024,autumn,2024-10-12,2024-10-27,16,Autumn,VS,False,openholidays,ce91fe63-1404-44c1-8cf9-1af3aa621292
+VS,2024,autumn,2024-10-17,2024-10-27,11,Autumn,VS,False,openholidays,3d81f27d-d1f5-4c2d-a60b-48f34b4f973b
+VS,2024,christmas,2024-12-21,2025-01-05,16,Christmas,VS,False,openholidays,15c2d39e-4eff-413f-95da-250ef124f1e6
+VS,2024,christmas,2024-12-21,2025-01-05,16,Christmas,VS,False,openholidays,1c95ca99-d1bd-4ac9-8d6a-acf4ca25a8a2
+VS,2024,winter,2025-02-22,2025-03-09,16,Sport,VS,False,openholidays,5942bc88-890a-4783-bc72-081a0f95746e
+VS,2024,winter,2025-03-01,2025-03-09,9,Sport,VS,False,openholidays,ecb29901-eebb-4196-955d-0ff27f67137a
+VS,2024,winter,2025-03-01,2025-03-09,9,Sport,VS,False,openholidays,81a4e1a2-bbc4-4682-9da3-2fa3cf14e2dc
+VS,2024,spring,2025-04-03,2025-04-18,16,Spring,VS,False,openholidays,ca62a945-e2df-4d90-b91a-438d70334c53
+VS,2024,spring,2025-04-10,2025-04-18,9,Spring,VS,False,openholidays,fdbe6121-c87e-406d-a573-82970b32670d
+VS,2024,spring,2025-04-18,2025-04-27,10,Spring,VS,False,openholidays,34c7cc54-780b-4818-9ba5-da4ec5b7dccb
+VS,2024,summer,2025-06-19,2025-08-20,63,Summer,VS,False,openholidays,29ecea63-e530-4c6a-bc36-0b7138391e28
+VS,2024,summer,2025-06-28,2025-08-17,51,Summer,VS,False,openholidays,982d216d-4600-4530-a5ac-f9652e3b0a52
+VS,2025,autumn,2025-10-11,2025-10-26,16,Autumn,VS,False,openholidays,51efd9ec-50fb-4911-b215-9597f1ccc04e
+VS,2025,autumn,2025-10-16,2025-10-26,11,Autumn,VS,False,openholidays,67671b34-5ffa-4b1e-ac7c-b53ec10a23c2
+VS,2025,christmas,2025-12-20,2026-01-04,16,Christmas,VS,False,openholidays,51a0d5f5-887b-473c-ae71-50ec9810e17f
+VS,2025,christmas,2025-12-20,2026-01-04,16,Christmas,VS,False,openholidays,6f39fe8c-3a5a-4bce-9139-ebc936c97e11
+VS,2025,winter,2026-02-14,2026-02-22,9,Sport,VS,False,openholidays,10acd396-1754-408c-819d-70fa8927bd7f
+VS,2025,winter,2026-02-21,2026-03-08,16,Sport,VS,False,openholidays,d588c426-dd25-4b50-9eb2-7a31f8574688
+VS,2025,winter,2026-02-28,2026-03-08,9,Sport,VS,False,openholidays,99411413-1720-4277-b384-05f8e98cf115
+VS,2025,spring,2026-04-03,2026-04-12,10,Spring,VS,False,openholidays,ecac62ba-abc6-404a-9b1b-4146c882c027
+VS,2025,spring,2026-05-02,2026-05-17,16,Spring,VS,False,openholidays,2cceac57-0ce5-4601-bf08-72ecfca15560
+VS,2025,spring,2026-05-09,2026-05-17,9,Spring,VS,False,openholidays,c644d239-51f5-48ea-9e1d-cea3c854f824
+VS,2025,summer,2026-06-27,2026-08-19,54,Summer,VS,False,openholidays,b79386a5-6c2b-4589-8af3-ed1425629a6d
+VS,2025,summer,2026-07-01,2026-08-16,47,Summer,VS,False,openholidays,94e0ec78-3a39-4d86-811f-c8293ef4e313
+VS,2025,summer,2026-07-01,2026-08-16,47,Summer,VS,False,openholidays,38e2e44d-c5cc-42aa-aff0-a21af93f27fd
+VS,2026,autumn,2026-10-10,2026-10-25,16,Autumn,VS,False,openholidays,349193b0-f8a1-401a-8361-2b3bccc16959
+VS,2026,autumn,2026-10-10,2026-10-25,16,Autumn,VS,False,openholidays,d881bd2d-ab0c-48ab-a365-62deca82db20
+VS,2026,autumn,2026-10-15,2026-10-25,11,Autumn,VS,False,openholidays,fc2d8db0-18b1-4499-a214-835c0c15409e
+VS,2026,christmas,2026-12-19,2027-01-03,16,Christmas,VS,False,openholidays,d44fb406-39ae-4c68-b300-93034d56d566
+VS,2026,christmas,2026-12-19,2027-01-03,16,Christmas,VS,False,openholidays,d61335a0-4a19-44eb-aa6a-ad33d8603b2d
+VS,2026,christmas,2026-12-24,2027-01-10,18,Christmas,VS,False,openholidays,77f67468-872c-4153-8984-7398779b62d7
+ZG,2019,winter,2020-02-01,2020-02-16,16,Sports holidays,ZG,False,openholidays,6cf5611f-759c-4519-89ae-309f3bd970d6
+ZG,2019,spring,2020-04-11,2020-04-26,16,Spring holidays,ZG,False,openholidays,ea57d6d3-a29e-411b-8bcf-8ef6b3d0a94b
+ZG,2019,bridge,2020-05-21,2020-05-24,4,Ascension Day holidays,ZG,False,openholidays,4a73c581-5023-4daa-9194-03263a04a10d
+ZG,2019,summer,2020-07-04,2020-08-16,44,Summer holidays,ZG,False,openholidays,ef898be0-7b61-4e71-99ef-1ba0f9838efb
+ZG,2020,autumn,2020-10-03,2020-10-18,16,Autumn holidays,ZG,False,openholidays,8e9ef5a5-fbd5-4266-bc5c-5e5c386c09c1
+ZG,2020,christmas,2020-12-19,2021-01-03,16,Winter holidays,ZG,False,openholidays,37ac162e-6550-4ab7-93ea-879be11dd965
+ZG,2020,winter,2021-02-06,2021-02-21,16,Sports holidays,ZG,False,openholidays,39679527-36c4-4b5a-990c-ea3b4f845f52
+ZG,2020,spring,2021-04-17,2021-05-02,16,Spring holidays,ZG,False,openholidays,96e66bc0-b37a-48fd-b3d7-34e791a9475c
+ZG,2020,bridge,2021-05-13,2021-05-16,4,Ascension Day holidays,ZG,False,openholidays,b562b2d8-1f86-446c-b796-6f2fc513898f
+ZG,2020,summer,2021-07-03,2021-08-15,44,Summer holidays,ZG,False,openholidays,694222ca-4d06-4d41-9f43-2a0d5881431d
+ZG,2021,autumn,2021-10-02,2021-10-17,16,Autumn holidays,ZG,False,openholidays,5efede45-ebd0-4705-a44c-1089daa46d75
+ZG,2021,christmas,2021-12-23,2022-01-05,14,Winter holidays,ZG,False,openholidays,9ab0c7d5-33aa-4b51-a192-10cfc879a84c
+ZG,2021,winter,2022-02-05,2022-02-20,16,Sports holidays,ZG,False,openholidays,376ed9f2-22df-48db-9466-6f50373194ef
+ZG,2021,spring,2022-04-15,2022-05-01,17,Spring holidays,ZG,False,openholidays,643962ec-4338-49c8-8336-9f60da37f401
+ZG,2021,bridge,2022-05-26,2022-05-29,4,Ascension Day holidays,ZG,False,openholidays,1def44e4-862d-4d99-9f7c-5cc027153d71
+ZG,2021,summer,2022-07-09,2022-08-21,44,Summer holidays,ZG,False,openholidays,cc448b4f-3cc1-4fbf-9cd8-52e5efe6c0e5
+ZG,2022,autumn,2022-10-08,2022-10-23,16,Autumn holidays,ZG,False,openholidays,e2f32517-ce1a-480e-a400-f463b9c0da13
+ZG,2022,christmas,2022-12-22,2023-01-04,14,Winter holidays,ZG,False,openholidays,ad557eb6-d2d5-4d99-843f-8f72cfc7ea53
+ZG,2022,winter,2023-02-04,2023-02-19,16,Sports holidays,ZG,False,openholidays,96e9a8cf-a8b8-4cd2-971a-356eeb3e7b16
+ZG,2022,spring,2023-04-15,2023-04-30,16,Spring holidays,ZG,False,openholidays,74b01dcd-63e0-42b1-8d6c-dc1b279b51a2
+ZG,2022,bridge,2023-05-18,2023-05-21,4,Ascension Day holidays,ZG,False,openholidays,4fc1e4c4-ea18-40c0-a362-a3d93697356d
+ZG,2022,summer,2023-07-08,2023-08-20,44,Summer holidays,ZG,False,openholidays,c9f69234-d5e8-4e58-80d9-6bd957c18fa5
+ZG,2023,autumn,2023-10-07,2023-10-22,16,Autumn holidays,ZG,False,openholidays,72155d41-55c8-4fae-961a-9df95fd25b7a
+ZG,2023,christmas,2023-12-23,2024-01-07,16,Winter holidays,ZG,False,openholidays,a3e46558-b3a1-4867-a0e0-c1481d55b995
+ZG,2023,winter,2024-02-03,2024-02-18,16,Sports holidays,ZG,False,openholidays,a202789d-0fa5-40cb-9e8a-019a3e83c84f
+ZG,2023,spring,2024-04-13,2024-04-28,16,Spring holidays,ZG,False,openholidays,0848c463-ba7b-4c39-96e8-e04b77cbba17
+ZG,2023,bridge,2024-05-09,2024-05-12,4,Ascension Day holidays,ZG,False,openholidays,d749ee21-92e9-488c-b1ff-12a9f16fbdce
+ZG,2023,summer,2024-07-06,2024-08-18,44,Summer holidays,ZG,False,openholidays,a0e34646-7e93-4163-86a4-13ab501924d9
+ZG,2024,autumn,2024-10-05,2024-10-20,16,Autumn holidays,ZG,False,openholidays,dee90528-a499-4b72-82f7-292e90aaaf22
+ZG,2024,christmas,2024-12-21,2025-01-05,16,Winter holidays,ZG,False,openholidays,93cbb0f7-3402-465b-82e3-3da3485ec049
+ZG,2024,winter,2025-02-01,2025-02-16,16,Sports holidays,ZG,False,openholidays,40356f4c-c033-47a9-877c-8b510c4d99fa
+ZG,2024,spring,2025-04-12,2025-04-27,16,Spring holidays,ZG,False,openholidays,12c8cd96-f05d-4b66-876b-38c8c5c020e6
+ZG,2024,bridge,2025-05-29,2025-06-01,4,Ascension Day holidays,ZG,False,openholidays,68043862-85c5-4aa6-bfa2-e3a5bfc99709
+ZG,2024,summer,2025-06-21,2025-08-17,58,Summer holidays,ZG,False,openholidays,d493c811-31b6-4bec-beb9-0cf5584c1ba7
+ZG,2025,autumn,2025-10-04,2025-10-19,16,Autumn holidays,ZG,False,openholidays,e3868dfd-4785-4fe1-b9f3-f77cd41ce67c
+ZG,2025,christmas,2025-12-20,2026-01-04,16,Winter holidays,ZG,False,openholidays,0428f89b-8389-4bea-a225-50d90b83150a
+ZG,2025,winter,2026-01-31,2026-02-15,16,Sports holidays,ZG,False,openholidays,c2180405-f165-4e63-ada2-92fca6cbe154
+ZG,2025,spring,2026-04-11,2026-04-26,16,Spring holidays,ZG,False,openholidays,f89f814b-5261-40a3-b625-f69be128ad2c
+ZG,2025,bridge,2026-05-14,2026-05-17,4,Ascension Day holidays,ZG,False,openholidays,053ed354-9f42-43ca-b97f-99ec4157b4c1
+ZG,2025,summer,2026-07-04,2026-08-16,44,Summer holidays,ZG,False,openholidays,3afdd5d0-8ffd-473a-b602-3d01ab3f8612
+ZG,2026,autumn,2026-10-03,2026-10-18,16,Autumn holidays,ZG,False,openholidays,1115e2a4-46e0-466b-a6dc-07510a8ec1d5
+ZG,2026,christmas,2026-12-19,2027-01-03,16,Winter holidays,ZG,False,openholidays,cc048590-bc85-4f4e-9edc-56325e212b20
+ZG,2026,winter,2027-02-06,2027-02-21,16,Sports holidays,ZG,False,openholidays,4337eac1-bcc6-41ed-9fda-43944245d855
+ZG,2026,spring,2027-04-17,2027-05-02,16,Spring holidays,ZG,False,openholidays,d40e9551-fec0-4c96-a901-291d2a7c0fce
+ZG,2026,bridge,2027-05-06,2027-05-09,4,Ascension Day holidays,ZG,False,openholidays,e2e33664-544c-4e07-b04c-de146bcf6101
+ZG,2026,summer,2027-07-03,2027-08-15,44,Summer holidays,ZG,False,openholidays,cdde3201-f7bc-448c-b487-a006a50269ad
+ZG,2027,autumn,2027-10-03,2027-10-18,16,Autumn holidays,ZG,False,openholidays,4f87356d-94a4-49eb-b3a9-56312162ff74
+ZG,2027,christmas,2027-12-19,2028-01-03,16,Winter holidays,ZG,False,openholidays,58710667-8d1d-4f3f-9673-80d37ab7e02a
+ZG,2027,winter,2028-02-05,2028-02-20,16,Sports holidays,ZG,False,openholidays,8e2dfd8f-91e6-4fcd-bbda-52b8bd58f2d6
+ZG,2027,spring,2028-04-15,2028-04-30,16,Spring holidays,ZG,False,openholidays,690b1847-84f6-4180-8bfe-aa0da3f40b8c
+ZG,2027,bridge,2028-05-25,2028-05-28,4,Ascension Day holidays,ZG,False,openholidays,ef9e4f7c-0784-4922-b8cd-26821a262216
+ZG,2027,summer,2028-07-08,2028-08-20,44,Summer holidays,ZG,False,openholidays,4462baaa-2f52-441f-8278-63656004c5ba
+ZG,2028,autumn,2028-10-07,2028-10-22,16,Autumn holidays,ZG,False,openholidays,3488faa3-18d5-48fd-ac1a-e422a7f24f61
+ZG,2028,christmas,2028-12-23,2029-01-07,16,Winter holidays,ZG,False,openholidays,bb8df82c-12e0-4a8f-81e8-a1dd1d46db89
+ZG,2028,winter,2029-02-03,2029-02-18,16,Sports holidays,ZG,False,openholidays,53f90c97-52bb-4aa1-ad99-c6d12157c0d0
+ZG,2028,spring,2029-04-04,2029-04-29,26,Spring holidays,ZG,False,openholidays,ce88e3b3-0a0e-46dc-998a-7362e244d8d6
+ZG,2028,bridge,2029-05-10,2029-05-13,4,Ascension Day holidays,ZG,False,openholidays,3057a37e-b9a5-45db-b084-f9893f32e00c
+ZG,2028,summer,2029-07-07,2029-08-19,44,Summer holidays,ZG,False,openholidays,61ae5cac-9e2a-46a8-bfcb-b752ca826805
+ZG,2029,autumn,2029-10-06,2029-10-21,16,Autumn holidays,ZG,False,openholidays,ae624775-0901-49fc-a14e-792721fdcd83
+ZG,2029,christmas,2029-12-22,2030-01-06,16,Winter holidays,ZG,False,openholidays,0f0ebc52-d740-4808-a2aa-38cf545c5b0e
+ZG,2029,winter,2030-02-02,2030-02-17,16,Sports holidays,ZG,False,openholidays,d441fe5b-8a84-4936-9c62-0fe535e80ded
+ZG,2029,spring,2030-04-13,2030-04-28,16,Spring holidays,ZG,False,openholidays,98e55907-6d7d-4fbe-88d3-f75bbcc83d60
+ZG,2029,bridge,2030-05-30,2030-06-02,4,Ascension Day holidays,ZG,False,openholidays,461d4d20-4f2f-4bc2-95f8-a1d0c92b50f7
+ZG,2029,summer,2030-07-06,2030-08-18,44,Summer holidays,ZG,False,openholidays,374e7db4-4bb3-414d-9f6b-033208af4ebd
+ZH,2019,spring,2020-04-10,2020-04-13,4,Easter,ZH,False,openholidays,c2f0b1d3-8a4e-4b5c-9f6d-7e0f8c1b2a3b
+ZH,2019,spring,2020-04-10,2020-04-13,4,Easter,ZH,False,openholidays,e83c6375-8cd5-4fa1-ae16-2307803e7dcf
+ZH,2019,spring,2020-04-13,2020-04-25,13,Spring holidays,ZH,False,openholidays,cafe8b49-7077-4c1d-b26c-f4a1b0b1d191
+ZH,2019,spring,2020-04-13,2020-04-25,13,Spring holidays,ZH,False,openholidays,ddbc0fc3-aff0-4b02-bffc-ac40fde687dd
+ZH,2019,bridge,2020-05-21,2020-05-23,3,Ascension Bridge,ZH,False,openholidays,c9110ebc-c424-4146-81a1-4e0f5827e7ee
+ZH,2019,summer,2020-07-13,2020-08-15,34,Summer holidays,ZH,False,openholidays,3960d1c8-fd65-4784-836a-072a03a9e804
+ZH,2020,autumn,2020-10-05,2020-10-17,13,Autumn holidays,ZH,False,openholidays,a30da61e-d665-495d-b4ce-1f8ecf75b74e
+ZH,2020,autumn,2020-10-05,2020-10-17,13,Autumn holidays,ZH,False,openholidays,c17c70f5-048d-4cff-90eb-03467e783f67
+ZH,2020,christmas,2020-12-21,2021-01-02,13,Christmas holidays,ZH,False,openholidays,1a903f1c-6a1f-4f41-8d4b-b9637811c15a
+ZH,2020,spring,2021-04-02,2021-04-05,4,Easter,ZH,False,openholidays,e7a1c3f4-5b2d-4e6a-8c9f-2d1e3b4a5c6f
+ZH,2020,spring,2021-04-02,2021-04-05,4,Easter,ZH,False,openholidays,3590ec3d-1ac0-4d34-8fc6-ba358fbf6bb2
+ZH,2020,spring,2021-04-26,2021-05-08,13,Spring holidays,ZH,False,openholidays,452a3893-55f0-4d1f-9c74-bb0adec26882
+ZH,2020,spring,2021-04-26,2021-05-08,13,Spring holidays,ZH,False,openholidays,ce615762-7f74-4a04-a9cb-6ee5727a268d
+ZH,2020,bridge,2021-05-13,2021-05-15,3,Ascension Bridge,ZH,False,openholidays,4ac5e572-5854-4bc6-ad21-66a865d529e4
+ZH,2020,summer,2021-07-19,2021-08-21,34,Summer holidays,ZH,False,openholidays,70ce7a83-ea66-4df7-ad28-d9d222c47d73
+ZH,2021,autumn,2021-10-11,2021-10-23,13,Autumn holidays,ZH,False,openholidays,1c309179-7d00-4a20-b938-4269ca9eaa90
+ZH,2021,autumn,2021-10-11,2021-10-23,13,Autumn holidays,ZH,False,openholidays,77bd4f72-7149-4831-b340-2074850bcd90
+ZH,2021,christmas,2021-12-20,2022-01-01,13,Christmas holidays,ZH,False,openholidays,c900a241-2270-4209-816c-aab7c79edb83
+ZH,2021,spring,2022-04-15,2022-04-18,4,Easter,ZH,False,openholidays,b7e2a1c4-9f3d-4c2e-8e7b-1a2f3c4d5e6f
+ZH,2021,spring,2022-04-15,2022-04-18,4,Easter,ZH,False,openholidays,ef8989e3-e16f-4e81-861b-7c3fed1894a5
+ZH,2021,spring,2022-04-18,2022-04-30,13,Spring holidays,ZH,False,openholidays,6e21ee66-f3ab-4439-bad0-609a08f1e73c
+ZH,2021,spring,2022-04-18,2022-04-30,13,Spring holidays,ZH,False,openholidays,397975de-92d0-4b29-94f5-a4dca969d64a
+ZH,2021,bridge,2022-05-26,2022-05-28,3,Ascension Bridge,ZH,False,openholidays,9e0062e1-eb12-4a56-9211-5125ec1c0c68
+ZH,2021,summer,2022-07-18,2022-08-20,34,Summer holidays,ZH,False,openholidays,176e5890-2055-4902-a09f-544968d11abd
+ZH,2022,autumn,2022-10-10,2022-10-22,13,Autumn holidays,ZH,False,openholidays,f53b007a-581a-4006-ae43-30d6400e8daa
+ZH,2022,autumn,2022-10-10,2022-10-22,13,Autumn holidays,ZH,False,openholidays,83d62700-0bbd-40fe-aa7e-65cef3f7dbc6
+ZH,2022,christmas,2022-12-26,2023-01-07,13,Christmas holidays,ZH,False,openholidays,330bb4e3-4613-4774-8b48-41b542b9c329
+ZH,2022,spring,2023-04-07,2023-04-10,4,Easter,ZH,False,openholidays,b1c2d3e4-f5a6-7b8c-9d0e-1f2a3b4c5d6e
+ZH,2022,spring,2023-04-07,2023-04-10,4,Easter,ZH,False,openholidays,0c3a7328-2f1f-489c-aeae-848194a61bc9
+ZH,2022,spring,2023-04-24,2023-05-06,13,Spring holidays,ZH,False,openholidays,0999f546-5a7c-4db7-be95-8864e3bc909a
+ZH,2022,spring,2023-04-24,2023-05-06,13,Spring holidays,ZH,False,openholidays,aaf5a2c0-2082-41f2-a229-709f2ff180bb
+ZH,2022,summer,2023-07-17,2023-08-19,34,Summer holidays,ZH,False,openholidays,954c1f82-6515-4e0f-b40e-dece21d33d84
+ZH,2023,autumn,2023-10-09,2023-10-21,13,Autumn holidays,ZH,False,openholidays,9ddd3b97-4e9b-4e7c-8a82-8fc5d6f1a358
+ZH,2023,autumn,2023-10-09,2023-10-21,13,Autumn holidays,ZH,False,openholidays,c48c7611-ffb0-4402-96e7-ab20ddfbb123
+ZH,2023,christmas,2023-12-25,2024-01-06,13,Christmas holidays,ZH,False,openholidays,b55959f3-3984-48d0-baee-31b7f8b20c3f
+ZH,2023,spring,2024-03-29,2024-04-01,4,Easter,ZH,False,openholidays,680a7f95-a06f-4b21-aed0-37a6823909eb
+ZH,2023,spring,2024-03-29,2024-04-01,4,Easter,ZH,False,openholidays,4753f575-43d7-4cb3-adf0-67f3cac6b440
+ZH,2023,spring,2024-04-22,2024-05-04,13,Spring holidays,ZH,False,openholidays,ae6ef59b-da6c-4ffe-bc8c-d2d81548eff3
+ZH,2023,spring,2024-04-22,2024-05-04,13,Spring holidays,ZH,False,openholidays,4503d6bf-973f-4418-841b-fcb589afad45
+ZH,2023,bridge,2024-05-09,2024-05-11,3,Ascension Bridge,ZH,False,openholidays,1ec65920-63a9-43ea-ab1e-3849155dfd0f
+ZH,2023,summer,2024-07-15,2024-08-17,34,Summer holidays,ZH,False,openholidays,0ecf1cd2-5538-44e0-823c-ce05fc7a61f5
+ZH,2024,autumn,2024-10-07,2024-10-19,13,Autumn holidays,ZH,False,openholidays,37095394-e961-4893-95fb-2af447442106
+ZH,2024,autumn,2024-10-07,2024-10-19,13,Autumn holidays,ZH,False,openholidays,80ecc190-d0ca-4e51-85a9-be2b3b604835
+ZH,2024,christmas,2024-12-23,2025-01-04,13,Christmas holidays,ZH,False,openholidays,ebcc1879-efb8-41ef-a9ab-e28752e52da9
+ZH,2024,spring,2025-04-18,2025-04-21,4,Easter,ZH,False,openholidays,9bd93e08-f7c4-49f8-ba9c-f891b18ad1b3
+ZH,2024,spring,2025-04-18,2025-04-21,4,Easter,ZH,False,openholidays,842432c6-cf71-4e27-a779-3bce594e61b9
+ZH,2024,spring,2025-04-21,2025-05-03,13,Spring holidays,ZH,False,openholidays,5ae70f0f-6dfd-45e1-9b62-6fbcb783e6db
+ZH,2024,spring,2025-04-21,2025-05-03,13,Spring holidays,ZH,False,openholidays,ec9a3c1c-944e-459c-9769-a61467efa0e6
+ZH,2024,bridge,2025-05-29,2025-05-31,3,Ascension Bridge,ZH,False,openholidays,a7e6f4ca-1b3b-499b-9948-e388f44abef8
+ZH,2024,summer,2025-07-14,2025-08-16,34,Summer holidays,ZH,False,openholidays,135dd0bf-0703-4958-9fa2-c2067c398760
+ZH,2025,autumn,2025-10-06,2025-10-18,13,Autumn holidays,ZH,False,openholidays,a4ecbaac-7ab8-4ae1-adf4-592ed79dd396
+ZH,2025,autumn,2025-10-06,2025-10-18,13,Autumn holidays,ZH,False,openholidays,de25c0df-ebf0-49d2-8632-e526352496fa
+ZH,2025,christmas,2025-12-22,2026-01-03,13,Christmas holidays,ZH,False,openholidays,0ed0aaee-13b3-4fb8-87ce-b7eaea1b3a0b
+ZH,2025,spring,2026-04-03,2026-04-06,4,Easter,ZH,False,openholidays,a751cd88-e7c4-457c-8f3b-7b019305e2c5
+ZH,2025,spring,2026-04-03,2026-04-06,4,Easter,ZH,False,openholidays,d505865c-62b0-443c-84b5-87e7b058b4ac
+ZH,2025,spring,2026-04-20,2026-05-02,13,Spring holidays,ZH,False,openholidays,9b183e08-6576-4676-ab90-970ec755662b
+ZH,2025,spring,2026-04-20,2026-05-02,13,Spring holidays,ZH,False,openholidays,4fde682c-7f2c-4131-8215-7f8d0248ef77
+ZH,2025,bridge,2026-05-14,2026-05-16,3,Ascension Bridge,ZH,False,openholidays,4250e1b0-ffb1-4326-99b0-1912ac9c103d
+ZH,2025,summer,2026-07-13,2026-08-15,34,Summer holidays,ZH,False,openholidays,2c715e6e-2cbe-4cd1-9ea8-f50f53235cb4
+ZH,2026,autumn,2026-10-05,2026-10-17,13,Autumn holidays,ZH,False,openholidays,78fec4c7-55a8-4b55-befb-1dda4c5a454a
+ZH,2026,autumn,2026-10-05,2026-10-17,13,Autumn holidays,ZH,False,openholidays,e4a7d68f-5995-4faf-8b56-372f8790e57b
+ZH,2026,christmas,2026-12-21,2027-01-02,13,Christmas holidays,ZH,False,openholidays,9b3287e2-e686-47d2-8a5d-751956525815
+ZH,2026,spring,2027-03-26,2027-03-29,4,Easter,ZH,False,openholidays,1617d52e-9917-481f-8599-74d7dc07f697
+ZH,2026,spring,2027-03-26,2027-03-29,4,Easter,ZH,False,openholidays,13cfd31d-fdf1-4218-850c-4380d6e5ac77
+ZH,2026,spring,2027-04-26,2027-05-08,13,Spring holidays,ZH,False,openholidays,b0ae749e-fc37-42b5-b577-612552362dbb
+ZH,2026,spring,2027-04-26,2027-05-08,13,Spring holidays,ZH,False,openholidays,722aae36-85d6-4fec-abfb-dd89a2c38cb7
+ZH,2026,bridge,2027-05-06,2027-05-08,3,Ascension Bridge,ZH,False,openholidays,c58ab016-4e99-4242-816c-7f0062d96546
+ZH,2026,summer,2027-07-19,2027-08-21,34,Summer holidays,ZH,False,openholidays,4eb8b079-07d1-4212-8d98-6e049c3bccad
+ZH,2027,autumn,2027-10-11,2027-10-23,13,Autumn holidays,ZH,False,openholidays,8a239fe3-71d6-496a-b0b7-8e0300706e6a
+ZH,2027,autumn,2027-10-11,2027-10-23,13,Autumn holidays,ZH,False,openholidays,93096014-9c02-401b-bcc3-0978f4182126
+ZH,2027,christmas,2027-12-20,2028-01-01,13,Christmas holidays,ZH,False,openholidays,1fa0fa73-9c42-4666-bb58-db6976a4ea82
+ZH,2027,spring,2028-04-14,2028-04-17,4,Easter,ZH,False,openholidays,bd62eb06-e939-491b-bf50-2fc3caebdcda
+ZH,2027,spring,2028-04-14,2028-04-17,4,Easter,ZH,False,openholidays,57e7dc7a-8fc9-4018-9a4a-7e3d66568705
+ZH,2027,spring,2028-04-17,2028-04-29,13,Spring holidays,ZH,False,openholidays,06bdf825-a452-40a0-9715-cae55cf2ffab
+ZH,2027,spring,2028-04-17,2028-04-29,13,Spring holidays,ZH,False,openholidays,acca2bc4-2616-4e8a-9cc1-8c0e9008c671
+ZH,2027,bridge,2028-05-25,2028-05-27,3,Ascension Bridge,ZH,False,openholidays,f2da0cc9-03b9-47de-901c-d1f1787a8819
+ZH,2027,summer,2028-07-17,2028-08-19,34,Summer holidays,ZH,False,openholidays,47e43cd1-d519-43ad-afaf-ae48f56ce5bd
+ZH,2028,autumn,2028-10-09,2028-10-21,13,Autumn holidays,ZH,False,openholidays,88034963-cb22-429d-8947-979bd1e6aabf
+ZH,2028,autumn,2028-10-09,2028-10-21,13,Autumn holidays,ZH,False,openholidays,973b0e9d-a045-45be-b3a4-49fd184a8b83
+ZH,2028,christmas,2028-12-25,2029-01-06,13,Christmas holidays,ZH,False,openholidays,600d544b-968c-49ff-be5e-e306f38f078a
+ZH,2028,spring,2029-03-30,2029-04-02,4,Easter,ZH,False,openholidays,f17c4d5c-3826-460c-9f21-c10d9b317b7e
+ZH,2028,spring,2029-03-30,2029-04-02,4,Easter,ZH,False,openholidays,f11021d8-81d0-479b-a7a3-f8f77166c0c5
+ZH,2028,spring,2029-04-23,2029-05-05,13,Spring holidays,ZH,False,openholidays,b89e3702-95f4-4b85-b57d-f881b8ad91b3
+ZH,2028,spring,2029-04-23,2029-05-05,13,Spring holidays,ZH,False,openholidays,bf99c363-c5b6-48b0-90c3-9eef6cd5c51b
+ZH,2028,bridge,2029-05-10,2029-05-12,3,Ascension Bridge,ZH,False,openholidays,62c4ed95-0405-4e9d-883b-1c8d1a26b1ae
+ZH,2028,summer,2029-07-16,2029-08-18,34,Summer holidays,ZH,False,openholidays,5ed601b3-5e65-4c8d-9e34-9ac8da664576
+ZH,2029,autumn,2029-10-08,2029-10-20,13,Autumn holidays,ZH,False,openholidays,3f8129cb-d8ab-4a9c-8d5d-c7697359f748
+ZH,2029,autumn,2029-10-08,2029-10-20,13,Autumn holidays,ZH,False,openholidays,21e13f7a-a049-4582-b938-4515643081b3
+ZH,2029,christmas,2029-12-24,2030-01-05,13,Christmas holidays,ZH,False,openholidays,ec8a0d3f-853a-406e-8c60-fb27b3faa326
+ZH,2029,spring,2030-04-19,2030-04-22,4,Easter,ZH,False,openholidays,9fd2942b-706a-4978-b6b4-4e04325a4ab6
+ZH,2029,spring,2030-04-19,2030-04-22,4,Easter,ZH,False,openholidays,58677d20-89a1-422e-86f0-d2d06e5af8a6
+ZH,2029,spring,2030-04-22,2030-05-04,13,Spring holidays,ZH,False,openholidays,af6d582f-ea4f-459e-a867-d4951be1b0af
+ZH,2029,spring,2030-04-22,2030-05-04,13,Spring holidays,ZH,False,openholidays,3dd406d9-87a9-4314-bad9-5efa08978588
+ZH,2029,bridge,2030-05-30,2030-06-01,3,Ascension Bridge,ZH,False,openholidays,d60b1e20-3298-4978-8cea-bf40c1dde0bd
+ZH,2029,summer,2030-07-15,2030-08-17,34,Summer holidays,ZH,False,openholidays,9eed2156-9896-4643-810a-3b3c42a39f28
+ZH,2030,autumn,2030-10-07,2030-10-19,13,Autumn holidays,ZH,False,openholidays,9f83ee83-382d-4a7b-a1ca-0aa5d167c1b5
+ZH,2030,autumn,2030-10-07,2030-10-19,13,Autumn holidays,ZH,False,openholidays,4a30ad13-c2b4-4799-9517-ca922ee1c87f
+ZH,2030,christmas,2030-12-23,2031-01-05,14,Christmas holidays,ZH,False,openholidays,8ccf9e79-f814-4c6d-af79-f3fad1bfe9a4
+ZH,2030,spring,2031-04-11,2031-04-14,4,Easter,ZH,False,openholidays,3ac8f305-373d-4a7d-9fea-d01e28118b74
+ZH,2030,spring,2031-04-11,2031-04-14,4,Easter,ZH,False,openholidays,69b20d8e-abf7-4d9b-9850-558de5e752ca
+ZH,2030,spring,2031-04-14,2031-04-26,13,Spring holidays,ZH,False,openholidays,12404e18-4e35-4fe9-a082-2b024afe8e75
+ZH,2030,spring,2031-04-14,2031-04-26,13,Spring holidays,ZH,False,openholidays,45e84f8f-866d-4a6a-9c4e-b71f9ee27379
+ZH,2030,bridge,2031-05-22,2031-05-24,3,Ascension Bridge,ZH,False,openholidays,5f5d65a0-c9f8-4751-9e72-3d291b566af8
+ZH,2030,summer,2031-07-14,2031-08-16,34,Summer holidays,ZH,False,openholidays,3d8b0789-6b0e-4afd-9d1f-9748100fd24e
+ZH,2031,autumn,2031-10-06,2031-10-18,13,Autumn holidays,ZH,False,openholidays,9d756c1e-e1d7-4837-838b-e897042a6dfe
+ZH,2031,autumn,2031-10-06,2031-10-18,13,Autumn holidays,ZH,False,openholidays,d18c76bc-f376-41ee-a538-cd07176d5ebd
+ZH,2031,christmas,2031-12-22,2032-01-03,13,Christmas holidays,ZH,False,openholidays,57bd6d84-7857-43fd-b49a-739ec27c71d8
+ZH,2031,spring,2032-03-26,2032-03-29,4,Easter,ZH,False,openholidays,d8c1fcdd-34df-4a38-812b-2b2616174841
+ZH,2031,spring,2032-03-26,2032-03-29,4,Easter,ZH,False,openholidays,f2c8a22a-7079-4507-bbb0-c887b2fa1e9f
+ZH,2031,spring,2032-04-19,2032-05-01,13,Spring holidays,ZH,False,openholidays,f3a0eb38-4cd8-4ab6-b8af-ab5d0eb1d676
+ZH,2031,spring,2032-04-19,2032-05-01,13,Spring holidays,ZH,False,openholidays,7b5aaafd-4ea8-47d1-96e4-145b93ac9bea
+ZH,2031,bridge,2032-05-06,2032-05-08,3,Ascension Bridge,ZH,False,openholidays,a7a76c22-0ddc-4d94-9842-5c57d70f35e5
+ZH,2031,summer,2032-07-12,2032-08-14,34,Summer holidays,ZH,False,openholidays,98d10ecb-ab31-4724-a7f9-060cd28d9694
+ZH,2032,autumn,2032-10-04,2032-10-16,13,Autumn holidays,ZH,False,openholidays,ac8756e8-8b6e-4b07-a4e7-113a9968bb04
+ZH,2032,autumn,2032-10-04,2032-10-16,13,Autumn holidays,ZH,False,openholidays,87cc8843-6e53-4cee-ab6f-0328f6059045
+ZH,2032,christmas,2032-12-20,2033-01-01,13,Christmas holidays,ZH,False,openholidays,dfbeeecb-131c-4d2c-a9f3-d386897c3dab
+ZH,2032,spring,2033-04-15,2033-04-18,4,Easter,ZH,False,openholidays,96d41f7c-3772-4d2d-ba56-97fd1f2f05f2
+ZH,2032,spring,2033-04-15,2033-04-18,4,Easter,ZH,False,openholidays,5283f71d-ac78-4e92-95be-ddb7e899edd5
+ZH,2032,spring,2033-04-18,2033-04-30,13,Spring holidays,ZH,False,openholidays,443b1e12-72c1-4e91-8920-762d1ba04c4d
+ZH,2032,spring,2033-04-18,2033-04-30,13,Spring holidays,ZH,False,openholidays,942bf4e3-54ea-4db6-82f9-befdd312d365
+ZH,2032,bridge,2033-05-26,2033-05-28,3,Ascension Bridge,ZH,False,openholidays,c82d9b15-c8a2-4b37-9339-f71fede08f80
+ZH,2032,summer,2033-07-18,2033-08-20,34,Summer holidays,ZH,False,openholidays,8d73843c-5368-4154-8eff-630a753bcdbe
