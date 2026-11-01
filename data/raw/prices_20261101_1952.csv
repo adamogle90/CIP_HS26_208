@@ -1,0 +1,778 @@
+resort,date,duration_days,label,is_available,capacity_kind,price_chf,max_price_chf,observed_at
+Chäserrugg,2026-11-21,1,4h & 1d Ski Ticket 26/27,True,unlimited,45.0,45.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2026-11-22,1,4h & 1d Ski Ticket 26/27,True,unlimited,45.0,45.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2026-11-28,1,4h & 1d Ski Ticket 26/27,True,unlimited,47.5,47.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2026-11-29,1,4h & 1d Ski Ticket 26/27,True,unlimited,45.5,45.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2026-12-05,1,4h & 1d Ski Ticket 26/27,True,unlimited,50.0,50.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2026-12-06,1,4h & 1d Ski Ticket 26/27,True,unlimited,50.0,50.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2026-12-12,1,4h & 1d Ski Ticket 26/27,True,unlimited,51.5,51.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2026-12-13,1,4h & 1d Ski Ticket 26/27,True,unlimited,51.5,51.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2026-12-19,1,4h & 1d Ski Ticket 26/27,True,unlimited,51.5,51.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2026-12-20,1,4h & 1d Ski Ticket 26/27,True,unlimited,52.0,52.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2026-12-21,1,4h & 1d Ski Ticket 26/27,True,unlimited,51.0,51.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2026-12-22,1,4h & 1d Ski Ticket 26/27,True,unlimited,51.5,51.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2026-12-23,1,4h & 1d Ski Ticket 26/27,True,unlimited,51.0,51.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2026-12-24,1,4h & 1d Ski Ticket 26/27,True,unlimited,52.5,52.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2026-12-25,1,4h & 1d Ski Ticket 26/27,True,unlimited,53.0,53.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2026-12-26,1,4h & 1d Ski Ticket 26/27,True,unlimited,53.5,53.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2026-12-27,1,4h & 1d Ski Ticket 26/27,True,unlimited,54.5,54.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2026-12-28,1,4h & 1d Ski Ticket 26/27,True,unlimited,56.0,56.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2026-12-29,1,4h & 1d Ski Ticket 26/27,True,unlimited,56.5,56.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2026-12-30,1,4h & 1d Ski Ticket 26/27,True,unlimited,57.0,57.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2026-12-31,1,4h & 1d Ski Ticket 26/27,True,unlimited,57.0,57.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-01,1,4h & 1d Ski Ticket 26/27,True,unlimited,56.5,56.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-02,1,4h & 1d Ski Ticket 26/27,True,unlimited,56.5,56.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-03,1,4h & 1d Ski Ticket 26/27,True,unlimited,56.5,56.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-04,1,4h & 1d Ski Ticket 26/27,True,unlimited,49.0,49.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-05,1,4h & 1d Ski Ticket 26/27,True,unlimited,50.5,50.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-06,1,4h & 1d Ski Ticket 26/27,True,unlimited,51.0,51.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-07,1,4h & 1d Ski Ticket 26/27,True,unlimited,47.5,47.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-08,1,4h & 1d Ski Ticket 26/27,True,unlimited,47.5,47.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-09,1,4h & 1d Ski Ticket 26/27,True,unlimited,53.0,53.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-10,1,4h & 1d Ski Ticket 26/27,True,unlimited,53.5,53.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-11,1,4h & 1d Ski Ticket 26/27,True,unlimited,45.5,45.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-12,1,4h & 1d Ski Ticket 26/27,True,unlimited,45.5,45.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-13,1,4h & 1d Ski Ticket 26/27,True,unlimited,46.0,46.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-14,1,4h & 1d Ski Ticket 26/27,True,unlimited,47.0,47.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-15,1,4h & 1d Ski Ticket 26/27,True,unlimited,47.5,47.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-16,1,4h & 1d Ski Ticket 26/27,True,unlimited,53.5,53.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-17,1,4h & 1d Ski Ticket 26/27,True,unlimited,55.0,55.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-18,1,4h & 1d Ski Ticket 26/27,True,unlimited,45.0,45.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-19,1,4h & 1d Ski Ticket 26/27,True,unlimited,45.0,45.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-20,1,4h & 1d Ski Ticket 26/27,True,unlimited,45.0,45.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-21,1,4h & 1d Ski Ticket 26/27,True,unlimited,45.0,45.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-22,1,4h & 1d Ski Ticket 26/27,True,unlimited,45.5,45.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-23,1,4h & 1d Ski Ticket 26/27,True,unlimited,53.0,53.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-24,1,4h & 1d Ski Ticket 26/27,True,unlimited,53.5,53.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-25,1,4h & 1d Ski Ticket 26/27,True,unlimited,45.0,45.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-26,1,4h & 1d Ski Ticket 26/27,True,unlimited,46.0,46.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-27,1,4h & 1d Ski Ticket 26/27,True,unlimited,46.0,46.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-28,1,4h & 1d Ski Ticket 26/27,True,unlimited,46.0,46.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-29,1,4h & 1d Ski Ticket 26/27,True,unlimited,46.0,46.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-30,1,4h & 1d Ski Ticket 26/27,True,unlimited,54.0,54.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-01-31,1,4h & 1d Ski Ticket 26/27,True,unlimited,55.5,55.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-02-01,1,4h & 1d Ski Ticket 26/27,True,unlimited,54.0,54.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-02-02,1,4h & 1d Ski Ticket 26/27,True,unlimited,54.0,54.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-02-03,1,4h & 1d Ski Ticket 26/27,True,unlimited,54.5,54.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-02-04,1,4h & 1d Ski Ticket 26/27,True,unlimited,54.5,54.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-02-05,1,4h & 1d Ski Ticket 26/27,True,unlimited,54.0,54.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-02-06,1,4h & 1d Ski Ticket 26/27,True,unlimited,54.5,54.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-02-07,1,4h & 1d Ski Ticket 26/27,True,unlimited,55.5,55.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-02-08,1,4h & 1d Ski Ticket 26/27,True,unlimited,54.5,54.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-02-09,1,4h & 1d Ski Ticket 26/27,True,unlimited,55.0,55.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-02-10,1,4h & 1d Ski Ticket 26/27,True,unlimited,55.0,55.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-02-11,1,4h & 1d Ski Ticket 26/27,True,unlimited,55.5,55.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-02-12,1,4h & 1d Ski Ticket 26/27,True,unlimited,55.0,55.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-02-13,1,4h & 1d Ski Ticket 26/27,True,unlimited,56.5,56.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-02-14,1,4h & 1d Ski Ticket 26/27,True,unlimited,56.5,56.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-02-15,1,4h & 1d Ski Ticket 26/27,True,unlimited,56.0,56.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-02-16,1,4h & 1d Ski Ticket 26/27,True,unlimited,55.0,55.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-02-17,1,4h & 1d Ski Ticket 26/27,True,unlimited,55.0,55.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-02-18,1,4h & 1d Ski Ticket 26/27,True,unlimited,55.0,55.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-02-19,1,4h & 1d Ski Ticket 26/27,True,unlimited,55.0,55.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-02-20,1,4h & 1d Ski Ticket 26/27,True,unlimited,56.5,56.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-02-21,1,4h & 1d Ski Ticket 26/27,True,unlimited,56.5,56.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-02-22,1,4h & 1d Ski Ticket 26/27,True,unlimited,54.5,54.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-02-23,1,4h & 1d Ski Ticket 26/27,True,unlimited,54.5,54.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-02-24,1,4h & 1d Ski Ticket 26/27,True,unlimited,55.0,55.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-02-25,1,4h & 1d Ski Ticket 26/27,True,unlimited,54.5,54.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-02-26,1,4h & 1d Ski Ticket 26/27,True,unlimited,55.0,55.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-02-27,1,4h & 1d Ski Ticket 26/27,True,unlimited,56.5,56.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-02-28,1,4h & 1d Ski Ticket 26/27,True,unlimited,56.5,56.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-01,1,4h & 1d Ski Ticket 26/27,True,unlimited,52.0,52.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-02,1,4h & 1d Ski Ticket 26/27,True,unlimited,52.5,52.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-03,1,4h & 1d Ski Ticket 26/27,True,unlimited,52.5,52.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-04,1,4h & 1d Ski Ticket 26/27,True,unlimited,52.5,52.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-05,1,4h & 1d Ski Ticket 26/27,True,unlimited,52.0,52.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-06,1,4h & 1d Ski Ticket 26/27,True,unlimited,53.5,53.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-07,1,4h & 1d Ski Ticket 26/27,True,unlimited,53.0,53.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-08,1,4h & 1d Ski Ticket 26/27,True,unlimited,48.5,48.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-09,1,4h & 1d Ski Ticket 26/27,True,unlimited,49.0,49.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-10,1,4h & 1d Ski Ticket 26/27,True,unlimited,49.5,49.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-11,1,4h & 1d Ski Ticket 26/27,True,unlimited,48.0,48.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-12,1,4h & 1d Ski Ticket 26/27,True,unlimited,47.5,47.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-13,1,4h & 1d Ski Ticket 26/27,True,unlimited,52.0,52.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-14,1,4h & 1d Ski Ticket 26/27,True,unlimited,51.5,51.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-15,1,4h & 1d Ski Ticket 26/27,True,unlimited,46.0,46.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-16,1,4h & 1d Ski Ticket 26/27,True,unlimited,46.5,46.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-17,1,4h & 1d Ski Ticket 26/27,True,unlimited,47.0,47.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-18,1,4h & 1d Ski Ticket 26/27,True,unlimited,46.5,46.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-19,1,4h & 1d Ski Ticket 26/27,True,unlimited,45.0,45.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-20,1,4h & 1d Ski Ticket 26/27,True,unlimited,47.5,47.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-21,1,4h & 1d Ski Ticket 26/27,True,unlimited,45.0,45.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-22,1,4h & 1d Ski Ticket 26/27,True,unlimited,45.0,45.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-23,1,4h & 1d Ski Ticket 26/27,True,unlimited,45.0,45.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-24,1,4h & 1d Ski Ticket 26/27,True,unlimited,45.0,45.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-25,1,4h & 1d Ski Ticket 26/27,True,unlimited,48.0,48.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-26,1,4h & 1d Ski Ticket 26/27,True,unlimited,51.5,51.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-27,1,4h & 1d Ski Ticket 26/27,True,unlimited,52.0,52.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-28,1,4h & 1d Ski Ticket 26/27,True,unlimited,51.0,51.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-29,1,4h & 1d Ski Ticket 26/27,True,unlimited,49.0,49.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-30,1,4h & 1d Ski Ticket 26/27,True,unlimited,45.0,45.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-03-31,1,4h & 1d Ski Ticket 26/27,True,unlimited,45.0,45.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-04-01,1,4h & 1d Ski Ticket 26/27,True,unlimited,45.5,45.5,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-04-02,1,4h & 1d Ski Ticket 26/27,True,unlimited,46.0,46.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-04-03,1,4h & 1d Ski Ticket 26/27,True,unlimited,48.0,48.0,2026-11-01T19:52:04+01:00
+Chäserrugg,2027-04-04,1,4h & 1d Ski Ticket 26/27,True,unlimited,45.5,45.5,2026-11-01T19:52:04+01:00
+Laax,2026-11-28,1,1 Tag/Day,True,unlimited,56.0,56.0,2026-11-01T19:52:04+01:00
+Laax,2026-11-29,1,1 Tag/Day,True,unlimited,55.0,55.0,2026-11-01T19:52:04+01:00
+Laax,2026-12-05,1,1 Tag/Day,True,unlimited,57.5,57.5,2026-11-01T19:52:04+01:00
+Laax,2026-12-06,1,1 Tag/Day,True,unlimited,56.0,56.0,2026-11-01T19:52:04+01:00
+Laax,2026-12-07,1,1 Tag/Day,True,unlimited,53.5,53.5,2026-11-01T19:52:04+01:00
+Laax,2026-12-08,1,1 Tag/Day,True,unlimited,54.0,54.0,2026-11-01T19:52:04+01:00
+Laax,2026-12-09,1,1 Tag/Day,True,unlimited,56.0,56.0,2026-11-01T19:52:04+01:00
+Laax,2026-12-10,1,1 Tag/Day,True,unlimited,54.5,54.5,2026-11-01T19:52:04+01:00
+Laax,2026-12-11,1,1 Tag/Day,True,unlimited,53.5,53.5,2026-11-01T19:52:04+01:00
+Laax,2026-12-12,1,1 Tag/Day,True,unlimited,63.5,63.5,2026-11-01T19:52:04+01:00
+Laax,2026-12-13,1,1 Tag/Day,True,unlimited,61.5,61.5,2026-11-01T19:52:04+01:00
+Laax,2026-12-14,1,1 Tag/Day,True,unlimited,52.5,52.5,2026-11-01T19:52:04+01:00
+Laax,2026-12-15,1,1 Tag/Day,True,unlimited,53.5,53.5,2026-11-01T19:52:04+01:00
+Laax,2026-12-16,1,1 Tag/Day,True,unlimited,53.5,53.5,2026-11-01T19:52:04+01:00
+Laax,2026-12-17,1,1 Tag/Day,True,unlimited,56.0,56.0,2026-11-01T19:52:04+01:00
+Laax,2026-12-18,1,1 Tag/Day,True,unlimited,58.5,58.5,2026-11-01T19:52:04+01:00
+Laax,2026-12-19,1,1 Tag/Day,True,unlimited,70.0,70.0,2026-11-01T19:52:04+01:00
+Laax,2026-12-20,1,1 Tag/Day,True,unlimited,75.0,75.0,2026-11-01T19:52:04+01:00
+Laax,2026-12-21,1,1 Tag/Day,True,unlimited,77.0,77.0,2026-11-01T19:52:04+01:00
+Laax,2026-12-22,1,1 Tag/Day,True,unlimited,78.5,78.5,2026-11-01T19:52:04+01:00
+Laax,2026-12-23,1,1 Tag/Day,True,unlimited,75.0,75.0,2026-11-01T19:52:04+01:00
+Laax,2026-12-24,1,1 Tag/Day,True,unlimited,76.5,76.5,2026-11-01T19:52:04+01:00
+Laax,2026-12-25,1,1 Tag/Day,True,unlimited,76.0,76.0,2026-11-01T19:52:04+01:00
+Laax,2026-12-26,1,1 Tag/Day,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Laax,2026-12-27,1,1 Tag/Day,True,unlimited,86.0,86.0,2026-11-01T19:52:04+01:00
+Laax,2026-12-28,1,1 Tag/Day,True,unlimited,92.0,92.0,2026-11-01T19:52:04+01:00
+Laax,2026-12-29,1,1 Tag/Day,True,unlimited,93.5,93.5,2026-11-01T19:52:04+01:00
+Laax,2026-12-30,1,1 Tag/Day,True,unlimited,95.0,95.0,2026-11-01T19:52:04+01:00
+Laax,2026-12-31,1,1 Tag/Day,True,unlimited,97.0,97.0,2026-11-01T19:52:04+01:00
+Laax,2027-01-01,1,1 Tag/Day,True,unlimited,93.0,93.0,2026-11-01T19:52:04+01:00
+Laax,2027-01-02,1,1 Tag/Day,True,unlimited,85.5,85.5,2026-11-01T19:52:04+01:00
+Laax,2027-01-03,1,1 Tag/Day,True,unlimited,81.0,81.0,2026-11-01T19:52:04+01:00
+Laax,2027-01-04,1,1 Tag/Day,True,unlimited,82.5,82.5,2026-11-01T19:52:04+01:00
+Laax,2027-01-05,1,1 Tag/Day,True,unlimited,79.5,79.5,2026-11-01T19:52:04+01:00
+Laax,2027-01-06,1,1 Tag/Day,True,unlimited,79.5,79.5,2026-11-01T19:52:04+01:00
+Laax,2027-01-07,1,1 Tag/Day,True,unlimited,75.0,75.0,2026-11-01T19:52:04+01:00
+Laax,2027-01-08,1,1 Tag/Day,True,unlimited,74.0,74.0,2026-11-01T19:52:04+01:00
+Laax,2027-01-09,1,1 Tag/Day,True,unlimited,77.0,77.0,2026-11-01T19:52:04+01:00
+Laax,2027-01-10,1,1 Tag/Day,True,unlimited,66.5,66.5,2026-11-01T19:52:04+01:00
+Laax,2027-01-11,1,1 Tag/Day,True,unlimited,59.5,59.5,2026-11-01T19:52:04+01:00
+Laax,2027-01-12,1,1 Tag/Day,True,unlimited,61.0,61.0,2026-11-01T19:52:04+01:00
+Laax,2027-01-13,1,1 Tag/Day,True,unlimited,61.0,61.0,2026-11-01T19:52:04+01:00
+Laax,2027-01-14,1,1 Tag/Day,True,unlimited,63.5,63.5,2026-11-01T19:52:04+01:00
+Laax,2027-01-15,1,1 Tag/Day,True,unlimited,65.5,65.5,2026-11-01T19:52:04+01:00
+Laax,2027-01-16,1,1 Tag/Day,True,unlimited,85.0,85.0,2026-11-01T19:52:04+01:00
+Laax,2027-01-17,1,1 Tag/Day,True,unlimited,74.5,74.5,2026-11-01T19:52:04+01:00
+Laax,2027-01-18,1,1 Tag/Day,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Laax,2027-01-19,1,1 Tag/Day,True,unlimited,63.5,63.5,2026-11-01T19:52:04+01:00
+Laax,2027-01-20,1,1 Tag/Day,True,unlimited,63.0,63.0,2026-11-01T19:52:04+01:00
+Laax,2027-01-21,1,1 Tag/Day,True,unlimited,64.5,64.5,2026-11-01T19:52:04+01:00
+Laax,2027-01-22,1,1 Tag/Day,True,unlimited,69.0,69.0,2026-11-01T19:52:04+01:00
+Laax,2027-01-23,1,1 Tag/Day,True,unlimited,82.5,82.5,2026-11-01T19:52:04+01:00
+Laax,2027-01-24,1,1 Tag/Day,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Laax,2027-01-25,1,1 Tag/Day,True,unlimited,69.5,69.5,2026-11-01T19:52:04+01:00
+Laax,2027-01-26,1,1 Tag/Day,True,unlimited,68.5,68.5,2026-11-01T19:52:04+01:00
+Laax,2027-01-27,1,1 Tag/Day,True,unlimited,68.5,68.5,2026-11-01T19:52:04+01:00
+Laax,2027-01-28,1,1 Tag/Day,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Laax,2027-01-29,1,1 Tag/Day,True,unlimited,76.0,76.0,2026-11-01T19:52:04+01:00
+Laax,2027-01-30,1,1 Tag/Day,True,unlimited,86.5,86.5,2026-11-01T19:52:04+01:00
+Laax,2027-01-31,1,1 Tag/Day,True,unlimited,82.5,82.5,2026-11-01T19:52:04+01:00
+Laax,2027-02-01,1,1 Tag/Day,True,unlimited,74.5,74.5,2026-11-01T19:52:04+01:00
+Laax,2027-02-02,1,1 Tag/Day,True,unlimited,73.5,73.5,2026-11-01T19:52:04+01:00
+Laax,2027-02-03,1,1 Tag/Day,True,unlimited,76.0,76.0,2026-11-01T19:52:04+01:00
+Laax,2027-02-04,1,1 Tag/Day,True,unlimited,76.0,76.0,2026-11-01T19:52:04+01:00
+Laax,2027-02-05,1,1 Tag/Day,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Laax,2027-02-06,1,1 Tag/Day,True,unlimited,87.0,87.0,2026-11-01T19:52:04+01:00
+Laax,2027-02-07,1,1 Tag/Day,True,unlimited,86.5,86.5,2026-11-01T19:52:04+01:00
+Laax,2027-02-08,1,1 Tag/Day,True,unlimited,86.5,86.5,2026-11-01T19:52:04+01:00
+Laax,2027-02-09,1,1 Tag/Day,True,unlimited,88.5,88.5,2026-11-01T19:52:04+01:00
+Laax,2027-02-10,1,1 Tag/Day,True,unlimited,87.0,87.0,2026-11-01T19:52:04+01:00
+Laax,2027-02-11,1,1 Tag/Day,True,unlimited,87.5,87.5,2026-11-01T19:52:04+01:00
+Laax,2027-02-12,1,1 Tag/Day,True,unlimited,91.0,91.0,2026-11-01T19:52:04+01:00
+Laax,2027-02-13,1,1 Tag/Day,True,unlimited,90.5,90.5,2026-11-01T19:52:04+01:00
+Laax,2027-02-14,1,1 Tag/Day,True,unlimited,95.0,95.0,2026-11-01T19:52:04+01:00
+Laax,2027-02-15,1,1 Tag/Day,True,unlimited,97.0,97.0,2026-11-01T19:52:04+01:00
+Laax,2027-02-16,1,1 Tag/Day,True,unlimited,97.0,97.0,2026-11-01T19:52:04+01:00
+Laax,2027-02-17,1,1 Tag/Day,True,unlimited,97.0,97.0,2026-11-01T19:52:04+01:00
+Laax,2027-02-18,1,1 Tag/Day,True,unlimited,97.0,97.0,2026-11-01T19:52:04+01:00
+Laax,2027-02-19,1,1 Tag/Day,True,unlimited,97.0,97.0,2026-11-01T19:52:04+01:00
+Laax,2027-02-20,1,1 Tag/Day,True,unlimited,94.0,94.0,2026-11-01T19:52:04+01:00
+Laax,2027-02-21,1,1 Tag/Day,True,unlimited,93.0,93.0,2026-11-01T19:52:04+01:00
+Laax,2027-02-22,1,1 Tag/Day,True,unlimited,90.5,90.5,2026-11-01T19:52:04+01:00
+Laax,2027-02-23,1,1 Tag/Day,True,unlimited,90.0,90.0,2026-11-01T19:52:04+01:00
+Laax,2027-02-24,1,1 Tag/Day,True,unlimited,89.5,89.5,2026-11-01T19:52:04+01:00
+Laax,2027-02-25,1,1 Tag/Day,True,unlimited,90.0,90.0,2026-11-01T19:52:04+01:00
+Laax,2027-02-26,1,1 Tag/Day,True,unlimited,91.0,91.0,2026-11-01T19:52:04+01:00
+Laax,2027-02-27,1,1 Tag/Day,True,unlimited,90.0,90.0,2026-11-01T19:52:04+01:00
+Laax,2027-02-28,1,1 Tag/Day,True,unlimited,89.5,89.5,2026-11-01T19:52:04+01:00
+Laax,2027-03-01,1,1 Tag/Day,True,unlimited,86.5,86.5,2026-11-01T19:52:04+01:00
+Laax,2027-03-02,1,1 Tag/Day,True,unlimited,85.0,85.0,2026-11-01T19:52:04+01:00
+Laax,2027-03-03,1,1 Tag/Day,True,unlimited,84.5,84.5,2026-11-01T19:52:04+01:00
+Laax,2027-03-04,1,1 Tag/Day,True,unlimited,85.0,85.0,2026-11-01T19:52:04+01:00
+Laax,2027-03-05,1,1 Tag/Day,True,unlimited,86.0,86.0,2026-11-01T19:52:04+01:00
+Laax,2027-03-06,1,1 Tag/Day,True,unlimited,88.0,88.0,2026-11-01T19:52:04+01:00
+Laax,2027-03-07,1,1 Tag/Day,True,unlimited,83.5,83.5,2026-11-01T19:52:04+01:00
+Laax,2027-03-08,1,1 Tag/Day,True,unlimited,76.5,76.5,2026-11-01T19:52:04+01:00
+Laax,2027-03-09,1,1 Tag/Day,True,unlimited,75.5,75.5,2026-11-01T19:52:04+01:00
+Laax,2027-03-10,1,1 Tag/Day,True,unlimited,74.5,74.5,2026-11-01T19:52:04+01:00
+Laax,2027-03-11,1,1 Tag/Day,True,unlimited,75.0,75.0,2026-11-01T19:52:04+01:00
+Laax,2027-03-12,1,1 Tag/Day,True,unlimited,76.5,76.5,2026-11-01T19:52:04+01:00
+Laax,2027-03-13,1,1 Tag/Day,True,unlimited,83.0,83.0,2026-11-01T19:52:04+01:00
+Laax,2027-03-14,1,1 Tag/Day,True,unlimited,77.0,77.0,2026-11-01T19:52:04+01:00
+Laax,2027-03-15,1,1 Tag/Day,True,unlimited,64.5,64.5,2026-11-01T19:52:04+01:00
+Laax,2027-03-16,1,1 Tag/Day,True,unlimited,63.5,63.5,2026-11-01T19:52:04+01:00
+Laax,2027-03-17,1,1 Tag/Day,True,unlimited,63.0,63.0,2026-11-01T19:52:04+01:00
+Laax,2027-03-18,1,1 Tag/Day,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Laax,2027-03-19,1,1 Tag/Day,True,unlimited,68.0,68.0,2026-11-01T19:52:04+01:00
+Laax,2027-03-20,1,1 Tag/Day,True,unlimited,79.5,79.5,2026-11-01T19:52:04+01:00
+Laax,2027-03-21,1,1 Tag/Day,True,unlimited,74.5,74.5,2026-11-01T19:52:04+01:00
+Laax,2027-03-22,1,1 Tag/Day,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Laax,2027-03-23,1,1 Tag/Day,True,unlimited,62.0,62.0,2026-11-01T19:52:04+01:00
+Laax,2027-03-24,1,1 Tag/Day,True,unlimited,62.5,62.5,2026-11-01T19:52:04+01:00
+Laax,2027-03-25,1,1 Tag/Day,True,unlimited,67.5,67.5,2026-11-01T19:52:04+01:00
+Laax,2027-03-26,1,1 Tag/Day,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Laax,2027-03-27,1,1 Tag/Day,True,unlimited,77.0,77.0,2026-11-01T19:52:04+01:00
+Laax,2027-03-28,1,1 Tag/Day,True,unlimited,73.0,73.0,2026-11-01T19:52:04+01:00
+Laax,2027-03-29,1,1 Tag/Day,True,unlimited,69.0,69.0,2026-11-01T19:52:04+01:00
+Laax,2027-03-30,1,1 Tag/Day,True,unlimited,64.5,64.5,2026-11-01T19:52:04+01:00
+Laax,2027-03-31,1,1 Tag/Day,True,unlimited,63.0,63.0,2026-11-01T19:52:04+01:00
+Laax,2027-04-01,1,1 Tag/Day,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Laax,2027-04-02,1,1 Tag/Day,True,unlimited,66.0,66.0,2026-11-01T19:52:04+01:00
+Laax,2027-04-03,1,1 Tag/Day,True,unlimited,68.5,68.5,2026-11-01T19:52:04+01:00
+Laax,2027-04-04,1,1 Tag/Day,True,unlimited,65.5,65.5,2026-11-01T19:52:04+01:00
+Laax,2027-04-05,1,1 Tag/Day,True,unlimited,59.0,59.0,2026-11-01T19:52:04+01:00
+Laax,2027-04-06,1,1 Tag/Day,True,unlimited,57.5,57.5,2026-11-01T19:52:04+01:00
+Laax,2027-04-07,1,1 Tag/Day,True,unlimited,57.0,57.0,2026-11-01T19:52:04+01:00
+Laax,2027-04-08,1,1 Tag/Day,True,unlimited,57.0,57.0,2026-11-01T19:52:04+01:00
+Laax,2027-04-09,1,1 Tag/Day,True,unlimited,58.0,58.0,2026-11-01T19:52:04+01:00
+Laax,2027-04-10,1,1 Tag/Day,True,unlimited,61.0,61.0,2026-11-01T19:52:04+01:00
+Laax,2027-04-11,1,1 Tag/Day,True,unlimited,59.0,59.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2026-12-12,1,Sa 12.12.2026,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2026-12-13,1,Su 13.12.2026,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2026-12-14,1,Mo 14.12.2026,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2026-12-15,1,Tu 15.12.2026,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2026-12-16,1,We 16.12.2026,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2026-12-17,1,Th 17.12.2026,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2026-12-18,1,Fr 18.12.2026,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2026-12-19,1,Sa 19.12.2026,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2026-12-20,1,Su 20.12.2026,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2026-12-21,1,Mo 21.12.2026,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2026-12-22,1,Tu 22.12.2026,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2026-12-23,1,We 23.12.2026,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2026-12-24,1,Th 24.12.2026,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2026-12-25,1,Fr 25.12.2026,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2026-12-26,1,Sa 26.12.2026,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2026-12-27,1,Su 27.12.2026,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2026-12-28,1,Mo 28.12.2026,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2026-12-29,1,Tu 29.12.2026,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2026-12-30,1,We 30.12.2026,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2026-12-31,1,Th 31.12.2026,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-01,1,Fr 01.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-02,1,Sa 02.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-03,1,Su 03.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-04,1,Mo 04.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-05,1,Tu 05.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-06,1,We 06.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-07,1,Th 07.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-08,1,Fr 08.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-09,1,Sa 09.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-10,1,Su 10.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-11,1,Mo 11.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-12,1,Tu 12.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-13,1,We 13.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-14,1,Th 14.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-15,1,Fr 15.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-16,1,Sa 16.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-17,1,Su 17.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-18,1,Mo 18.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-19,1,Tu 19.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-20,1,We 20.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-21,1,Th 21.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-22,1,Fr 22.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-23,1,Sa 23.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-24,1,Su 24.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-25,1,Mo 25.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-26,1,Tu 26.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-27,1,We 27.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-28,1,Th 28.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-29,1,Fr 29.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-30,1,Sa 30.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-01-31,1,Su 31.01.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-02-01,1,Mo 01.02.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-02-02,1,Tu 02.02.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-02-03,1,We 03.02.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-02-04,1,Th 04.02.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-02-05,1,Fr 05.02.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-02-06,1,Sa 06.02.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-02-07,1,Su 07.02.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-02-08,1,Mo 08.02.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-02-09,1,Tu 09.02.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-02-10,1,We 10.02.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-02-11,1,Th 11.02.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-02-12,1,Fr 12.02.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-02-13,1,Sa 13.02.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-02-14,1,Su 14.02.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-02-15,1,Mo 15.02.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-02-16,1,Tu 16.02.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-02-17,1,We 17.02.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-02-18,1,Th 18.02.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-02-19,1,Fr 19.02.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-02-20,1,Sa 20.02.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-02-21,1,Su 21.02.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-02-22,1,Mo 22.02.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-02-23,1,Tu 23.02.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-02-24,1,We 24.02.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-02-25,1,Th 25.02.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-02-26,1,Fr 26.02.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-02-27,1,Sa 27.02.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-02-28,1,Su 28.02.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-01,1,Mo 01.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-02,1,Tu 02.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-03,1,We 03.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-04,1,Th 04.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-05,1,Fr 05.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-06,1,Sa 06.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-07,1,Su 07.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-08,1,Mo 08.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-09,1,Tu 09.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-10,1,We 10.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-11,1,Th 11.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-12,1,Fr 12.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-13,1,Sa 13.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-14,1,Su 14.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-15,1,Mo 15.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-16,1,Tu 16.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-17,1,We 17.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-18,1,Th 18.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-19,1,Fr 19.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-20,1,Sa 20.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-21,1,Su 21.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-22,1,Mo 22.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-23,1,Tu 23.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-24,1,We 24.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-25,1,Th 25.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-26,1,Fr 26.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-27,1,Sa 27.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-28,1,Su 28.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-29,1,Mo 29.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-30,1,Tu 30.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-03-31,1,We 31.03.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-04-01,1,Th 01.04.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-04-02,1,Fr 02.04.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-04-03,1,Sa 03.04.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-04-04,1,Su 04.04.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-04-05,1,Mo 05.04.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-04-06,1,Tu 06.04.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-04-07,1,We 07.04.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-04-08,1,Th 08.04.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-04-09,1,Fr 09.04.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-04-10,1,Sa 10.04.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Lauchernalp,2027-04-11,1,Su 11.04.2027,True,unlimited,72.0,72.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2026-12-12,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2026-12-13,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2026-12-14,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2026-12-15,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2026-12-16,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2026-12-17,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2026-12-18,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2026-12-19,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2026-12-20,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2026-12-21,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2026-12-22,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2026-12-23,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2026-12-24,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2026-12-25,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2026-12-26,1,1 Jour Ski 4V,True,unlimited,83.0,83.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2026-12-27,1,1 Jour Ski 4V,True,unlimited,83.0,83.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2026-12-28,1,1 Jour Ski 4V,True,unlimited,83.0,83.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2026-12-29,1,1 Jour Ski 4V,True,unlimited,83.0,83.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2026-12-30,1,1 Jour Ski 4V,True,unlimited,83.0,83.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2026-12-31,1,1 Jour Ski 4V,True,unlimited,83.0,83.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-01,1,1 Jour Ski 4V,True,unlimited,83.0,83.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-02,1,1 Jour Ski 4V,True,unlimited,83.0,83.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-03,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-04,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-05,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-06,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-07,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-08,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-09,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-10,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-11,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-12,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-13,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-14,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-15,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-16,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-17,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-18,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-19,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-20,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-21,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-22,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-23,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-24,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-25,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-26,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-27,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-28,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-29,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-30,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-01-31,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-02-01,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-02-02,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-02-03,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-02-04,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-02-05,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-02-06,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-02-07,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-02-08,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-02-09,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-02-10,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-02-11,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-02-12,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-02-13,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-02-14,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-02-15,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-02-16,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-02-17,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-02-18,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-02-19,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-02-20,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-02-21,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-02-22,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-02-23,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-02-24,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-02-25,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-02-26,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-02-27,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-02-28,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-01,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-02,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-03,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-04,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-05,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-06,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-07,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-08,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-09,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-10,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-11,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-12,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-13,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-14,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-15,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-16,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-17,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-18,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-19,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-20,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-21,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-22,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-23,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-24,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-25,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-26,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-27,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-28,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-29,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-30,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-03-31,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-04-01,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-04-02,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-04-03,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-04-04,1,1 Jour Ski 4V,True,unlimited,80.0,80.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-04-05,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-04-06,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-04-07,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-04-08,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-04-09,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-04-10,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-04-11,1,1 Jour Ski 4V,True,unlimited,71.0,71.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-04-12,1,1 Jour Ski 4V,True,unlimited,75.0,75.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-04-13,1,1 Jour Ski 4V,True,unlimited,75.0,75.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-04-14,1,1 Jour Ski 4V,True,unlimited,75.0,75.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-04-15,1,1 Jour Ski 4V,True,unlimited,75.0,75.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-04-16,1,1 Jour Ski 4V,True,unlimited,75.0,75.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-04-17,1,1 Jour Ski 4V,True,unlimited,75.0,75.0,2026-11-01T19:52:04+01:00
+Nendaz-Veysonnaz,2027-04-18,1,1 Jour Ski 4V,True,unlimited,75.0,75.0,2026-11-01T19:52:04+01:00
+Sörenberg,2026-12-19,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2026-12-20,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2026-12-21,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2026-12-22,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2026-12-23,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2026-12-24,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2026-12-25,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2026-12-26,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2026-12-27,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2026-12-28,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2026-12-29,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2026-12-30,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2026-12-31,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-01,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-02,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-03,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-04,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-05,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-06,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-07,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-08,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-09,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-10,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-11,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-12,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-13,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-14,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-15,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-16,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-17,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-18,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-19,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-20,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-21,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-22,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-23,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-24,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-25,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-26,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-27,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-28,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-29,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-30,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-01-31,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-02-01,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-02-02,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-02-03,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-02-04,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-02-05,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-02-06,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-02-07,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-02-08,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-02-09,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-02-10,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-02-11,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-02-12,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-02-13,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-02-14,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-02-15,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-02-16,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-02-17,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-02-18,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-02-19,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-02-20,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-02-21,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-02-22,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-02-23,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-02-24,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-02-25,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-02-26,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-02-27,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-02-28,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-01,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-02,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-03,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-04,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-05,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-06,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-07,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-08,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-09,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-10,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-11,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-12,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-13,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-14,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-15,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-16,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-17,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-18,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-19,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-20,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-21,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-22,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-23,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-24,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-25,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-26,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-27,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-28,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Sörenberg,2027-03-29,1,4 Stundenkarte + Tageskarte Winter 2026 / 2027,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Titlis,2026-11-01,1,1 Tag und 1/2 Tag ab 12:00 Uhr,False,unlimited,68.0,68.0,2026-11-01T19:52:04+01:00
+Titlis,2026-11-02,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,66.0,66.0,2026-11-01T19:52:04+01:00
+Titlis,2026-11-03,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,64.5,64.5,2026-11-01T19:52:04+01:00
+Titlis,2026-11-04,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,63.0,63.0,2026-11-01T19:52:04+01:00
+Titlis,2026-11-05,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,61.5,61.5,2026-11-01T19:52:04+01:00
+Titlis,2026-11-06,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,60.5,60.5,2026-11-01T19:52:04+01:00
+Titlis,2026-11-07,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,59.5,59.5,2026-11-01T19:52:04+01:00
+Titlis,2026-11-08,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,58.5,58.5,2026-11-01T19:52:04+01:00
+Titlis,2026-11-09,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,58.0,58.0,2026-11-01T19:52:04+01:00
+Titlis,2026-11-10,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,57.0,57.0,2026-11-01T19:52:04+01:00
+Titlis,2026-11-11,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,56.5,56.5,2026-11-01T19:52:04+01:00
+Titlis,2026-11-12,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,56.0,56.0,2026-11-01T19:52:04+01:00
+Titlis,2026-11-13,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,55.5,55.5,2026-11-01T19:52:04+01:00
+Titlis,2026-11-14,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,55.0,55.0,2026-11-01T19:52:04+01:00
+Titlis,2026-11-15,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,54.5,54.5,2026-11-01T19:52:04+01:00
+Titlis,2026-11-16,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,54.0,54.0,2026-11-01T19:52:04+01:00
+Titlis,2026-11-17,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,53.5,53.5,2026-11-01T19:52:04+01:00
+Titlis,2026-11-18,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,53.5,53.5,2026-11-01T19:52:04+01:00
+Titlis,2026-11-19,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,53.0,53.0,2026-11-01T19:52:04+01:00
+Titlis,2026-11-20,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,53.0,53.0,2026-11-01T19:52:04+01:00
+Titlis,2026-11-21,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,54.0,54.0,2026-11-01T19:52:04+01:00
+Titlis,2026-11-22,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,54.0,54.0,2026-11-01T19:52:04+01:00
+Titlis,2026-11-23,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,52.5,52.5,2026-11-01T19:52:04+01:00
+Titlis,2026-11-24,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,52.0,52.0,2026-11-01T19:52:04+01:00
+Titlis,2026-11-25,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,52.0,52.0,2026-11-01T19:52:04+01:00
+Titlis,2026-11-26,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,52.0,52.0,2026-11-01T19:52:04+01:00
+Titlis,2026-11-27,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,52.0,52.0,2026-11-01T19:52:04+01:00
+Titlis,2026-11-28,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,56.0,56.0,2026-11-01T19:52:04+01:00
+Titlis,2026-11-29,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,56.5,56.5,2026-11-01T19:52:04+01:00
+Titlis,2026-11-30,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,51.5,51.5,2026-11-01T19:52:04+01:00
+Titlis,2026-12-01,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,52.0,52.0,2026-11-01T19:52:04+01:00
+Titlis,2026-12-02,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,52.0,52.0,2026-11-01T19:52:04+01:00
+Titlis,2026-12-03,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,52.5,52.5,2026-11-01T19:52:04+01:00
+Titlis,2026-12-04,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,53.0,53.0,2026-11-01T19:52:04+01:00
+Titlis,2026-12-05,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,60.0,60.0,2026-11-01T19:52:04+01:00
+Titlis,2026-12-06,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,60.0,60.0,2026-11-01T19:52:04+01:00
+Titlis,2026-12-07,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,53.0,53.0,2026-11-01T19:52:04+01:00
+Titlis,2026-12-08,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,55.0,55.0,2026-11-01T19:52:04+01:00
+Titlis,2026-12-09,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,52.0,52.0,2026-11-01T19:52:04+01:00
+Titlis,2026-12-10,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,52.5,52.5,2026-11-01T19:52:04+01:00
+Titlis,2026-12-11,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,55.5,55.5,2026-11-01T19:52:04+01:00
+Titlis,2026-12-12,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,62.0,62.0,2026-11-01T19:52:04+01:00
+Titlis,2026-12-13,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,62.5,62.5,2026-11-01T19:52:04+01:00
+Titlis,2026-12-14,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,57.0,57.0,2026-11-01T19:52:04+01:00
+Titlis,2026-12-15,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,55.5,55.5,2026-11-01T19:52:04+01:00
+Titlis,2026-12-16,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,55.0,55.0,2026-11-01T19:52:04+01:00
+Titlis,2026-12-17,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,55.5,55.5,2026-11-01T19:52:04+01:00
+Titlis,2026-12-18,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,55.5,55.5,2026-11-01T19:52:04+01:00
+Titlis,2026-12-19,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,61.5,61.5,2026-11-01T19:52:04+01:00
+Titlis,2026-12-20,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,62.0,62.0,2026-11-01T19:52:04+01:00
+Titlis,2026-12-21,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,62.0,62.0,2026-11-01T19:52:04+01:00
+Titlis,2026-12-22,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,61.5,61.5,2026-11-01T19:52:04+01:00
+Titlis,2026-12-23,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,60.5,60.5,2026-11-01T19:52:04+01:00
+Titlis,2026-12-24,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,61.0,61.0,2026-11-01T19:52:04+01:00
+Titlis,2026-12-25,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,60.5,60.5,2026-11-01T19:52:04+01:00
+Titlis,2026-12-26,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,62.5,62.5,2026-11-01T19:52:04+01:00
+Titlis,2026-12-27,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,66.0,66.0,2026-11-01T19:52:04+01:00
+Titlis,2026-12-28,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,68.0,68.0,2026-11-01T19:52:04+01:00
+Titlis,2026-12-29,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,68.0,68.0,2026-11-01T19:52:04+01:00
+Titlis,2026-12-30,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,69.0,69.0,2026-11-01T19:52:04+01:00
+Titlis,2026-12-31,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,68.0,68.0,2026-11-01T19:52:04+01:00
+Titlis,2027-01-01,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,67.5,67.5,2026-11-01T19:52:04+01:00
+Titlis,2027-01-02,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,67.0,67.0,2026-11-01T19:52:04+01:00
+Titlis,2027-01-03,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,65.5,65.5,2026-11-01T19:52:04+01:00
+Titlis,2027-01-04,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,62.0,62.0,2026-11-01T19:52:04+01:00
+Titlis,2027-01-05,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,63.0,63.0,2026-11-01T19:52:04+01:00
+Titlis,2027-01-06,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,62.0,62.0,2026-11-01T19:52:04+01:00
+Titlis,2027-01-07,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,59.5,59.5,2026-11-01T19:52:04+01:00
+Titlis,2027-01-08,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,60.0,60.0,2026-11-01T19:52:04+01:00
+Titlis,2027-01-09,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,63.0,63.0,2026-11-01T19:52:04+01:00
+Titlis,2027-01-10,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,61.5,61.5,2026-11-01T19:52:04+01:00
+Titlis,2027-01-11,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,55.0,55.0,2026-11-01T19:52:04+01:00
+Titlis,2027-01-12,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,54.0,54.0,2026-11-01T19:52:04+01:00
+Titlis,2027-01-13,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,54.5,54.5,2026-11-01T19:52:04+01:00
+Titlis,2027-01-14,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,55.0,55.0,2026-11-01T19:52:04+01:00
+Titlis,2027-01-15,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,58.0,58.0,2026-11-01T19:52:04+01:00
+Titlis,2027-01-16,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,65.0,65.0,2026-11-01T19:52:04+01:00
+Titlis,2027-01-17,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Titlis,2027-01-18,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,55.5,55.5,2026-11-01T19:52:04+01:00
+Titlis,2027-01-19,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,56.0,56.0,2026-11-01T19:52:04+01:00
+Titlis,2027-01-20,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,56.0,56.0,2026-11-01T19:52:04+01:00
+Titlis,2027-01-21,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,55.5,55.5,2026-11-01T19:52:04+01:00
+Titlis,2027-01-22,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,58.5,58.5,2026-11-01T19:52:04+01:00
+Titlis,2027-01-23,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,65.0,65.0,2026-11-01T19:52:04+01:00
+Titlis,2027-01-24,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Titlis,2027-01-25,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,57.5,57.5,2026-11-01T19:52:04+01:00
+Titlis,2027-01-26,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,56.0,56.0,2026-11-01T19:52:04+01:00
+Titlis,2027-01-27,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,56.5,56.5,2026-11-01T19:52:04+01:00
+Titlis,2027-01-28,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,57.5,57.5,2026-11-01T19:52:04+01:00
+Titlis,2027-01-29,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,60.5,60.5,2026-11-01T19:52:04+01:00
+Titlis,2027-01-30,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,63.5,63.5,2026-11-01T19:52:04+01:00
+Titlis,2027-01-31,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,64.5,64.5,2026-11-01T19:52:04+01:00
+Titlis,2027-02-01,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,61.5,61.5,2026-11-01T19:52:04+01:00
+Titlis,2027-02-02,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,61.5,61.5,2026-11-01T19:52:04+01:00
+Titlis,2027-02-03,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,61.5,61.5,2026-11-01T19:52:04+01:00
+Titlis,2027-02-04,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,62.0,62.0,2026-11-01T19:52:04+01:00
+Titlis,2027-02-05,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,63.0,63.0,2026-11-01T19:52:04+01:00
+Titlis,2027-02-06,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,65.5,65.5,2026-11-01T19:52:04+01:00
+Titlis,2027-02-07,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,66.0,66.0,2026-11-01T19:52:04+01:00
+Titlis,2027-02-08,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Titlis,2027-02-09,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Titlis,2027-02-10,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,65.0,65.0,2026-11-01T19:52:04+01:00
+Titlis,2027-02-11,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,64.5,64.5,2026-11-01T19:52:04+01:00
+Titlis,2027-02-12,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,65.5,65.5,2026-11-01T19:52:04+01:00
+Titlis,2027-02-13,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,67.0,67.0,2026-11-01T19:52:04+01:00
+Titlis,2027-02-14,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,67.5,67.5,2026-11-01T19:52:04+01:00
+Titlis,2027-02-15,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Titlis,2027-02-16,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,63.5,63.5,2026-11-01T19:52:04+01:00
+Titlis,2027-02-17,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,63.5,63.5,2026-11-01T19:52:04+01:00
+Titlis,2027-02-18,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,63.5,63.5,2026-11-01T19:52:04+01:00
+Titlis,2027-02-19,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,64.0,64.0,2026-11-01T19:52:04+01:00
+Titlis,2027-02-20,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,67.0,67.0,2026-11-01T19:52:04+01:00
+Titlis,2027-02-21,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,66.5,66.5,2026-11-01T19:52:04+01:00
+Titlis,2027-02-22,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,63.5,63.5,2026-11-01T19:52:04+01:00
+Titlis,2027-02-23,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,63.5,63.5,2026-11-01T19:52:04+01:00
+Titlis,2027-02-24,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,63.5,63.5,2026-11-01T19:52:04+01:00
+Titlis,2027-02-25,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,63.5,63.5,2026-11-01T19:52:04+01:00
+Titlis,2027-02-26,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,63.5,63.5,2026-11-01T19:52:04+01:00
+Titlis,2027-02-27,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,67.0,67.0,2026-11-01T19:52:04+01:00
+Titlis,2027-02-28,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,63.5,63.5,2026-11-01T19:52:04+01:00
+Titlis,2027-03-01,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,60.0,60.0,2026-11-01T19:52:04+01:00
+Titlis,2027-03-02,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,60.5,60.5,2026-11-01T19:52:04+01:00
+Titlis,2027-03-03,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,60.5,60.5,2026-11-01T19:52:04+01:00
+Titlis,2027-03-04,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,61.0,61.0,2026-11-01T19:52:04+01:00
+Titlis,2027-03-05,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,61.5,61.5,2026-11-01T19:52:04+01:00
+Titlis,2027-03-06,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,65.5,65.5,2026-11-01T19:52:04+01:00
+Titlis,2027-03-07,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,63.0,63.0,2026-11-01T19:52:04+01:00
+Titlis,2027-03-08,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,60.0,60.0,2026-11-01T19:52:04+01:00
+Titlis,2027-03-09,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,59.0,59.0,2026-11-01T19:52:04+01:00
+Titlis,2027-03-10,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,57.5,57.5,2026-11-01T19:52:04+01:00
+Titlis,2027-03-11,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,58.0,58.0,2026-11-01T19:52:04+01:00
+Titlis,2027-03-12,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,60.5,60.5,2026-11-01T19:52:04+01:00
+Titlis,2027-03-13,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,63.0,63.0,2026-11-01T19:52:04+01:00
+Titlis,2027-03-14,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,61.0,61.0,2026-11-01T19:52:04+01:00
+Titlis,2027-03-15,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,55.0,55.0,2026-11-01T19:52:04+01:00
+Titlis,2027-03-16,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,54.0,54.0,2026-11-01T19:52:04+01:00
+Titlis,2027-03-17,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,54.5,54.5,2026-11-01T19:52:04+01:00
+Titlis,2027-03-18,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,55.5,55.5,2026-11-01T19:52:04+01:00
+Titlis,2027-03-19,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,59.0,59.0,2026-11-01T19:52:04+01:00
+Titlis,2027-03-20,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,62.0,62.0,2026-11-01T19:52:04+01:00
+Titlis,2027-03-21,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,60.5,60.5,2026-11-01T19:52:04+01:00
+Titlis,2027-03-22,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,57.5,57.5,2026-11-01T19:52:04+01:00
+Titlis,2027-03-23,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,57.5,57.5,2026-11-01T19:52:04+01:00
+Titlis,2027-03-24,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,57.0,57.0,2026-11-01T19:52:04+01:00
+Titlis,2027-03-25,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,58.0,58.0,2026-11-01T19:52:04+01:00
+Titlis,2027-03-26,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,60.5,60.5,2026-11-01T19:52:04+01:00
+Titlis,2027-03-27,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,61.5,61.5,2026-11-01T19:52:04+01:00
+Titlis,2027-03-28,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,61.5,61.5,2026-11-01T19:52:04+01:00
+Titlis,2027-03-29,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,59.0,59.0,2026-11-01T19:52:04+01:00
+Titlis,2027-03-30,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,56.5,56.5,2026-11-01T19:52:04+01:00
+Titlis,2027-03-31,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,55.5,55.5,2026-11-01T19:52:04+01:00
+Titlis,2027-04-01,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,56.0,56.0,2026-11-01T19:52:04+01:00
+Titlis,2027-04-02,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,57.0,57.0,2026-11-01T19:52:04+01:00
+Titlis,2027-04-03,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,59.0,59.0,2026-11-01T19:52:04+01:00
+Titlis,2027-04-04,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,58.5,58.5,2026-11-01T19:52:04+01:00
+Titlis,2027-04-05,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,55.0,55.0,2026-11-01T19:52:04+01:00
+Titlis,2027-04-06,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,54.5,54.5,2026-11-01T19:52:04+01:00
+Titlis,2027-04-07,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,54.0,54.0,2026-11-01T19:52:04+01:00
+Titlis,2027-04-08,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,54.0,54.0,2026-11-01T19:52:04+01:00
+Titlis,2027-04-09,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,54.5,54.5,2026-11-01T19:52:04+01:00
+Titlis,2027-04-10,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,57.0,57.0,2026-11-01T19:52:04+01:00
+Titlis,2027-04-11,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,55.5,55.5,2026-11-01T19:52:04+01:00
+Titlis,2027-04-12,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,52.5,52.5,2026-11-01T19:52:04+01:00
+Titlis,2027-04-13,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,52.0,52.0,2026-11-01T19:52:04+01:00
+Titlis,2027-04-14,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,51.5,51.5,2026-11-01T19:52:04+01:00
+Titlis,2027-04-15,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,52.0,52.0,2026-11-01T19:52:04+01:00
+Titlis,2027-04-16,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,52.5,52.5,2026-11-01T19:52:04+01:00
+Titlis,2027-04-17,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,54.0,54.0,2026-11-01T19:52:04+01:00
+Titlis,2027-04-18,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,53.0,53.0,2026-11-01T19:52:04+01:00
+Titlis,2027-04-19,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,51.0,51.0,2026-11-01T19:52:04+01:00
+Titlis,2027-04-20,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,51.0,51.0,2026-11-01T19:52:04+01:00
+Titlis,2027-04-21,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,51.0,51.0,2026-11-01T19:52:04+01:00
+Titlis,2027-04-22,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,51.0,51.0,2026-11-01T19:52:04+01:00
+Titlis,2027-04-23,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,51.0,51.0,2026-11-01T19:52:04+01:00
+Titlis,2027-04-24,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,52.0,52.0,2026-11-01T19:52:04+01:00
+Titlis,2027-04-25,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,51.5,51.5,2026-11-01T19:52:04+01:00
+Titlis,2027-04-26,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,51.0,51.0,2026-11-01T19:52:04+01:00
+Titlis,2027-04-27,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,51.0,51.0,2026-11-01T19:52:04+01:00
+Titlis,2027-04-28,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,51.0,51.0,2026-11-01T19:52:04+01:00
+Titlis,2027-04-29,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,51.0,51.0,2026-11-01T19:52:04+01:00
+Titlis,2027-04-30,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,51.0,51.0,2026-11-01T19:52:04+01:00
+Titlis,2027-05-01,1,1 Tag und 1/2 Tag ab 12:00 Uhr,True,unlimited,51.5,51.5,2026-11-01T19:52:04+01:00
