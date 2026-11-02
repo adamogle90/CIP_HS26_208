@@ -59,7 +59,7 @@ CANONICAL_LABELS = {
     "Titlis": "1 Tag und 1/2 Tag ab 12:00 Uhr",
 }
 LAUCHERNALP_LABEL_RE = re.compile(r"^[A-Za-z]{2} \d{2}\.\d{2}\.\d{4}$")  # "Sa 12.12.2026"
-
+ATTRS_PATH = "data/reference/resort_attributes.csv"
 
 # ---------------------------------------------------------------------------
 # LOAD + COMBINE  (this folds in step 5 "combining records" early, because
@@ -90,6 +90,32 @@ def load_raw(raw_dir: str) -> pd.DataFrame:
     observed = pd.to_datetime(raw["observed_at"], utc=True).dt.tz_convert("Europe/Zurich")
     raw["snapshot_date"] = observed.dt.tz_localize(None).dt.normalize()
     return raw
+
+def load_resort_attributes(path: str = ATTRS_PATH) -> pd.DataFrame:
+    """static data containing reference information from the resorts
+
+    Six rows as one per resort, manually compiled with the source URL
+    added into the reference csv directly."""
+
+    attrs = pd.read_csv(path)
+
+    total = attrs[['piste_easy_km', 'piste_intermediate_km',
+                   'piste_difficult_km']].sum(axis=1)
+
+    assert (total - attrs['piste_km']).abs().lt(0.01).all(), \
+        'piste difficulty breakdown does not sum to piste_km'
+
+    assert attrs['resort'].is_unique, 'duplicated resort in attributes'
+
+    assert (attrs['top_altitude_m'] > attrs['base_altitude_m']).all(), \
+        'top altitude not above the base altitude'
+
+    attrs['vertical_drop_m'] = attrs['top_altitude_m'] - attrs['base_altitude_m']
+
+    for band in ('easy', 'intermediate', 'difficult'):
+        attrs[f'pct_{band}'] = attrs[f'piste_{band}_km'] / attrs['piste_km']
+
+    return attrs
 
 
 # ---------------------------------------------------------------------------
@@ -252,8 +278,22 @@ def step4_flag_unusual_prices(df: pd.DataFrame, lower=20, upper=200) -> pd.DataF
 # column for Ogo's output -- see the join instructions at the bottom)
 # ---------------------------------------------------------------------------
 
-def step6_add_variables(df: pd.DataFrame) -> pd.DataFrame:
+def step6_add_variables(df: pd.DataFrame, attrs: pd.DataFrame) -> pd.DataFrame:
     df = df.copy()
+
+    before = len(df)
+
+    attr_cols = ['resort', 'ski_area', 'piste_km', 'n_lifts',
+                 'base_altitude_m', 'top_altitude_m', 'vertical_drop_m',
+                 'piste_easy_km', 'piste_intermediate_km', 'piste_difficult_km',
+                 'pct_easy', 'pct_intermediate', 'pct_difficult']
+
+    df = df.merge(attrs[attr_cols], on = 'resort', how = 'left', validate='many_to_one')
+
+    assert len(df) == before, "attribute join duplicated rows in df"
+    missing = df.loc[df['piste_km'].isna(), 'resort'].unique()
+    assert len(missing) == 0, f'no attributes for: {list(missing)}'
+
     df = df.sort_values(["resort", "ski_date", "snapshot_date"]).reset_index(drop=True)
 
     df["days_until_ski_date"] = (df["ski_date"] - df["snapshot_date"]).dt.days
@@ -282,6 +322,7 @@ def step6_add_variables(df: pd.DataFrame) -> pd.DataFrame:
 
 def main():
     raw_dir = sys.argv[1] if len(sys.argv) > 1 else "data/raw"
+    attrs = load_resort_attributes()
 
     print("=" * 78)
     print(f"LOAD + COMBINE  (reading prices_*.csv from {raw_dir})")
@@ -313,7 +354,7 @@ def main():
     print("=" * 78)
     print("STEP 6 — added variables")
     print("=" * 78)
-    df = step6_add_variables(df)
+    df = step6_add_variables(df, attrs)
 
     print("=" * 78)
     print("RESULT")
@@ -321,7 +362,7 @@ def main():
     print(f"Final cleaned panel: {len(df)} rows.\n")
     print(df.head(15).to_string(index=False))
 
-    out_path = "ski_price_panel_cleaned.csv"
+    out_path = os.path.join("data", "processed", "ski_price_panel_cleaned.csv")
     df.to_csv(out_path, index=False)
     print(f"\nSaved: {out_path}")
 
