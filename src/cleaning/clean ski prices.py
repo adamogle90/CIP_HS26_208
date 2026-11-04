@@ -45,6 +45,8 @@ import re
 import numpy as np
 import pandas as pd
 
+from school_holidays import add_school_holidays
+
 pd.set_option("display.width", 120)
 pd.set_option("display.max_columns", 20)
 
@@ -311,7 +313,8 @@ def step6_add_variables(df: pd.DataFrame, attrs: pd.DataFrame) -> pd.DataFrame:
     #   holiday = pd.read_csv("holiday_exposure.csv", parse_dates=["ski_date"])
     #   df = df.merge(holiday[["ski_date", "holiday_exposure"]], on="ski_date", how="left")
     #   df["holiday_exposure"] = df["holiday_exposure"].fillna(0.0)
-    df["holiday_exposure"] = np.nan
+    df = add_school_holidays(df)
+    df["holiday_exposure"] = df["feeder_hol_count"]
 
     return df
 
