@@ -276,8 +276,8 @@ def step4_flag_unusual_prices(df: pd.DataFrame, lower=20, upper=200) -> pd.DataF
 
 # ---------------------------------------------------------------------------
 # STEP 6 — added variables (step 5 "combining" already happened at load time
-# since all snapshots share one schema; holiday_exposure is left as an open
-# column for Ogo's output -- see the join instructions at the bottom)
+# since all snapshots share one schema; the school-holiday colums, including holiday_exposure,
+# come from school_holiday.py)
 # ---------------------------------------------------------------------------
 
 def step6_add_variables(df: pd.DataFrame, attrs: pd.DataFrame) -> pd.DataFrame:
