@@ -8,3 +8,5 @@ seaborn
 scikit-learn
 jupyter
 pyyaml
+scipy
+statsmodels
