@@ -308,11 +308,8 @@ def step6_add_variables(df: pd.DataFrame, attrs: pd.DataFrame) -> pd.DataFrame:
     df["price_change_pct"] = pct.replace([np.inf, -np.inf], np.nan)  # guards a CHF 0 prev price
     df["repricing_flag"] = df["price_change_pct"].notna() & (df["price_change_pct"] != 0)
 
-    # Placeholder for Ogo's holiday-exposure work -- join her output onto
-    # `ski_date` once it's ready, e.g.:
-    #   holiday = pd.read_csv("holiday_exposure.csv", parse_dates=["ski_date"])
-    #   df = df.merge(holiday[["ski_date", "holiday_exposure"]], on="ski_date", how="left")
-    #   df["holiday_exposure"] = df["holiday_exposure"].fillna(0.0)
+    # School-holiday flags, resort_hol, holiday_exposure (mean of six feeder
+    # cantons, 0-1) and any_feeder_hol -- see school_holidays.py
     df = add_school_holidays(df)
     
     return df
