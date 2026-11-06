@@ -314,8 +314,7 @@ def step6_add_variables(df: pd.DataFrame, attrs: pd.DataFrame) -> pd.DataFrame:
     #   df = df.merge(holiday[["ski_date", "holiday_exposure"]], on="ski_date", how="left")
     #   df["holiday_exposure"] = df["holiday_exposure"].fillna(0.0)
     df = add_school_holidays(df)
-    df["holiday_exposure"] = df["feeder_hol_count"]
-
+    
     return df
 
 
