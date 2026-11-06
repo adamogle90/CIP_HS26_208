@@ -36,11 +36,16 @@ DEFAULT_PANEL = "data/processed/ski_price_panel_cleaned.csv"
 N_BOOT = 500   # bootstrap repetitions
 SEED = 42      # so the bootstrap gives the same interval every time
 
+LEAD_BINS = [-1, 7, 14, 30, 60, 10**6]
+LEAD_LABELS = ["0-7", "8-14", "15-30", "31-60", "60+"]
+EXPOSURE_BINS = [-0.01, 0, 0.34, 1.01]
+EXPOSURE_LABELS = ["none", "low", "high"]
+
 
 def load(path):
     df = pd.read_csv(path, parse_dates=["ski_date", "snapshot_date"])
 
-    # stop early if the joins from Adam and Ogo are not in the panel
+
     needed = ["holiday_exposure", "piste_km", "any_feeder_hol", "resort_hol"]
     missing = [c for c in needed if c not in df.columns or df[c].isna().all()]
     if missing:
@@ -95,18 +100,18 @@ def rq3(df):
     print("\nBy resort:")
     print(t.to_string())
 
-    bins = [-1, 7, 14, 30, 60, 10**6]
-    labels = ["0-7", "8-14", "15-30", "31-60", "60+"]
-    v["lead"] = pd.cut(v["days_until_ski_date"], bins=bins, labels=labels)
-    t = v.groupby("lead", observed=True)["repricing_flag"].agg(valid_pairs="size", changed_pairs="sum")
-    t["pct_changed"] = (t["changed_pairs"] / t["valid_pairs"] * 100).round(1)
+    v["lead"] = pd.cut(v["days_until_ski_date"], bins=LEAD_BINS, labels=LEAD_LABELS)
+    lead_tbl = v.groupby("lead", observed=True)["repricing_flag"].agg(valid_pairs="size", changed_pairs="sum")
+    lead_tbl["pct_changed"] = (lead_tbl["changed_pairs"] / lead_tbl["valid_pairs"] * 100).round(1)
     print("\nBy lead time (days until the ski date):")
-    print(t.to_string())
+    print(lead_tbl.to_string())
 
     print("\nDays between the two compared snapshots:")
     print(v["gap_days"].value_counts().sort_index().to_string())
     if (v["gap_days"] != 1).any():
         print("Note: the snapshots are not daily, each comparison covers 2 to 5 days.")
+
+    return lead_tbl
 
 
 # ---------------------------------------------------------------------------
@@ -182,7 +187,7 @@ def rq1(df):
           f"  ->  {pct(lo):.1f}% to {pct(hi):.1f}%")
 
     print("\nMean price by holiday exposure (none = 0, low = up to 0.33, high = above 0.33):")
-    bucket = pd.cut(df["holiday_exposure"], [-0.01, 0, 0.34, 1.01], labels=["none", "low", "high"])
+    bucket = pd.cut(df["holiday_exposure"], EXPOSURE_BINS, labels=EXPOSURE_LABELS)
     t = df.groupby(["resort", bucket], observed=True)["price_chf"].mean().unstack().round(2)
     t["high_vs_none_%"] = ((t["high"] / t["none"] - 1) * 100).round(1)
     print(t.to_string())
@@ -203,6 +208,7 @@ def rq1(df):
         ci = r.conf_int().loc[var]
         print(f"  {label:38s} {pct(r.params[var]):5.1f}%  [{pct(ci[0]):.1f}, {pct(ci[1]):.1f}]  n = {int(r.nobs)}")
 
+    return t
 
 def main():
     path = sys.argv[1] if len(sys.argv) > 1 else DEFAULT_PANEL
