@@ -41,7 +41,7 @@ RESORT_FLAG = {
 }
 
 # Main feeder cantons for day-trip demand.
-FEEDER_FLAGS = ["zh_hol", "be_hol", "ag_hol", "lu_hol", "sg_hol"]
+FEEDER_FLAGS = ["zh_hol", "be_hol", "ag_hol", "lu_hol", "sg_hol", "zg_hol"]
 
 
 # ---------------------------------------------------------------------------
@@ -64,5 +64,6 @@ def add_school_holidays(df: pd.DataFrame, flags_path: str = FLAGS_PATH) -> pd.Da
         rows = df["resort"] == resort
         df.loc[rows, "resort_hol"] = df.loc[rows, col]
 
-    df["feeder_hol_count"] = df[FEEDER_FLAGS].sum(axis=1)
+    df["holiday_exposure"] = df[FEEDER_FLAGS].mean(axis=1)
+    df["any_feeder_hol"] = df[FEEDER_FLAGS].max(axis=1)
     return df
